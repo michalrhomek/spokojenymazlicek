@@ -1,0 +1,380 @@
+/* 
+    Document   : Scratch Coupon custom CSS
+    Created on : July 22, 2014
+    Author     : Knowband
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+/*Added for Prestashop 1.5*/
+/*.vss_sc_ver15
+{
+	width: 100%;
+	color: #5A5A5A;
+}
+
+.vss-form-control-ver15
+{
+	height: 18px !important;
+	color: #5A5A5A !important;
+}
+
+.vss-action-btn-ver15:hover
+{
+	text-decoration: none;
+}
+
+#tab_lang_translator input
+{
+	color: #5A5A5A;
+}
+
+#tab_lang_translator .row
+{
+	background: none;
+}
+
+.vss_scparent_ver15 .span1
+{
+	margin-left: 0px;
+}
+
+.vss-resolution-ver15
+{
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+label
+{
+	float: none;
+	width: auto;
+}
+
+.table
+{
+	width: auto !important;
+}
+
+#content .table tbody > tr > th
+{
+	padding: 4px 6px;
+	line-height: 1;
+}
+
+#content a
+{
+    color: #000;
+    outline: 0pt;
+}
+
+.widget-body .checkboxinline
+{
+	display: inline-block;
+}*/
+/*Added for Prestashop 1.5 Moved*/
+
+root { 
+    display: block;
+}
+
+#velsof_supercheckout_container{
+    position:relative;
+}
+
+.navbar {
+    min-height:55px !important;
+}
+
+.navbar:before, .navbar:after {
+    display: table;
+    content: " ";
+}
+
+.navbar:after {
+    clear: both;
+}
+
+.navbar ul.pull-left {
+    float: left !important;
+    width: auto;
+    position: absolute;
+    list-style-type: none;
+    margin: 7px 0 0;
+    height:30px;
+}
+
+.themer_eyedropper{
+    background: url("../img/admin/eyedropper.png") no-repeat scroll 10px center transparent !important;
+    height: 30px;
+    width: 42px;
+    cursor:pointer;
+}
+
+.themer_btn{
+    margin-left: 12px;
+    width: 30px !important;
+    height: 30px;
+}
+
+.themer_btn:hover{
+    text-decoration:none !important;
+}
+
+/*Modified for Prestashop 1.5*/
+/*.topbuttons{
+  min-width:234px !important;
+  width:auto !important;
+}*/
+/*Modified for Prestashop 1.5 Moved*/
+
+.action-btn{
+    max-width:100px !important;
+    float:left;
+    margin-left:9px;
+}
+
+.velsof-footer-strip{
+    border-top:#ccc 1px solid;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.footer-line-1{
+    padding: 10px 0;
+}
+
+.footer-line-2{
+
+}
+
+.velsof-tab-heading{
+    /*margin-bottom:0 !important;*/
+    font-size: 18px !important;
+}
+
+.block{
+    padding: 0 10px;
+}
+
+
+table.form{
+    width:100%;
+}
+
+.settings{
+    padding: 10px;
+    width:75%;
+}
+
+.drag-col-2{
+    padding: 10px 0 !important;
+    width:35%;    
+}
+
+.col-pad-left{
+    padding-left:8% !important;
+}
+
+.settings input, .settings select{
+    margin-bottom:0 !important;
+}
+
+.input-row-margin-bottom{
+    margin-bottom:7px;
+}
+
+.text-width{
+    width: 97%;
+    color: #333 !important;
+    height:33px !important;
+}
+
+.color-input-width{
+    width:150px !important;
+}
+
+
+.column_text_align{
+    padding-top:24px !important;
+}
+
+.vertical_top_align{
+    vertical-align:top;
+    padding-top: 10px;
+}
+
+.small_text{
+    display: block;
+    font-size: 10px;
+    color: blue;
+}
+
+.no-bold{
+   font-weight: normal !important; 
+}
+.coupon_type_radio{
+    display:inline !important;
+    margin-top:0px;
+    height:auto;
+    margin-bottom:0;
+    min-height:auto;
+    font-weight: normal !important;
+    margin-right: 15px !important;
+}
+
+.coupon_type_radio div.radio{
+    display: inline !important;
+    height: auto;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;    
+}
+
+.widget-body label.checkboxinline{
+    margin:0 !important;
+}
+
+p.help{
+    color: #666;
+    font-size: 11px;
+}
+
+
+input[type=text], input[type=password], select, textarea{
+    margin:0;
+}
+
+
+.mandatory_notify{
+    color:#FF0000;
+    font-size:13px;
+}
+
+.asterisk{
+    color:#FF0000;
+}
+
+/*Modified for Prestashop 1.5*/
+.supercheckout_error{
+    color:#FF0000;
+    font-size:11px;
+}
+/*Modified for Prestashop 1.5*/
+
+.topbuttons .bootstrap-select, .topbuttons .bootstrap-select .dropdown-menu{
+    width:200px;
+}
+
+.topbuttons .bootstrap-select{
+    margin-bottom:0;
+}
+
+.topbuttons .bootstrap-select .dropdown-menu{
+    left:0px !important;
+}
+
+.table-bordered th:first-child, .table-bordered td:first-child{
+    border-left:none !important;
+}
+
+.ui-editRangeSlider{
+    border: 1px solid #DDD !important;
+    background: none repeat-x scroll 50% top #EEEEEE !important;
+}
+
+ul.layout_list_height{
+    min-height:150px;
+}
+
+#velsof-lang-trans-progress{
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    border: 0;
+}
+
+#velsof-lang-trans-body{
+    
+}
+
+#velsof-lang-trans-progress img{
+    left: 35%;
+    position: absolute;
+}
+
+.velsof-english{
+    width: 25%;
+    text-align: right !important;
+    font-family: 'arial';
+    font-size: 14px;
+    font-style: italic;
+    padding: 10px;
+}
+
+.translator_input_width{
+    width:90% !important;
+}
+.accdiv
+{
+height:auto !important;	
+overflow: hidden !important;
+text-align: center;
+}
+.accdiv img
+{
+	border: 1px solid black;
+}
+.accdiv pre
+{
+text-align: left;	
+}
+
+.colorizer-input
+{
+    width: 25% !important;
+    height: 35px !important;
+}
+
+.number-width{
+	
+    width: 20%! important;
+    color: #333 !important;
+    height:33px !important;
+}
+
+.accdiv-logo
+{
+height:auto !important;	
+overflow: hidden !important;
+background-color: white!important;
+margin-bottom:	7px!important;
+/*text-align: center;*/
+}
+
+.span-width
+{
+	height:33px !important;
+	width:7px!important;
+}
+
+.bootstrap #velsof_supercheckout_container .tab-content > form > .tab-pane,
+.bootstrap  .tab-content > form > .tab-pane{
+	display: none;
+}
+
+.tab-content > form > .tab-pane{
+	display: none;
+}
+
+
+.tab-content > form > .active{
+    display: block;
+}
+
+.bootstrap #velsof_supercheckout_container .tab-content> form >.active {
+    display: block;
+}
+

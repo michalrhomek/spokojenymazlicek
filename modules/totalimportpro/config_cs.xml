@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>totalimportpro</name>
+	<displayName><![CDATA[Total Import PRO]]></displayName>
+	<version><![CDATA[2.0.3]]></version>
+	<description><![CDATA[Import product data to the product catalog.]]></description>
+	<author><![CDATA[HostJars]]></author>
+	<tab><![CDATA[quick_bulk_update]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall? You will lose your Import Settings Profiles]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

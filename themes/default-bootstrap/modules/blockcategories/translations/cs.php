@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = 'Kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_8f0ed7c57fca428f7e3f8e64d2f00918'] = 'Blok kategorií';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_15a6f5841d9e4d7e62bec3319b4b7036'] = 'Přidá blok představující kategorie výrobků.';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_23e0d4ecc25de9b2777fdaca3e2f3193'] = 'Maximální hloubka vnoření: neplatné číslo.';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_0cf328636f0d607ac24a5c435866b94b'] = 'Dynamické HTML: neplatná volba.';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_f4f70727dc34561dfde1a3c529b6205c'] = 'Nastavení';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_1379a6b19242372c1f23cc9adedfcdd6'] = 'Hlavní kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_c6d333d07d30f7b4c31a94bbd510bf88'] = 'Vyberte, která kategorie bude v bloku zobrazena. Současná kategorie je ta, kterou návštěvník nyní prochází.';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_89b278a71f2be5f620307502326587a0'] = 'Původní kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_62381fc27e62649a16182a616de3f7ea'] = 'Vybraná kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_52b68aaa602d202c340d9e4e9157f276'] = 'Nadřazená kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_f225631c1a6f71e99cc779f6bbf06dd4'] = 'Aktuální kategorie, dokud nemá podkategorie, v případě že nadřazená kategorie aktuální kategorie je používána';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_19561e33450d1d3dfe6af08df5710dd0'] = 'Maximální hloubka vnoření';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_584d4e251b6f778eda9cfc2fc756b0b0'] = 'Nastavte maximální hloubku kategorie podúrovně zobrazené v tomto bloku (0 = nekonečno).';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = 'Rolovací';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_c10efcaa2a8ff4eedaa3538fff78eb53'] = 'Aktivujte dynamický (animovaný) režim pro kategorie podúrovně.';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Aktivováno';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_b9f5c797ebbf55adccdd8539a65a0241'] = 'Deaktivováno';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_6b46ae48421828d9973deec5fa9aa0c3'] = 'Řadit';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_54e4f98fb34254a6678f0795476811ed'] = 'Podle jména';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_883f0bd41a4fcee55680446ce7bec0d9'] = 'Podle pořadí';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_06f1ac65b0a6a548339a38b348e64d79'] = 'Řadit podle';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_e3cf5ac19407b1a62c6fccaff675a53b'] = 'Sestupně';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_cf3fb1ff52ea1eed3347ac5401ee7f0c'] = 'Vzestupně';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_5f73e737cedf8f4ccf880473a7823005'] = 'Číslo sloupce v patičce';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_c9cc8cce247e49bae79f15173ce97354'] = 'Uložit';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = 'Kategorie';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_admin_63239117f39d923b2e407620fc1fa5b5'] = 'V základní šabloně budou tyto obrázky zobrazeny ve vrchním horizontálním menu; ale pouze v případě, kdy je kategorie jednou z prvních úrovní (pro bližší info se podívejte do modulu Vrchní horizontální menu).';
+$_MODULE['<{blockcategories}default-bootstrap>blockcategories_admin_eea317348d82718d49f9a79189dc0f93'] = 'Nabídka náhledových obrázků';

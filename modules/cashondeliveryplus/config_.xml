@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cashondeliveryplus</name>
+	<displayName><![CDATA[Cash on delivery plus (COD+)]]></displayName>
+	<version><![CDATA[2.5.7]]></version>
+	<description><![CDATA[COD fee per carrier and zone]]></description>
+	<author><![CDATA[PrestaHost.eu]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

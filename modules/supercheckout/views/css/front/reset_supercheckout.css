@@ -1,0 +1,72 @@
+/* 
+    Document   : Scratch Coupon Popup Plugin CSS
+    Created on : June 23, 2014
+    Author     : Dhirender
+    Description: CSS for pop-up which appears on home page
+
+*/
+
+#velsof-scratch-main .velsof-innerpanel,
+#velsof-scratch-main .velsof-panel-seperator,
+#velsof-scratch-main .velsof-success-msg-div,
+.velsof-innerpanel .velsof-scratch-text,
+.velsof-scratch-text .velsof-scratch-close,
+.velsof-scratch-text .velsof-title2,
+.velsof-scratch-text .velsof-scratch-img-block,
+.velsof-scratch-img-block .velsof-scratch-border,
+#velsof-wscratchpad #velsof-stractchPad,
+#velsof-wscratchpad img, #velsof-wscratchpad canvas{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;    
+}
+
+#velsof_coupon_form .velsof-div-scratch-form,
+.velsof-div-scratch-form .velsof-title3,
+.velsof-div-scratch-form .velsof-title4,
+.velsof-div-scratch-form form,
+#vel-scratch-form div{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;    
+}
+
+.velsof-scratch-form-main input, .velsof-scratch-form-main select{
+    color:#000000;
+   line-height: none;
+   text-decoration: none;
+   text-indent: 0px;
+   text-transform : none;
+   hanging-punctuation: none;
+   text-align-last: none;
+   text-justify: none;
+   text-overflow: none;
+   text-shadow: none;
+   text-wrap: none;
+   margin: 0px;
+   padding: 0px;
+   list-style :none;
+   font-family :Arial,Helvetica,sans-serif;
+   font-size: 12px;
+   font-style: normal;
+   font-weight: normal;
+   border: none;
+   border-image: none;
+   border-radius: 0px;
+   max-width:none;
+   min-width:0px;
+   box-shadow: none;
+   background :none;
+   background-image: none;
+   background-color: none;
+   opacity: 1;
+   -moz-box-sizing: content-box;
+   -webkit-box-sizing: content-box;
+   box-sizing: content-box;
+    width: auto;    
+}

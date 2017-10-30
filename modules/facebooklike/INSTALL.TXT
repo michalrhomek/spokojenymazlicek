@@ -1,0 +1,4 @@
+In Prestshop 1.2.* and higher load the module directly from the Back Office Module Tab
+In Prestashop 1.1 Copy the content of this zip file to /modules/ on your server.
+Install from the Back Office.
+Click "Configure" next to the module and follow the instructions.

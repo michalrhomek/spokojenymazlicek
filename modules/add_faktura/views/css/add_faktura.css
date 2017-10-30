@@ -1,0 +1,263 @@
+
+/* Admin order edit dates */
+.row .row {
+	clear: left;
+}
+
+.bootstrap .row {
+	clear: left;
+}
+
+#date_updates,
+#slip_updates {
+	width: 32% !important;
+	min-width: 410px;
+	position: relative;
+	float: left;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-right: 1%;
+	border: solid 1px #d6e4f1;
+	background-color: #fff;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: rgba(0,0,0,0.1) 0 2px 0, #fff 0 0 0 3px inset;
+	box-shadow: rgba(0,0,0,0.1) 0 2px 0, #fff 0 0 0 3px inset;
+}
+
+#date_updates label,
+#slip_updates label {
+	float: left;
+	width: 200px;
+	padding: 0.2em 0.5em 0 0;
+	text-align: right;
+	font-weight: bold;
+}
+
+#date_updates input,
+#slip_updates input {
+	display: inline-block;
+}
+
+/* Tabs */
+#add_faktura #idTab1 ul {
+	margin-left: 26px!important;
+}
+
+#add_faktura #idTab1 ol {
+	margin-left: 26px!important;
+}
+
+#add_faktura .idTabs {
+	border: none;
+	margin: 0;
+	padding: 0;
+	color: #555555;
+}
+
+#add_faktura ul.idTabs li {
+	margin-right: 5px;
+	float: none;
+	display: inline-block;
+}
+
+#add_faktura .idTabs a {
+	background: #fafafa;
+	color: #909090;
+	border: 1px solid #c0c0c0;
+	font-size: 13px;
+	font-weight: 600;
+	position: relative;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	padding: 10px 20px;
+}
+
+#add_faktura .idTabs .selected {
+	background: #ffffff;
+	color: #444444;
+	border: none;
+	z-index: 1;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+	-moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+	-webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+}
+
+#add_faktura #more_info_shadow {
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+	-moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+	-webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.20);
+}
+
+#add_faktura #more_info_sheets {
+	position: relative;
+	z-index: 2;
+	margin-top: -2px;
+	padding: 30px;
+	background: #ffffff;
+	color: #555555;
+}
+
+#add_faktura #more_info_sheets ul,
+#add_faktura #more_info_sheets ol,
+#add_faktura #more_info_sheets dl {
+	margin: 0;
+}
+
+#add_faktura #more_info_sheets ul.bullet {
+	list-style-type: none;
+	margin-left: 16px;
+}
+
+#add_faktura #more_info_sheets input[type=text] {
+	width: 240px;
+}
+
+#add_faktura #more_info_sheets textarea {
+	width: 100%;
+	height: 90px;
+}
+
+#add_faktura .idTabs a,
+#add_faktura .product_accordion_title {
+	font-size: 1.33em;
+	line-height: 1.2em;
+	font-family: "Coustard";
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.mar_b2 {
+	margin: 1.67em auto;
+}
+
+#add_faktura .block_hidden_only_for_screen {
+	display: none;
+}
+
+#add_faktura .product_accordion {
+	padding: 0px 1.3em;
+}
+
+#add_faktura .common_tabs a {
+	display: block;
+	padding: 0.83em 1.67em;
+	text-decoration: none;
+}
+
+#add_faktura #more_info_tab_more_info {
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+/* administrace modulu */
+#add_faktura .advanced_left {
+	float: left;
+	width: 48%;
+	margin-bottom: 30px;
+}
+
+#add_faktura .advanced_right {
+	float: right;
+	width: 48%;
+	margin-bottom: 30px;
+}
+
+#add_faktura h3 {
+	display:inline-block;
+}
+
+#add_faktura input#fa_currency_on {
+	margin-left:50px;
+}
+
+#add_faktura .table {
+	width: 500px;
+}
+
+#add_faktura .center {
+	text-align: center;
+}
+
+#add_faktura .bank {
+	margin: 0 0 2px 0;
+	padding: 0;
+}
+
+#add_faktura .positive {
+	background-color: #F2F2E0;
+}
+
+#add_faktura .negative {
+	background-color: #FFFFF0;
+}
+
+#add_faktura fieldset.shop_inf {
+	float: left;
+	width: 60%;
+}
+
+#add_faktura fieldset.upd_translat {
+	width: 28%;
+	float: right;
+}
+
+#add_faktura fieldset.upd_translat label {
+	width: 150px;
+}
+
+#add_faktura fieldset.upd_translat .margin-form {
+	padding: 0 0 1em 0;
+}
+
+#add_faktura fieldset.load_stamp {
+	float: left;
+	width: 100%;
+	clear: both;
+}
+
+#add_faktura div.margin-form sup {
+	color: #F50307;
+	font-size: 14px;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+	top: 0.5em;
+}
+
+#add_faktura .licence {
+	display: inline-block;
+	min-width: 50%;
+	text-align: center;
+	width: 50%;
+	font-weight: bold;
+}
+
+#add_faktura .div_4 {
+	margin: 40px;
+}
+
+#add_faktura .div_4 li {
+	margin-left: 40px;
+}
+
+#add_faktura .div_4 p {
+	margin-top: 20px;
+}
+
+#add_faktura input.button_mk {
+	font-weight: bold;
+	height: 30px;
+	width: 200px;
+}
+
+#add_faktura .div_cl {
+	float: left;
+	width: 100%;
+	text-align: center;
+}

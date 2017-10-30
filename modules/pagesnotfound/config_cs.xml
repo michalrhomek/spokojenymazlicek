@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pagesnotfound</name>
+	<displayName><![CDATA[Str&aacute;nka nenalezena]]></displayName>
+	<version><![CDATA[1.5.1]]></version>
+	<description><![CDATA[Přid&aacute; z&aacute;ložku do statistik na n&aacute;stěnce, zobrazuje str&aacute;nku, kterou se snažil z&aacute;kazn&iacute;k zobrazit a nebyla nalezena. ]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

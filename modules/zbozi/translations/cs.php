@@ -1,0 +1,51 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cheque}prestashop>cheque_3e0deb2f1df28a6a13c9c18cc0e1c755'] = 'Šek';
+$_MODULE['<{cheque}prestashop>cheque_67061e9d57dec37dea3067df34829119'] = 'Modul pro příjem plateb šekem';
+$_MODULE['<{cheque}prestashop>cheque_fa214007826415a21a8456e3e09f999d'] = 'Jste si jisti, že chcete odstranit svoje nastavení tohoto modulu?';
+$_MODULE['<{cheque}prestashop>cheque_1c71e66a3588a1771042953e982a712c'] = 'Oba údaje musí být vyplněny';
+$_MODULE['<{cheque}prestashop>cheque_4402acab1c8f90dcf4a31dc96833bd86'] = 'Není k dispozici měna pro tento modul';
+$_MODULE['<{cheque}prestashop>cheque_a0048063a9be52816b7fa7f17aa3a2b7'] = 'Oba údaje musí být vyplněny.';
+$_MODULE['<{cheque}prestashop>cheque_4b5e20a521d31cc44b9690bd35eaacfc'] = 'Adresa je vyžadována.';
+$_MODULE['<{cheque}prestashop>cheque_e0aa021e21dddbd6d8cecec71e9cf564'] = 'OK';
+$_MODULE['<{cheque}prestashop>cheque_c888438d14855d7d96a2724ee9c306bd'] = 'Úspěšně aktualizováno';
+$_MODULE['<{cheque}prestashop>cheque_b33f9a50fd9a7bab5b0bfbd39b3b7183'] = 'Tento modul vám umožňuje přijímat platby šekem';
+$_MODULE['<{cheque}prestashop>cheque_b6af2d31afe71aedcceca73cc27fec29'] = 'Pokud si zákazník zvolí tento způsob platby, objednávka bude mít status \"Čeká se na zaplacení\".';
+$_MODULE['<{cheque}prestashop>cheque_3a711c4011f44eaaae908743c5b0c24c'] = 'Proto budeme muset ručně potvrdit obdržení šeku!';
+$_MODULE['<{cheque}prestashop>cheque_5dd532f0a63d89c5af0243b74732f63c'] = 'Kontaktní detaily';
+$_MODULE['<{cheque}prestashop>cheque_66f3e2ce6fe03d9a2864edd5a8b91596'] = 'Řádně vyplňte a zkontrolujte adresu pro dodání šeku od zákazníků';
+$_MODULE['<{cheque}prestashop>cheque_dd7bf230fde8d4836917806aff6a6b27'] = 'Adresa:';
+$_MODULE['<{cheque}prestashop>cheque_b17f3f4dcf653a5776792498a9b44d6a'] = 'Uložit';
+$_MODULE['<{cheque}prestashop>payment_a5967aadef7d23b5027d46e107faf6d0'] = 'Platba šekem';
+$_MODULE['<{cheque}prestashop>payment_a5967aadef7d23b5027d46e107faf6d0'] = 'Platba šekem';
+$_MODULE['<{cheque}prestashop>payment_30bee0e9549e97b2f65f8fd8fc5948be'] = 'Platba šekem (delší proces potvrzení platby).';
+$_MODULE['<{cheque}prestashop>payment_execution_83aa0e5744c86bf2d9d006319db14839'] = 'Platba pomocí šeku';
+$_MODULE['<{cheque}prestashop>payment_execution_f1d3b424cd68795ecaa552883759aceb'] = 'Rekapitulace';
+$_MODULE['<{cheque}prestashop>payment_execution_879f6b8877752685a966564d072f498f'] = 'Váš košík je prázdný.';
+$_MODULE['<{cheque}prestashop>payment_execution_83aa0e5744c86bf2d9d006319db14839'] = 'Platba pomocí šeku';
+$_MODULE['<{cheque}prestashop>payment_execution_c42b053ef8c36f950ff37a0897d3a963'] = 'šek';
+$_MODULE['<{cheque}prestashop>payment_execution_6b3ef039e038a131d05bcd208a1b9799'] = 'Vybrali jste si platbu pomocí šeku.';
+$_MODULE['<{cheque}prestashop>payment_execution_c884ed19483d45970c5bf23a681e2dd2'] = 'Zde je stručný přehled Vaší objednávky:';
+$_MODULE['<{cheque}prestashop>payment_execution_e2867a925cba382f1436d1834bb52a1c'] = 'Celková částka Vaší objednávky je';
+$_MODULE['<{cheque}prestashop>payment_execution_2f1585fcd1150d6a7d6edbe3468a63f8'] = 'Přijímáme více měn pro platbu šekem.';
+$_MODULE['<{cheque}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'Děkujeme, že jste si vybrali z následujících:';
+$_MODULE['<{cheque}prestashop>payment_execution_c4309902a6192747d56f3539941acc49'] = 'Akceptujete následující měnu :';
+$_MODULE['<{cheque}prestashop>payment_execution_504be670f962fa7630863857a0085632'] = 'Podrobnosti o platbě budou zveřejněny na následující stránce.';
+$_MODULE['<{cheque}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Objednávku potvrďte kliknutím na \"Potvrdit objednávku\"';
+$_MODULE['<{cheque}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Zaplatit jiným způsobem';
+$_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Potvrdit objednávku';
+$_MODULE['<{cheque}prestashop>payment_return_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Vaše objednávka je na webu';
+$_MODULE['<{cheque}prestashop>payment_return_75fbf512d744977d62599cc3f0ae2bb4'] = 'již řádně zaznamenána.';
+$_MODULE['<{cheque}prestashop>payment_return_e4ee6e0eac588fe2611cc6fd195828af'] = 'Předem děkujeme za zaslání šeku s následujícími údaji:';
+$_MODULE['<{cheque}prestashop>payment_return_a35abd2d31d9e1da82599bc67e166506'] = 'Částka k uhrazení:';
+$_MODULE['<{cheque}prestashop>payment_return_c5a6826dd3b059e32a3fa1ae029179de'] = 'Adresa:';
+$_MODULE['<{cheque}prestashop>payment_return_13f4ac6dc75b5829499cb9cf8b733071'] = 'Na Váš email budou odeslány všechny potřebné informace.';
+$_MODULE['<{cheque}prestashop>payment_return_ffd2478830ca2f519f7fe7ee259d4b96'] = 'Vaše objednávka bude odeslána ihned po obdržení Vaší platby.';
+$_MODULE['<{cheque}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Pro dotazy nebo informace kontaktujte prosím naši';
+$_MODULE['<{cheque}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'zákaznickou podporu';
+$_MODULE['<{cheque}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Máte-li nějaké potíže s Vaší objednávkou. Kontaktujte prosím naší zákaznickou podporu.';
+$_MODULE['<{cheque}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'zákaznickou podporu';
+
+?>

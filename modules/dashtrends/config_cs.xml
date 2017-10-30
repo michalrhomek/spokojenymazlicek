@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>dashtrends</name>
+	<displayName><![CDATA[Trendy n&aacute;stěnky]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Přid&aacute; blok s grafickou reprezentac&iacute; v&yacute;voje obchodu podle vybran&yacute;ch kl&iacute;čov&yacute;ch dat.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[dashboard]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

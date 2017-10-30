@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = 'Průměrné hodnocení';
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_a71a0229e164fecdcde3c4e0f40473fa'] = 'Číst recenze uživatele';
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_7966126831926ad29c528b239d69f855'] = 'Napište recenzi produktu';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_186c30cab59f6b64a453778330d4bbf0'] = 'Nový komentář';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_39630ad6ee79b8653ea89194cdb45bec'] = 'Je pro Vás recenze užitečná?';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_a6105c0a611b41b08f1209506350279e'] = 'ano';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_7fa3b767c460b54a2be4d49030b349c7'] = 'ne';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_7966126831926ad29c528b239d69f855'] = 'Napište svou recenzi';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_fbe2625bf3673be380d043a4bf873f28'] = 'Buďte první, kdo přidá recenzi';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_08c7d6f84301ee7d0aab0a5f67edc419'] = 'Zatím zde není žádné hodnocení';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_45dacce3e2bc0f7bebde95098b9326a8'] = 'Nadpis Vaší recenze';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_3421ad00975533fbbd5f17d2cb568125'] = 'Vaše recenze';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_221e705c06e231636fdbccfdd14f4d5c'] = 'Vaše jméno';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_70397c4b252a5168c5ec003931cea215'] = 'Vyžadovaná pole';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_94966d90747b97d1f0f206c98a8b1ac3'] = 'Odeslat';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_e81c4e4f2b7b93b481e13a8553c2ae1b'] = 'nebo';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_ea4788705e6873b424c65e91c2846b19'] = 'Zavřít';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_reviews_e32b7983d3bf98a65e3e96c393867dfa'] = '%s Hodnocení';
+$_MODULE['<{productcomments}default-bootstrap>tab_8413c683b4b27cc3f4dbd4c90329d8ba'] = 'Komentáře';
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_dda9c06f33071c9b6fc237ee164109d8'] = 'Hodnocení';
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_899139b5174d8d7a6e38a0360008a695'] = 'Číst recenze';
+$_MODULE['<{productcomments}default-bootstrap>productcomments-extra_c31732fda0c6f01c446db7163b214de4'] = 'Napsat recenzi';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_93cba07454f06a4a960172bbd6e2a435'] = 'Ano';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Ne';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_c565011debb8e2812ef12853eb6a38a9'] = 'Napište svou vlastní recenzi!';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_f444678e4f3575d59b32a858630741fd'] = 'Buďte první, kdo přidá recenzi k tomuto produktu!';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_c31732fda0c6f01c446db7163b214de4'] = 'Napsat recenzi';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_51ec9bf4aaeab1b25bb57f9f8d4de557'] = 'Nadpis:';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_240f3031f25601fa128bd4e15f0a37de'] = 'Komentář:';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_a2ed44743411cf8b80e397448fce104c'] = 'Vaše jméno:';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_a4d3b161ce1309df1c4e25df28694b7b'] = 'Odeslat recenzi';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_4e3ee0f5bd8f527715fb0776741b9754'] = 'Vaše hodnocení bylo přidáno. Nyní vyčkejte na jeho schválení prodávajícím.';
+$_MODULE['<{productcomments}default-bootstrap>productcomments_reviews_d844ad9202d0de8442498775ba6ef819'] = 'Hodnocení';
+$_MODULE['<{productcomments}default-bootstrap>tab_34e80a799d144cfe4af46815e103f017'] = 'Recenze';

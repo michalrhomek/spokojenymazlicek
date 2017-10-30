@@ -1,0 +1,41 @@
+.topbuttons{
+  min-width:234px !important;
+  width:auto !important;
+}
+
+#content {
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 0 204px;
+    background: #ffffff;
+    min-width: 320px;
+    min-height: 700px;
+    padding: 0 0 10px;
+}
+
+#content > .table {
+    border-left: none;
+    border-right: none;
+}
+
+.topbuttons
+{
+    /*    margin-left: 469px;*/
+    /*    margin-right:50px;*/
+    padding-top: 5px;
+    float:right;
+    width: 500px;
+
+}
+
+.accordian_container h3
+{
+	border: 1px solid #ccc !important;
+	font-size: 16px !important;
+	line-height: 1.2em !important; 
+	height: 37px !important;
+	text-transform: none !important;
+	padding: 8px 30px !important;
+	margin: 0px !important;
+	margin-bottom: 2px !important;
+}

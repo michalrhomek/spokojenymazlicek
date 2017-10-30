@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>zbozi</name>
+	<displayName><![CDATA[Zboží s variantami produktů]]></displayName>
+	<version><![CDATA[3.41]]></version>
+	<description><![CDATA[Modul pro export zboží do služby  zbozi.cz, heureka.cz a dal&scaron;&iacute;ch]]></description>
+	<author><![CDATA[PrestaHost.eu]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall>Odinstalovat ?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

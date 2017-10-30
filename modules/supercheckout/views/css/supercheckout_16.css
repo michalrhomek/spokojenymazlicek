@@ -1,0 +1,44 @@
+#supercheckout-fieldset .supercheckout-threecolumns input[type='text'],
+#supercheckout-fieldset .supercheckout-threecolumns input[type='password'],
+#supercheckout-fieldset .supercheckout-threecolumns textarea,
+#supercheckout-fieldset .supercheckout-threecolumns select,.return-list,
+#supercheckout-fieldset .account-transaction table.list {
+    min-height: 32px !important;
+}
+
+@media (min-width: 1024px){
+    #velsof_payment_dialog #velsof_dialog_content #velsof_payment_container{
+        width: 70%;
+    }
+}
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .error-form {
+	border: 1px solid #f13340 !important;
+    color: #f13340 !important;
+    background: url(../img/front/form-error.png) 98% 8px no-repeat #fff1f2 !important;
+}
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .ok-form {
+	border: 1px solid #46a74e !important;
+    color: #35b33f !important;
+    background: url(../img/front/form-ok.png) 98% 8px no-repeat #ddf9e1 !important;
+}
+
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .dob-error-form {
+	border: 1px solid #f13340 !important;
+    /*color: #f13340 !important;*/
+    background: 98% 5px no-repeat #fff1f2 !important;
+}
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .dob-ok-form {
+	border: 1px solid #46a74e !important;
+    /*color: #35b33f !important;*/
+    background: 98% 5px no-repeat #ddf9e1 !important;
+}
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .dob-div-error-form {
+/*	border: 1px solid #f13340 !important;*/
+    /*color: #f13340 !important;*/
+    background: url(../img/front/form-error.png) 96% 8px no-repeat  !important;
+}
+#velsof_supercheckout_form #supercheckout-fieldset .supercheckout-threecolumns .dob-div-ok-form {
+/*	border: 1px solid #46a74e !important;*/
+    /*color: #35b33f !important;*/
+    background: url(../img/front/form-ok.png) 96% 8px no-repeat  !important;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statsequipment</name>
+	<displayName><![CDATA[Prohl&iacute;žeče a operačn&iacute; syst&eacute;my]]></displayName>
+	<version><![CDATA[1.3.1]]></version>
+	<description><![CDATA[Přid&aacute; z&aacute;ložky obsahuj&iacute;c&iacute; grafy o webov&yacute;ch prohl&iacute;žeč&iacute;ch a operačn&iacute;ch syst&eacute;mech do statistik.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

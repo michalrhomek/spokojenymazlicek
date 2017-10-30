@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>onboarding</name>
+	<displayName><![CDATA[N&aacute;zorn&eacute;]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[N&aacute;borov&yacute; modul v&iacute;t&aacute; uživatele, kteř&iacute; poprv&eacute; nav&scaron;t&iacute;v&iacute; svůj back office; prostřednictv&iacute;m mal&eacute;ho hrav&eacute;ho prostřed&iacute; uk&aacute;že uživateli, jak spustit jeho vlastn&iacute; obchod použit&iacute;m p&aacute;r jednoduch&yacute;ch kroků.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

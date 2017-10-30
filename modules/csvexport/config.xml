@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>csvexport</name>
+	<displayName><![CDATA[Export in CSV]]></displayName>
+	<version><![CDATA[0.3]]></version>
+	<description><![CDATA[Export your content in CSV format suitable for import to other Prestashop website.]]></description>
+	<author><![CDATA[PrestaHost.cz]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

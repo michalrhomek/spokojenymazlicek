@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SHOP>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Šampon PetEsthé pro krátkosrsté psy a se střednědlouhou srstí]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento šampon propůjčí srsti jemnost, vláčnost a vlhkost. Je zhotoven na přírodní bázi rostlinného tuku, nechá se lehce smýt. Chrání pokožku i přírodu.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jemně čistí srst do hloubky a vyživuje jí. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hlavní obsažená látka, ze které je šampon připraven, se používá i na výrobu dětských šamponů, ta chrání jemnou psí&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;pokožku, nechá se&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;lehce&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;smýt.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Olej z Pšeničných klíčků , mořské kolagen PPT, solí z Mrtvého moře, propolis (složky extrahované z úlů včel), směsi rostlinných extraktů (potočnice, lopuchu ,mydlice lékařské ,  břečťanu, šalvěje ,citronu).&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Sampon-PetEsthe-pro-kratkosrste-psy-a-se-strednedlouhou-srsti-d1.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_1sampony_pro_psy_petesthe_2.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Šampon PetEsthé pro dlouhosrsté psy]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento šampon propůjčí srsti jemnost, vláčnost a vlhkost.Posiluje dlouhou srst, srst &lt;br /&gt; Je zhotoven na přírodní bázi rostlinného tuku, nechá se lehce smýt, chrání pokožku i přírodu. Profesionální šampon na posílení dlouhé srsti, která získá krásný uhlazený vzhled. Je lesklá s přirozeným pohybem.  Série Mild Professional obsahují přírodní látky, které se používají například i k výrobě dětských šamponů.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Olej z pšeničných klíčků, trimethylglycine (hydratační rostlinné složky), olej z macadamový ořechů(změkčovací složky), solí z Mrtvého moře, propolis (složky extrahované z úlů včel), směs rostlinných výtažků (aloe ,sladkovodní řasy Chlorella, , klematis, tužebníku ,mořské řasy, přesličky rolní ,břečťanu).&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Sampon-PetEsthe-pro-dlouhosrste-psy-d2.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2sampony_pro_psy_petesthe_1.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Šampon PetEsthé pro psy s bílou srstí]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chrání srst.&lt;br /&gt; Je zhotoven na přírodní bázi rostlinného tuku, a hlavní obsažená látka, ze které je šampon připraven, se používá i na výrobu dětských šamponů, ta chrání jemnou psí pokožku, nechá se lehce smýt. Díky exklusivnímu složení tento šampon přirozeně podporuje vybělení srsti. Je velmi šetrný a vhodný i k častému použití.Přírodní látky jako například guaiazulene ( olej např. heřmánku), výtažek z kořene kamejky rolní, geranien modrá) podporují a zvýrazňují jasnou bělost srsti.&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;br /&gt; Olej z pšeničních klíčků, sůl z Mrtvého moře, propolis (složky extrahované z úlů včel), kořene kamejky, Gardenia modrá,směsi rostlinných extraktů (mořské řasy,aloe, jírovec, hroznových listů,z vilínu, břečťanu ,třezalky).&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Sampon-PetEsthe-pro-psy-s-bilou-srsti-d3.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_3sampony_pro_psy_petesthe_4.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Šampon PetEsthé pro štěňata]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je zhotoven na přírodní bázi rostlinného tuku, a hlavní obsažená látka, ze které je šampon připraven, se používá i na výrobu dětských šamponů, ta chrání jemnou psí pokožku, nechá se lehce smýt. Tento exklusivní šampon je velmi šetrný a nedráždivý k jemné štěněčí pokožce.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;br /&gt; Olej z pšeničných klíčků, jojobový olej, sůl z Mrtvého moře, propolis (složky extrahované z úlů včel), směsi rostlinných extraktů (extrakt z kořene šišáku ,heřmánku, třezalky měsíčku, lípy Kukuřičných květu , heřmánku&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Sampon-PetEsthe-pro-stenata-d4.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_4stene.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Šampon PetEsthé Charcoal s výtažkem dřevěného uhlí]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Velmi šetrný šampon unikátní svým složením. &lt;br /&gt; Obsahuje černé uhlí z japonského bambusu. Tato přísada působí na srst psů a koček detoxikačně, odstraňuje pachy a pigmenty ze srsti, hloubkově vyživuje srst i pokožku. Černé uhlí na sebe zároveň váže nečistoty a zanechává na srsti film, který zabraňuje opětovnému znečištění srsti.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;dřevěné uhlí z japonského bambusu, sůl z Mrtvého moře, propolis, olej z pšeničných klíčků, extrakt ze zeleného čaje, extrakt z lomikámene, extrakt z korkovníku japonského, extrakt z mišpule japonské, extrakt ze zeměžluči lékařské, extrakt z toulně srdčité.&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Sampon-PetEsthe-Charcoal-s-vytazkem-dreveneho-uhli-d5.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5sampony_pro_psy_petesthe_6.jpg</IMGURL>
+<PRICE>421</PRICE>
+<PRICE_VAT>510</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní šampon pro všechna plemena  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Šampon obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže Tento jemný, lehce kyselý šampon  je pro všechna plemena a citlivé jedince. Tento exklusivní šampon je můžete také použít pro  koupele před procedurami jako jsou: aromakoupele,aromatherapie,aromamasáže&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;br /&gt; Bahno z různých oblastí světa, soli z Mrtvého moře, propolis (složky extrahované z úlů včel), jojobový olej, mořský kolagen, extrakt z arniky, extrakt z bílé kopřivy,  extrakt z řeřichy, extrakt  z kořene lopuchu, extract z břečťanu, extract z česneku , extract z borovice , extrakt z rozmarýnu, heřmánek římský&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-sampon-pro-vsechna-plemena-350ml-d6.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_6kosmetika_pro_psy_petesthe_1--1.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní šampon pro psy s bílou srstí  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Šampon obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže. Tento jemný, lehce kyselý šampon je určen pro psy s bílou srstí. Nejšetrnějším způsobem podporuje vybělení srsti.Tento exklusivní šampon je určen pro koupele před procedurami jako je aromakoupele,aromatherapie,aromamasáže.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jemná vybělující složka, mořské bahno, sůl z Mrtvého moře, propolis, jojobový olej, výtažky z měsíčku lékařského, mořský kolagen, extrakt z arniky, extrakt z kaštanu, extrakt z vinné révy, extrakt z habru obecného, extrakt z břečťanu.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-sampon-pro-psy-s-bilou-srsti-350ml-d7.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_7kosmetika_pro_psy_petesthe_2.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní šampon pro štěňata  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Šampon obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže. Tento jemný, lehce kyselý šampon je zvláště šetrný ke kůži. obsahuje jemné, pro pokožku příjemné složky, které citlivě posilují srst a zachovávají přirozenou vlhkost jemné pokožky štěněte. Tento exklusivní šampon je určen pro koupele před procedurami jako jsou   aromakoupele, aromatherapie, aromamasáže.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Obsahuje velmi šetrné přísady na ochranu štěněcí kůže .Bahno z různých oblastí světa, soli z Mrtvého moře, propolis (složky extrahované z úlů včel), jojobový olej, mořský kolagen, extrakt z arniky, výtažek z okurky, extrakt z břečťanu , extrakt z černého bezu, extrakt ze slézu ,trahok lékařský&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-sampon-pro-stenata-350ml-d8.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_8kosmetika_pro_psy_petesthe_3.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní šampon pro psí seniory  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speciální péče&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bahenní šampon PetEsthé pro starší psy od 7 let&lt;br /&gt; HYPOALERGENNÍ šampon určený pro péči o srst psích seniorů. Je zhotoven na rostlinném základě, obsahuje rostlinné aminokyseliny z cukrové třtiny a tapioku (rostlinná přísada podobná bramborovému škrobu). Dále obsahuje hlubinné mořské bahno, které velmi intenzivně vyživuje pokožku psa a odstraňuje pachy, sůl z Mrtvého moře, propolis a další blahodárné rostlinné výtažky.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mořské bahno, sůl z Mrtvého moře, propolis, aminokyseliny ( trimethylglycine, serine, glycine, L-glutamic acid, DL-alanin,L-lysine solution, L-arginine, DL-threonine, L-proline, sodium DL-pyrrolidonecarboxyl solution), výtažek z květu broskvoně, extrakt z&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;arniky, extrakt z okurky, extrakt z břečťanu, extrakt z černého bezu, extrakt z ibišku.&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-sampon-pro-psi-seniory-350ml-d9.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_9kosmetika_pro_psy_petesthe_8.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE>4376</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní šampon pro kočky  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span&gt;Šampon obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže. Tento jemný, lehce kyselý šampon je určen  pro kočky, šetrně čistí srst do hloubky. Je také vhodný  pro koťátka.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;br /&gt; Bahno z různých oblastí světa, sůl z Mrtvého moře, propolis,jojobový olej,mořský kollagen,kompozice rostl.výtažku (přesličky polní,chmelu,borovice,citronu a rozmarýnu)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-sampon-pro-kocky-350ml-d10.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_10kosmetika_pro_psy_petesthe_4.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní kondicionér pro zvětšení objemu  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Tento kondicionér obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže. Kondicionér přirozeně nezatěžuje srst  a dodává  jí objem. Srst se bude snadno rozčesávat a získá přirozenou vitalitu, sílu a lesk. Vhodná pro plemana bišonek, pudl… Tento kondicioner je také vhodný k zábalům.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;Složeni:&lt;/span&gt;&lt;br /&gt; Látky, které umožní zvýšit objemovou kvalitu srsti, Látky, které zabraňují statickému elektřině v srsti a složky pro posílení srsti -&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span&gt;bahno&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;z různých oblastí světa,sůl z Mrtvého moře,propolis,skvalen heřmánek pravý, extrakt z třezalky,extrakt z měsíčku,extrakt z lípy,extrakt z kukuřičných květů a heřmánek římský. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-kondicioner-pro-zvetseni-objemu-350ml-d11.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_11kosmetika_pro_psy_petesthe_5.jpg</IMGURL>
+<PRICE>421</PRICE>
+<PRICE_VAT>510</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní kondicionér pro zmenšení objemu  350ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Tento výrobek obsahuje přísady s bahenními minerály, které viditelně zlepšují stav srsti a kůže. Uhlazuje a změkčuje srst a zmenšuje její objem. Srst působí elegantně, bude se snadno rozčesávat, získá vitalitu a lesk.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Vhodný pro plemena se splývavou srstí  nebo pro nepodajnou rozlétanou a narušenou srst.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;br /&gt; Látky pro snížení objemu srsti, látky, ktere zabraňují statickému nabití srsti a látky pro posílení srsti -&lt;span&gt; &lt;/span&gt;bahno&lt;span&gt; &lt;/span&gt;z různých oblastí světa,sůl z&lt;span&gt; &lt;/span&gt;&lt;span&gt;Mrtvého&lt;/span&gt;&lt;span&gt; &lt;/span&gt;moře, propolis, kompozici rost. výtažku (klematis, tužebník jilmový, mořské chaluhy ,přesličky polní, břečťanu)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-kondicioner-pro-zmenseni-objemu-350ml-d12.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_12kosmetika_pro_psy_petesthe_5.jpg</IMGURL>
+<PRICE>421</PRICE>
+<PRICE_VAT>510</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní kondicionér  pro psí seniory  250ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;strong&gt;Mořské bahno, sůl z Mrtvého moře, propolis, aminokyseliny ( trimethylglycine, serine, glycine, L-glutamic acid, DL-alanin, L-lysine solution, L-arginine, DL-threonine, L-proline, sodium DLpyrrolidonecarboxyl solution, výtažek z květu broskvoně, extrakt z arniky, extrakt z okurky, extrakt z břečťanu, extrakt z černého bezu, extrakt z ibišku, extrakt z trahoku lékařského&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-kondicioner-pro-psi-seniory-250ml-d13.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_13kondi.jpg</IMGURL>
+<PRICE>405</PRICE>
+<PRICE_VAT>490</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE>4377</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bahenní kondicionér univerzální (pro všechna plemena)]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Kondicionér - lázeňské bahno je univerzální kondicionér k použití pro psy všech plemen od štěňat až po staré psy. Bahenní kondicionér je určen pro profesionální salony an veškeré lázeňské procedury, ale také na běžnou domácí péči. Obsahuje vyváženou směs bahenních přísad z různých oblastí světa, které účinně pohlcují odpadový materiál a špínu držící se v pórech kůže. Vyživuje kůži a chrání srst před vnějšímy vlivy a usnadňuje její rozčesávání a taktéž zamezuje dalšímu zacuchávání.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Obsahuje bahno z různých oblastí světa, sůl z mrtvého moře, propolis získané z úlů, olej z pšeničných klíčků, olej z šípků, extrakty z rostlin ( šalvěje heřmánku, hřebíčku, proskurníku, mateřídoušky, balsam z máty, extrakt jehlice, přesličku, celer a podběl )&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bahenni-kondicioner-univerzalni-pro-vsechna-plemena-d14.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_14spa-kond.jpg</IMGURL>
+<PRICE>446</PRICE>
+<PRICE_VAT>540</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Kondicionér pro psy a kočky]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Složení:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Olej z pšeničných klíčků, tokoferol patří mezi vitamíny rozpustné v tucích a v organism, slouží jako důležitý antioxidant, chrání buněčné membrány před poškozením volnými radikály, ochraňují štěněcí srst., avokádový olej, šípkový olej, směsi rostlinných extraktů (z česneku, arniky, výtažek okurky,břečťanu, černého bezu, slézu ,trahoku lékařského).&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Kondicioner-pro-psy-a-kocky-d16.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_16sampony_pro_psy_petesthe_5.jpg</IMGURL>
+<PRICE>421</PRICE>
+<PRICE_VAT>510</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PRE UP finální gel na zvětšení objemu srsti 170ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Stačí vetřít malé množství gelu do srsti a ihned získáme volume efekt. Vhodný pro typ bišonek, pudl a atd., kde požadujeme nadýchaný vzhled.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Tento srsti prospěšný posilující prostředek zanechá srst vzdušnou, nelepí a nemastí srst.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PRE-UP-finalni-gel-na-zvetseni-objemu-srsti-170ml-d17.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_17112-large_default.jpg</IMGURL>
+<PRICE>488</PRICE>
+<PRICE_VAT>590</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PRE DOWN finální gel na zmenšení objemu srsti 170ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Stačí vetřít malé množství gelu do srsti a ihned získáme efektivní uhlazený vzhled. Srst se stává hladká, lesklá s přirozeným pohybem. Posilující prostředek pro zdravou srst.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PRE-DOWN-finalni-gel-na-zmenseni-objemu-srsti-170ml-d18.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_18113-large_default.jpg</IMGURL>
+<PRICE>488</PRICE>
+<PRICE_VAT>590</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bezoplachový šampon - pěna  180ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;VÍCE INFORMACÍ&lt;/h3&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;&lt;span&gt;Nastříkáme na špinavou srst,  po chvilce otřete suchým ručníkem. Během chvilky odstraní zápach a nečistoty, vhodný pro vyčištění srsti po procházce. U štěňátek nebo starých či nemocných zvířátek.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bezoplachovy-sampon-pena-180ml-d19.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_19116-large_default.jpg</IMGURL>
+<PRICE>455</PRICE>
+<PRICE_VAT>550</PRICE_VAT>
+<DELIVERY_DATE>3</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Přípravek k odstranění cucků a knotů v srsti 140ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;Před šamponováním naneste na postižená místa a nechte chvilku působit. Poté kartáčkem vyčesejte zacuchanou srst.&lt;/h3&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Pripravek-k-odstraneni-cucku-a-knotu-v-srsti-140ml-d20.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_20115-large_default.jpg</IMGURL>
+<PRICE>463</PRICE>
+<PRICE_VAT>560</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel - růže  15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;VÍCE INFORMACÍ&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Relaxační mořská sůl s bylinným extraktem růže je určená pro profesionální použití při aromaterapii - koupeli zvířecího mazlíčka.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Velice příjemná květinová vůně působí proti stresu a napětí, uvolňuje a uklidňuje mysl.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-ruze-15g-d21.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2165-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel - heřmánek  15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;VÍCE INFORMACÍ&lt;/h3&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;Bylinná minerální koupel HEŘMÁNEK obsahuje přírodní extrakt z heřmánku spolu s ostatními složkami, vyživuje srst a zjemňuje pokožku. Má velmi příjemný uklidňující a relaxační efekt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span&gt;Relaxační mořská sůl s bylinným extraktem heřmánku je určená pro profesionální použití při aromatherapii - koupeli zvířecího &lt;/span&gt;&lt;span&gt;mazlíčka&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-hermanek-15g-d22.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2266-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel - levandule  15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;VÍCE INFORMACÍ&lt;/h3&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;Bylinná minerální koupel LEVANDULE obsahuje přírodní extrakt z levandule. Příjemná vůně tiší nervózní mysl.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span&gt;Relaxační mořská sůl s bylinným extraktem z levandule je určená pro profesionální použití při aromatherapii - koupeli zvířecího mazlíčka.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-levandule-15g-d23.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2365-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel -vanilka a kokos  15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;h3 class=&quot;page-product-heading&quot;&gt;VÍCE INFORMACÍ&lt;/h3&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;Bylinná minerální koupel z KOKOSU a VANILKY obsahuje kokosový olej a výtažek z vanilkového lusku. Její sladká vůně navozuje hlubokou relaxaci a uvolnění.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Relaxační mořská sůl s bylinným extraktem z vanilky a kokosu je určená pro profesionální použití při aromatherapii - koupeli zvířecího mazlíčka.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-vanilka-a-kokos-15g-d24.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2468-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel - máta a rozmarýn  15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 1.17em;&quot;&gt;VÍCE INFORMACÍ&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;Bylinná minerální koupel MÁTA a ROZMARÝN obsahuje přírodní extrakt máty peprné a rozmarýnu. Tato koupel osvěžuje mysl i tělo po namáhavém výkonu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Relaxační mořská sůl s bylinným extraktem z máty a rozmarýnu je určená pro profesionální použití při aromatherapii - koupeli zvířecího mazlíčka.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-mata-a-rozmaryn-15g-d25.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2565-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[PetEsthé Aromakoupel - sléz 15g]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 1.17em;&quot;&gt;VÍCE INFORMACÍ&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;rte&quot;&gt;
+&lt;p&gt;Bylinná minerální koupel SLÉZ PIŽMOVÝ obsahuje přírodní extrakt z orientálního slézu. Další přísadou je výtažek z listů broskvoně. Působí relaxačně, obohacuje a zklidňuje mysl a navozuje velmi příjemné &lt;span&gt;pocity&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Relaxační mořská sůl s bylinným extraktem ze slézu pižmového je určená pro profesionální použití při aromatherapii - koupeli zvířecího mazlíčka.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/PetEsthe-Aromakoupel-slez-15g-d26.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_2665-large_default.jpg</IMGURL>
+<PRICE>240</PRICE>
+<PRICE_VAT>290</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Aroma koupele PetEsthé</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bouda Elegance]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Materiál impregnovaná látka. Bouda je vyztužená molitanem. Možnost umístění vlastní výšivky za příplatek 173 kč.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bouda-Elegance-d27.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_27boudaeleganceD96-260x195.jpg</IMGURL>
+<PRICE>512</PRICE>
+<PRICE_VAT>619</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[IGLÚ DOTTY]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Oboustranná varianta polštářku&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Iglú je skládací&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Polštářek jako taška pro snadný transport&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Rozměry: 38x38 cm&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/IGLU-DOTTY-d28.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_28igludotty-detail1-260x195.jpg</IMGURL>
+<PRICE>568</PRICE>
+<PRICE_VAT>687</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bouda DOTTY]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Oboustranná varianta polštářku&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Odnímatelná střecha&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Rozměry: 44x41 cm, 52x60 cm, 65x80 cm&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bouda-DOTTY-d29.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_29boudadotty-detail-120x90.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[ARMANI DE LUXE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Materiál koženka&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Vyjímatelný polštářek pro snadnou údržbu&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Polštář je oboustranný, letní a zimní varianta&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výplň duté vlákno&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Rozměry: 59x50 cm&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/ARMANI-DE-LUXE-d30.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_30armanideluxe_zebra-260x195.jpg</IMGURL>
+<PRICE>612</PRICE>
+<PRICE_VAT>741</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[SUPER DOTTY]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Oboustranná varianta polštářku. Materiál impregnovaná látka / coral fleece. Výplň polštářku duté vlákno, Dno z materiálu s PVC nátěrem. Okraje plněné dutým vláknem.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výrobce: I love pets&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/SUPER-DOTTY-d31.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_31superdottyD100-260x195.jpg</IMGURL>
+<PRICE>540</PRICE>
+<PRICE_VAT>654</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Ortopedická matrace]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Zdravotní ortopedická matrace&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Plněný PE kuličkami&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Ideální pro psy s problémy pohybového aparátu&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Vysoká výhřevnost, skvělý proti otlakům&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výborná údržba, celý pratelný&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Samostatný vnitřní polštář + potah&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Rozměry: 40x60 cm, 50x70 cm, 60x90 cm, 70x100 cm, 80x110 cm, 85x120 cm, 100x130 cm, 130x160 cm&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výrobce: I love pets&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Ortopedicka-matrace-d32.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_32ortmatD00b-120x90.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Ortopedická matrace DE LUXE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výplň pěna s tvarovou pamětí&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Dokonale přizpůsobivá tělu&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Ideální pro psy s problémy pohybového aparátu&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Skvělá proti otlakům&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Vysoká výhřevnost&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Potah samostatně pratelný. Dno z materiálu s PVC zátěrem.  Pěnu je možné doplňovat. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Rozměry: 40x60 cm, 50x70 cm, 60x90 cm, 70x100 cm, 80x110 cm, 85x120 cm, 100x130 cm, 130x160 cm&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Ortopedicka-matrace-DE-LUXE-d33.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_33ortmatdeluxe_00a-120x90.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Podložka do přepravky/klece]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Měkký a pevný materiál / coral fleece&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Výplň prošívané duté vlákno&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Celé pratelné v pračce&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Vhodné i do klecí pro psy a jako pelíšek pro kočky na parapet.&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Rozměry: 30x50, 35x60, 50x65, 55x80, 60x90, 92x92, 70x100 cm&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Výrobce: I love pets&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Podlozka-do-prepravky-klece-d34.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_34podlozkaA17-260x195.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Podložky do přepravek</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>3.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Taška MARILYN]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Materiál impregnovaná látka. Zimní varianta (zevnitř coral fleece)&lt;br /&gt;Vyztužená, krásně drží tvar&lt;br /&gt;Zapínatelná kapsa se zipem&lt;br /&gt;Poutko na připnutí k obojku&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Rozměry:&lt;br /&gt;délka 33 cm, šířka 20 cm, výška 24 cm&lt;br /&gt;délka 43 cm, šířka 25 cm, výška 30 cm&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Taska-MARILYN-d35.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_35marilyn-cerna-detail2-120x90.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Tašky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>0.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Obojek COMFORT]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span&gt;Podšitý broušenou kůží&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Obojek-COMFORT-d36.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_36obojek-comfort-260x195.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Obojky a kšíry</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Vodítko COMFORT]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span&gt;Podšité broušenou kůží&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Voditko-COMFORT-d37.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_37voditko-comfort-260x195.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Vodítka</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>0.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bunda FLUFFY]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Tabulka velikostí&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;Velikost&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;Délka zad (cm)&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;Obvod hrudníku (cm)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;XXS&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;13-15&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;26-28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;XS&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;18-20&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;31-33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;S&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;23-25&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;36-38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;M&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;28-30&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;41-43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;L&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;31-33&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;46-48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;XL&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;33-35&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;51-53&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;XXL&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;36-38&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;56-58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Výrobce: I love pets&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bunda-FLUFFY-d38.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_38BFL004-model1-120x90.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Oblečky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Kšíry pro psy]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Ksiry-pro-psy-d39.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_39KSR003-model-120x90.jpg</IMGURL>
+<PRICE>212</PRICE>
+<PRICE_VAT>256</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Obojky a kšíry</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Kondicionér Charcoal s výtažkem dřevěného uhlí]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;Japonské uhlí a bambusové dřevěné uhlí je již dlouho využíváno k absorbování odpadních látek a k uchovávání  přírodních minerálů, které uvolňují záporné ionty a odstraňují  nepříjemné zápachy. Uhlí vytváří záporné ionty, které mají  uklidňující účinek na zvířata. Kromě toho poskytuje srsti a kůži antimikrobiální účinek a extract z bambusu udržuje zvíře v čistotě. Kondicioner je vhodný také k zábalům. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Japonský dřevěné uhlí, bambusové dřevěné uhlí, extract z bambusového ocetu, sůl z Mrtvého moře, propolis (složky extrahované z úlů včel), pšeničné klíčky olej, směs rostlinných výtažků (extrakt ze zeleného čaje, lomikámen extrakt, extract kůry z Korkovníku Korkovník ,extract z listů mišpule, extrakt  z byliny  Perilla, extract z Houttuynia, extrakt z natto)..&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Kondicioner-Charcoal-s-vytazkem-dreveneho-uhli-d40.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_40kond.jpg</IMGURL>
+<PRICE>421</PRICE>
+<PRICE_VAT>510</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Kondicionéry</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[SPA lázeňský super bělící šampon]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;Tento úžasný bělící šampon PetEsthé se od ostatních bělících šamponů liší kombinací speciálních bělících přísad, které zesilují účinek lehkých hypoalergenních čistících přísad rostlinného původu. Tyto přísady zamezují žloutnutí srsti. Díky nim bělost srsti ještě více vynikne. protože bílý šampon PetEsthé SPA neobsahuje žádné nežádoucí bělící prostředky, může být používán pro vícebarevnou srst, která obsahuje i menší část srsti bílé a ta tímto šamponem více vynikne. Ostatní barva srsti zůstává samozřejmě stejná jako před umytím. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;Obsahuje: sakorban sodný, speciální rostlinné bělící složky, sůl z mrtvého moře a propolis ze včelích úlů.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/SPA-lazensky-super-belici-sampon-d41.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_41spa-belici.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony&gt;Série SPA</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[SPA lázeňský univerzální šampon]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;Univerzální lázeňský SPA šampon od PetEsthé obsahuje stejné hypoalergenní čistící přísady ( se stejnýmy bílkovinamy, které se vyskytují v těle ). Používá se pro psy všech plemen od štěňat až po staré psy. tento šampon obsahuje vyváženou směs bahenních přísad z různých oblastí světa, které účinně pohlcují odpadový materiál a špínu držící se v pórech kůže psa. Čistí kůži a zanechává srst lesklou a čistou. je vhodný i pro velice citlivé jedince. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;Obsahuje: bahno z různých částí světa, sůl z mrtvého moře, propolis z včelích úlů, extrakty z rostlin : řeřichy, lopuchu, mydlice, břečťanu, šalvěje a citronu&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/SPA-lazensky-univerzalni-sampon-d42.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_42spa-univerzal.jpg</IMGURL>
+<PRICE>0</PRICE>
+<PRICE_VAT>0</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Šampony&gt;Série SPA</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA_NA_POSTU</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>99</DELIVERY_PRICE><DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GLS</DELIVERY_ID><DELIVERY_PRICE>130</DELIVERY_PRICE><DELIVERY_PRICE_COD>130</DELIVERY_PRICE_COD></DELIVERY><DELIVERY><DELIVERY_ID>GEIS</DELIVERY_ID><DELIVERY_PRICE>155</DELIVERY_PRICE><DELIVERY_PRICE_COD>155</DELIVERY_PRICE_COD></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[DOG PRINCESS - keramická miska růžová]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/DOG-PRINCESS-keramicka-miska-ruzova-d43.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_43168007afcz.jpg</IMGURL>
+<PRICE>162</PRICE>
+<PRICE_VAT>196</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[DOG PRINCE - keramická miska šedo-bílá]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/DOG-PRINCE-keramicka-miska-sedo-bila-d44.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_44168008afcz.jpg</IMGURL>
+<PRICE>162</PRICE>
+<PRICE_VAT>196</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[MY PRINCESS - růžová]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Kombinovaná miska melamin/nerez.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/MY-PRINCESS-ruzova-d45.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_45nerez.jpg</IMGURL>
+<PRICE>157</PRICE>
+<PRICE_VAT>190</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[MY PRINCE - šedo/bílá]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Kombinovaná miska melamin/nerez.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/MY-PRINCE-sedo-bila-d46.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_46196301bfcz.jpg</IMGURL>
+<PRICE>135</PRICE>
+<PRICE_VAT>163</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[KING of DOGS - keramická miska zkosená (černá)]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Atraktivní keramická miska z kolekce &quot;King of Dogs&quot;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Miska má v přední části nižší okraj, pro lepší přístup vašeho pejska do misky a misce tato úprava dodává atraktivní a netypický vzhled&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/KING-of-DOGS-keramicka-miska-zkosena-cerna-d47.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_47168009afcz.jpg</IMGURL>
+<PRICE>159</PRICE>
+<PRICE_VAT>192</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[KING of DOGS - keramická miska zkosená (bílá)]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Atraktivní keramická miska z kolekce &quot;King of Dogs&quot; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Miska má v přední části nižší okraj, pro lepší přístup vašeho pejska do misky a misce tato úprava dodává atraktivní a netypický vzhled.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/KING-of-DOGS-keramicka-miska-zkosena-bila-d48.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_48168009cfcz.jpg</IMGURL>
+<PRICE>159</PRICE>
+<PRICE_VAT>192</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Set keramických misek se stojánkem]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Set-keramickych-misek-se-stojankem-d49.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_4920.jpg</IMGURL>
+<PRICE>271</PRICE>
+<PRICE_VAT>328</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Lovely DOG - miska těžká plastová - modrá]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Lovely-DOG-miska-tezka-plastova-modra-d50.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5020350853433sdcz.jpg</IMGURL>
+<PRICE>137</PRICE>
+<PRICE_VAT>166</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Lovely DOG - miska těžká plastová - růžová]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Lovely-DOG-miska-tezka-plastova-ruzova-d51.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_51203508afcz.jpg</IMGURL>
+<PRICE>137</PRICE>
+<PRICE_VAT>166</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostíraní pod misku silikonové - tvar kost (modré)]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-pod-misku-silikonove-tvar-kost-modre-d52.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5219631051293sdcz.jpg</IMGURL>
+<PRICE>154</PRICE>
+<PRICE_VAT>186</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175977</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>4.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostírání pod misku silikonové - tvar kost (červené)]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-pod-misku-silikonove-tvar-kost-cervene-d53.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_53196310asfcz--1.jpg</IMGURL>
+<PRICE>154</PRICE>
+<PRICE_VAT>186</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175977</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>3.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostírání - gumová podložka po misky ROYAL - bílá]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-gumova-podlozka-po-misky-ROYAL-bila-d54.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5420204652825sdcz.jpg</IMGURL>
+<PRICE>52</PRICE>
+<PRICE_VAT>63</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175978</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>5.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostírání - gumová podložka po misku ROYAL - černá]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-gumova-podlozka-po-misku-ROYAL-cerna-d55.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5510084119396sdcz.jpg</IMGURL>
+<PRICE>72</PRICE>
+<PRICE_VAT>87</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175973</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>5.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostírání MY PRINCESS - gumová podložka růžová]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-MY-PRINCESS-gumova-podlozka-ruzova-d56.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5616801127418sdcz.jpg</IMGURL>
+<PRICE>64</PRICE>
+<PRICE_VAT>77</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175974</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>5.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Prostírání MY PRINCE - gumová podložka šedý proužek]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Rozměr 44x28 cm.&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Prostirani-MY-PRINCE-gumova-podlozka-sedy-prouzek-d57.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5716801227419sdcz.jpg</IMGURL>
+<PRICE>64</PRICE>
+<PRICE_VAT>77</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Prostírání pod misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>175975</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>5.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Cool Fresh chladící miska plastová bílo/modrá  1 l/ 20cm]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Cool-Fresh-chladici-miska-plastova-bilo-modra-1-l-20cm-d58.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_5820350753432sdcz.jpg</IMGURL>
+<PRICE>298</PRICE>
+<PRICE_VAT>360</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Misky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>17050</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Pelech s dekou KING of Dogs - béžový]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Pelech-s-dekou-KING-of-Dogs-bezovy-d59.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_59Kings-of-dog.jpg</IMGURL>
+<PRICE>848</PRICE>
+<PRICE_VAT>1026</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Plyšový pelíšek Ovečka Shaun kulatý 50cm - krémový]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Plysovy-pelisek-Ovecka-Shaun-kulaty-50cm-kremovy-d60.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_60shaun-1.jpg</IMGURL>
+<PRICE>901</PRICE>
+<PRICE_VAT>1090</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE>241053</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Podšitá deka BONY kožíšek, tvar kost, krémová/černá - 95x68 cm]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION></DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Podsita-deka-BONY-kozisek-tvar-kost-kremova-cerna-95x68-cm-d61.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_6116942727688sdcz.jpg</IMGURL>
+<PRICE>415</PRICE>
+<PRICE_VAT>502</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>24192</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[MY PRINCESS plyšový pelech růžový - 50x40 cm]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Plyšový pelíšek poskytne vašemu mazlíčkovi příjemné místo k odpočinku &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;- okraje pelíšku jsou vyplněny pěnovou výplní, která dobře drží tvar pelíšku&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; - polštář který zaručuje pohodlí a měkkost je prošívaný a vyplněný polyesterovou výplní &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; - deku zdobí výšivka se znakem kolekce My Princess &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; - spodní plocha pelíšku má protiskluzové prvky, které zabraňují klouzání po podlaze&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/MY-PRINCESS-plysovy-pelech-ruzovy-50x40-cm-d62.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_62pelech-princess.jpg</IMGURL>
+<PRICE>1040</PRICE>
+<PRICE_VAT>1259</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>25821</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+<DELIVERY><DELIVERY_ID>CESKA_POSTA</DELIVERY_ID><DELIVERY_PRICE>0</DELIVERY_PRICE></DELIVERY>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[MY PRINCESS plyšová deka růžová - 70x50 cm]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Plyšová prošívaná deka poskytne vašemu mazlíčkovi příjemné místo k odpočinku i na studené podlaze &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; - deka je vyplněna polyesterovým rounem a prošívání zabraňuje sesypávámí výplně &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; - deku zdobí výšivka se znakem kolekce My Princess &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;- spodní plocha deky má protiskluzové prvky, které zabraňují klouzání po podlaze&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/MY-PRINCESS-plysova-deka-ruzova-70x50-cm-d63.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_6317099228250sdcz.jpg</IMGURL>
+<PRICE>711</PRICE>
+<PRICE_VAT>860</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE>25817</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Růžová vesta COMO s kapucí]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;Velice pěkná a slušivá růžová vestička COMO s kapucí pro Vaši psí slečnu. Vestička ji ochrání před chladem, větrem a díky svrchnímu voděodolnému materiálu i před deštěm a sněhem. Má měkkounkou fleecovou podšívku. Díky elastické části v oblasti hrudníku, nastavitelnému obvodu a gumičkám na zadní nožky, obleček velmi dobře sedí. Na zádech najdete jemnou flitrovou aplikaci, ale také reflexní prvky, které zvýší bezpečnost vás obou a otvor pro snadné připnutí vodítka k obojku.  Obleček COMO je k dostání v několika velikostech. Níže najdete tabulku s upřesněnými rozměry, díky které snadno vyberete velikost vhodnou právě pro Vašeho mazlíčka. Doporučujeme ruční praní při 30 °C.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Tabulka velikostí pro vestu COMO:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;343&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan=&quot;2&quot; width=&quot;93&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Velikost &lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Obvod   hrudníku &lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;&lt;strong&gt; Délka   zad &lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;&lt;strong&gt;v   cm &lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;&lt;strong&gt;v   cm&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;XS&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;22   - 26&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;XS&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;26   - 30&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;24&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;XS&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;28   - 34&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;27&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;XS&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;30   - 38&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;30&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;S&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;34   - 42&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;33&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;S&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;40   - 50&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;S&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;43   - 54&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;40&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;93&quot;&gt;
+&lt;p&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;141&quot;&gt;
+&lt;p&gt;46   - 58&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;108&quot;&gt;
+&lt;p&gt;45&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Vašeho pejska před koupí oblečku prosím přeměřte. Minimalizujete tak nutnost výměny oblečku. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Obvod hrudníku měřte v nejširším místě za předními nohami. Délku zad od kohoutku po začátek ocásku.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Ruzova-vesta-COMO-s-kapuci-d64.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_6466475581cz.jpg</IMGURL>
+<PRICE>329</PRICE>
+<PRICE_VAT>398</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Oblečky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>Trixie</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>3.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Protiskluzový gel PetEsthé PAW na tlapky pro psy 35 ml]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Aplikací tohoto gelu na tlapky zamezíme jejich uklouznutí na ulici za špatných podmínek (např. na zasněžené ulici), na holé podlaze nebo na soutěžních plochách. Nanáší se pomocí kuličky, pozor tubu neobracet, aby obsah nevytekl. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Složení:&lt;/span&gt; Přírodní heřmánkový olej (přírodní alfa-bisabolol), Orange olej (přírodní deodorant), tea tree olej (přírodní repelent).&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Protiskluzovy-gel-PetEsthe-PAW-na-tlapky-pro-psy-35-ml-d65.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_65paw_ph01.jpg</IMGURL>
+<PRICE>372</PRICE>
+<PRICE_VAT>450</PRICE_VAT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE>3571</CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Hydratační gel na tlapky PetEsthé]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;h5&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Pro použití v interiéru (pro psy a kočky). Zvlhčující přísady tohoto výrobku (výtažek z aloe, hyaluronanu sodného, skvalanu) hydratují a změkčují tvrdé polštářky tlapek. Tlapky jsou pružné a dobře ošetřené.&lt;/span&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Složení:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Hyaluronátu sodného, aloe extrakt, Sgualane, extrakt ze zeleného čaje, Eukalyptový olej (insekticid), Orange Oil (deodoranty)&lt;/span&gt;&lt;/strong&gt;&lt;/h5&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Hydratacni-gel-na-tlapky-PetEsthe-d66.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_66paw_zelena.jpg</IMGURL>
+<PRICE>372</PRICE>
+<PRICE_VAT>450</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Speciální přípravky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>PetEsthé</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[AMÉLIE DE LUXE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Velmi měkký a poddajný.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Materiál coral fleece.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Výplň prošívané duté vlákno.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Průměr 40, 50, 60, 70, 80 cm&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/AMELIE-DE-LUXE-d67.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_67ameliedlA52-260x195.jpg</IMGURL>
+<PRICE>315</PRICE>
+<PRICE_VAT>381</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[AFRODITHE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výplň prošívané duté vlákno.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Stříška vyztužená molitanem.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Velmi měkký a poddajný.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Materiál mikroplyš/coral fleece.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Průměr 45 a 55 cm&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/AFRODITHE-d68.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_68_vyr_afrodithe-model2.jpg</IMGURL>
+<PRICE>450</PRICE>
+<PRICE_VAT>545</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Domeček IGLÚ]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Vyroben z molitanu.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Samostatně vyjímatelný střed pro snadnou údržbu.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Výplň polštářku duté vlákno.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Rozměry: 35x35 cm, 40x40 cm, 45x45 cm&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Domecek-IGLU-d69.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_69iglu-model.jpg</IMGURL>
+<PRICE>450</PRICE>
+<PRICE_VAT>545</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Kombinéza Softshell dvoubarevná]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Tabulka velikostí&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #a300a3; color: #ffffff;&quot;&gt;&lt;strong&gt;Velikost&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #a300a3; color: #ffffff;&quot;&gt;&lt;strong&gt;Délka zad (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #a300a3; color: #ffffff;&quot;&gt;&lt;strong&gt;Obvod hrudníku (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;XXS&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;13-15&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;26-28&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;XS&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;18-20&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;23-25&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;28-30&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;41-43&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;46-48&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;XL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;33-35&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;51-53&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;XXL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;56-58&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Kombinéza Softshell dvoubarevná pro psy&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Stylová Softshell kombinéza pro psy s reflexními motivy tlapek pro vašeho pejska od značky I love pets. Chrání před chladem, deštěm, sněhem i dalšími rozmary počasí.  Neomezuje při pohybu a chrání důležité partie. Má otvory pro všechny 4 tlapky.&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Softshell je nepromokavý, tepelně odolný, větruvzdorný a prodyšný materiál. Doporučujeme brát o trošku větší než je velikost pejska aby se v něm mohl volně pohybovat.&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Lze prát v pračce na 30 stupňů Celsia.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small; background-color: #a300a3; color: #ffffff;&quot;&gt;&lt;strong&gt;Délka zad se měří od kohoutku ke kořeni ocásku a obvod hrudníku v nejširším místě za předními tlapkami.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Kombineza-Softshell-dvoubarevna-d70.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_70_vyrp12_386KSD001-model1.jpg</IMGURL>
+<PRICE>542</PRICE>
+<PRICE_VAT>656</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Oblečky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Kombinéza SKI]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Kombinéza pro psy Ski je vhodná do opravdu velké nepřízně počasí. Hodí se na hory, kde jsou extrémně nízké teploty a sněžení. Kombinéza pro psy Ski je vhodná na vycházky do zasněžené krajiny. Kombinéza pokrývá celou část těla psa, a proto výborně hřeje. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Praní na  30 stupňů Celsia.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;Tabulka velikostí&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small; color: #ffffff; background-color: #c100c1;&quot;&gt;&lt;strong&gt;Velikost&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small; background-color: #b700b7; color: #ffffff;&quot;&gt;&lt;strong&gt;Délka zad (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small; background-color: #b700b7; color: #ffffff;&quot;&gt;&lt;strong&gt;Obvod hrudníku (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;XXS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;13-15&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;26-28&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;XS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;18-20&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;23-25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;28-30&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;41-43&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;46-48&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;XL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;33-35&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;51-53&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;XXL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;56-58&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Kombineza-SKI-d71.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_71KSK-260x195.jpg</IMGURL>
+<PRICE>621</PRICE>
+<PRICE_VAT>751</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Oblečky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Bunda SKI]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Bunda pro psy Ski je vhodná do opravdu velké nepřízně počasí. Hodí se na hory, kde jsou extrémně nízké teploty a sněžení.Je vhodná na vycházky do zasněžené krajiny. Výborně hřeje.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Praní na 30 stupňů Celsia.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Tabulka velikostí&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #ad00ad; color: #ffffff;&quot;&gt;&lt;strong&gt;Velikost&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #ad00ad; color: #ffffff;&quot;&gt;&lt;strong&gt;Délka zad (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #ad00ad; color: #ffffff;&quot;&gt;&lt;strong&gt;Obvod hrudníku (cm)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;XXS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;13-15&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;26-28&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;XS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;18-20&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;23-25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;28-30&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;41-43&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;31-33&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;46-48&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;XL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;33-35&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;51-53&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;XXL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;36-38&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;56-58&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Bunda-SKI-d72.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/_vyr_72novy.jpg</IMGURL>
+<PRICE>552</PRICE>
+<PRICE_VAT>668</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Oblečky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[CUBE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Plyšový pelíšek Cube je jako stvořený pro Vašeho pejska. Tento hranatý, příjemně měkký pelech si Váš mazlíček zkrátka zamiluje. Jedná se o pravý český výrobek, dodávaný v mnoha různých barevných variantách. Psí pelíšky Cube jsou ručně šité, vyráběné z kvalitních materiálů. Pelíšek je vyroben z materiálu coral fleece a plněn prošívaným dutým vláknem. Má vyjímatelný vnitřní polštářek. Díky těmto materiálům je možné prát pelech v automatické pračce na 30°C a stále bude držet svůj tvar. Pelíšky se velmi snadno udržují, nežmolkují se a proto jsou také mezi zákazníky velmi oblíbené. Široká škála barev zajišťuje možnost přizpůsobení pelíšku Vašemu interiéru. Rozměry pelíšku jsou 43x43 cm, 53x53 cm, je vhodný pro menší i větší plemena psů. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/CUBE-d73.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_73sedy.jpg</IMGURL>
+<PRICE>360</PRICE>
+<PRICE_VAT>436</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>2.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[Matrace ELEGANCE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Materiál impregnovaná látka / coral fleece.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Výplň duté vlákno.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Oboustranná varianta pelechu.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Snímatelný a samostatně pratelný potah.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/Matrace-ELEGANCE-d74.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/_vyr_74_vyr_matraceelegance-model.jpg</IMGURL>
+<PRICE>360</PRICE>
+<PRICE_VAT>436</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[ROYAL]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Vyjímatelný polštářek pro snadnou údržbu.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Polštář je oboustranný, letní a zimní varianta. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Výplň duté vlákno.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Možnost výběru matrace nebo polštáře do vnitřní části.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt; Rozměry: 45x55 cm, 55x80 cm, 70x100 cm, 85x120 cm &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Velikost 70x100 cm a 85x120 cm má kompletně snímatelný a samostatně pratelný povlak.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/ROYAL-d75.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_75royal-m.jpg</IMGURL>
+<PRICE>638</PRICE>
+<PRICE_VAT>772</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+<SHOPITEM>
+<PRODUCTNAME><![CDATA[EXCLUSIVE]]></PRODUCTNAME>
+<PRODUCTNAMEEXT></PRODUCTNAMEEXT>
+<DESCRIPTION>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Elegantní luxusní pelíšek. Velmi odolný.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Vyroben z vysoce kvalitní italské koženky.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; Celý omyvatelný, vnitřní polštář samostatně pratelný.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;Barevné varianty.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;strong&gt; Rozměry: 45x55 cm, 55x80 cm, 70x100 cm, 85x120 cm&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</DESCRIPTION>
+<URL>https://www.spokojeny-mazlicek.cz/EXCLUSIVE-d76.htm</URL>
+<IMGURL>https://www.spokojeny-mazlicek.cz/fotky62763/fotos/original/_vyr_76exclus-m.jpg</IMGURL>
+<PRICE>721</PRICE>
+<PRICE_VAT>872</PRICE_VAT>
+<DELIVERY_DATE>42</DELIVERY_DATE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<CATEGORYTEXT>Pelíšky pro psy a kočky</CATEGORYTEXT>
+<EAN></EAN>
+<MANUFACTURER>I love pets</MANUFACTURER>
+<CODE></CODE>
+<VAT>21</VAT>
+<STANDARD_PRICE>0.000</STANDARD_PRICE>
+<skladem>1.00</skladem>
+</SHOPITEM>
+</SHOP>

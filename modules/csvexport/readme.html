@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 5.6">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="11/11/2008">
+<meta name="revisit-after" content="15 days">
+<title>Readme</title>
+<style>
+h1, h2 {
+   color:blue; 
+}
+</style>
+</head>
+<body>
+<a href='http://www.prestahost.cz'>
+ <img style='border:none' src='http://www.prestahost.cz/resources/logo.jpg'></a> <br />
+<h3><a href='http://www.prestahost.cz'>Prestahost</a> - www.prestahost.cz - Prestashop hosting s podporou Prestashopu</h3>
+
+<h1>Prestashop CSV format export module     </h1>
+Export Prestahop data into CSV format suitable for Prestashop import utility
+
+<h2>Licence</h2>
+<pre>
+2011 PrestaHost.cz
+
+NOTICE OF LICENSE
+
+This software is subject to the Academic Free License (AFL 3.0)
+that is  available through the world-wide-web at this URL:
+http://opensource.org/licenses/afl-3.0.php
+
+
+DISCLAIMER
+No garancies are given.
+
+author PrestaHost.cz info@prestahost.cz, www.prestahost.cz
+copyright  2007-2010 prestahost.cz
+license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+
+</pre>
+ <br /> 
+
+<h2>USAGE</h2>
+Follow this steps to transfer products from SOURCE  Prestashop website to TARGET Prestashop website.
+ 
+ 
+<h3>TARGET website</h3>
+ <ul>
+<li>find the ID number of the appropriate tax rate group  </li>
+<li>import the images from the SOURCE website product image folder (img/p) into a folder of the TARGET website. Do not use
+img/p at the target website  </li>
+</ul>
+
+<h3>SOURCE website</h3>
+<ul>
+<li>Install the module</li>
+<li>Save settings, the tax rate and image directory are of the TARGET website</li>
+<li>Create the categories and product csv files (usually several numbered product files are created) </li>
+<li>Optional: download the csv files and edit them in a spreadsheet editor if required </li>
+</ul>
+
+ <h3>TARGET website</h3>
+ <li>Upload the csv files into the admin/import folder</li>
+  <li>In the backoffice, open the Tools - Import tab</li>
+  <li>Import categories, skip the first line if used for description. Check "delete existing categories" if appropriate</li>
+  <li>Import the first numbered product file, skip the first line if used for description. Check "delete existing products" if appropriate</li>
+  <li>Import remaining product files, DO NOT DELETE existing products</li>
+  <li>If the images are not visible, open the settings / images tab , edit available image types and assign them to product as appropriate </li>
+  <li>Regenerate the product miniatures. It is recommended to regenerate one type of image at time </li>
+  <li>If the  categories are not displayed at the frontend, uninstall and install the categories module</li>
+<br />
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>monstergtm</name>
+	<displayName><![CDATA[Monster GTM]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Kompletn&iacute; Google Tag Manager implementace včetně datov&yacute;ch vrstev pro měřen&iacute; e-commerce a dyn. remarketingu.]]></description>
+	<author><![CDATA[Monster Media (prestashopisti.cz)]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Opravdu si přejete modul odinstalovat?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

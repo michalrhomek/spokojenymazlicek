@@ -1,0 +1,171 @@
+/**
+ * Smartsupp Live Chat integration module.
+ * 
+ * @package   Smartsupp
+ * @author    Smartsupp <vladimir@smartsupp.com>
+ * @link      http://www.smartsupp.com
+ * @copyright 2016 Smartsupp.com
+ * @license   GPL-2.0+
+ *
+ * Plugin Name:       Smartsupp Live Chat
+ * Plugin URI:        http://www.smartsupp.com
+ * Description:       Adds Smartsupp Live Chat code to PrestaShop.
+ * Version:           2.1.5
+ * Author:            Smartsupp
+ * Author URI:        http://www.smartsupp.com
+ * Text Domain:       smartsupp
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ */
+
+#content .panel {
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
+#content .panel p {
+    margin-bottom:2em;
+}
+
+#content .panel p.none {
+    margin-bottom:0;
+}
+
+#content .panel p.one {
+    margin-bottom:0.6em;
+}
+
+#content .panel a {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#content .panel .customers a {
+    cursor: default;
+    text-decoration: none;
+}
+
+div.smartsupp_landing_page {
+    display: none;
+}
+
+#configuration_form.smartsupp {
+    display: none;
+}
+
+#smartsupp_landing_page {
+    display: none;
+}
+
+#smartsupp_landing_page .advantages p.heading {
+    color: #00aff0;
+    font-size: 1.2em;
+}
+
+#smartsupp_landing_page .advantages p.column-60 {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#smartsupp_landing_page .btn.btn-primary {
+    text-transform: none;
+}
+
+#smartsupp_landing_page p.title {
+    font-size: 12pt;
+    font-family: "Open Sans";
+    margin-bottom: 1.7em;
+}
+
+#smartsupp_landing_page p.title strong {
+    font-size: 22pt;
+    font-weight: normal;
+}
+
+#smartsupp_landing_page strong.heading {
+    font-size: 15pt;
+    font-weight: normal;
+    font-family: "Open Sans";
+}
+
+#smartsupp_landing_page .dashboard {
+    width: 100%;
+}
+
+#smartsupp_landing_page .customers img {
+    width: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#smartsupp_configuration {
+    display: none;
+}
+
+#smartsupp_configuration p.email {
+    margin-top: 10px;
+}
+
+#smartsupp_configuration p.status-information {
+    margin-top: 30px;
+}
+
+#smartsupp_configuration .btn.btn-primary {
+    text-transform: none;
+}
+
+#smartsupp_create_account {
+    display: none;
+}
+
+#smartsupp_create_account .btn.btn-primary {
+    text-transform: none;
+}
+
+#smartsupp_create_account strong.heading {
+    font-size: 15pt;
+    font-weight: normal;
+    font-family: "Open Sans";
+}
+
+#smartsupp_create_account .input-group {
+    margin: auto;
+}
+
+#smartsupp_create_account .input-group-addon {
+    width: 90px;
+}
+
+#smartsupp_create_account .customers img {
+    width: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#smartsupp_connect_account {
+    display: none;
+}
+
+#smartsupp_connect_account .btn.btn-primary {
+    text-transform: none;
+}
+
+#smartsupp_connect_account strong.heading {
+    font-size: 15pt;
+    font-weight: normal;
+    font-family: "Open Sans";
+}
+
+#smartsupp_connect_account .input-group {
+    margin: auto;
+}
+
+#smartsupp_connect_account .input-group-addon {
+    width: 90px;
+}
+
+#smartsupp_connect_account .customers img {
+    width: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+}

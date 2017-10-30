@@ -1,0 +1,34 @@
+<xml>
+<product>
+	<name>Test 1</name>
+	<price>1000</price>
+	<cost_price>800</cost_price>
+	<reference>TEST1</reference>
+	<ean>123</ean>
+	<upc>123</upc>
+	<ecotax>1</ecotax>
+	<manufacturer>Test Brand</manufacturer>
+	<category>Top Cat</category>
+	<sub_category>Second Cat</sub_category>
+	<category_delimited>Top Cat>Second Cat</category_delimited>
+	<quantity>24</quantity>
+	<image>data/demo/apple_logo.jpg</image>
+	<additional_image>data/demo/apple_cinema_30.jpg</additional_image>
+	<weight>10</weight>
+	<length>20</length>
+	<height>30</height>
+	<width>40</width>
+	<depth>50</depth>
+	<description>A test product</description>
+	<seo_keyword>test1</seo_keyword>
+	<meta_description>a simple test product</meta_description>
+	<meta_keywords>test</meta_keywords>
+	<product_tags>tag1|tag2|tag3</product_tags>
+	<blank></blank>
+	<size>Large</size>
+	<download>complete_1.xml</download>
+	<image1>http://cdn.hostjars.com/image/cache/data/products/CSVImportPRO-242x228.png</image1>
+	<image2>http://cdn.hostjars.com/image/cache/data/products/AJAXSearch-242x228.png</image2>
+	<carrier>Apple</carrier>
+</product>
+</xml>

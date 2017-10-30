@@ -1,0 +1,30 @@
+.header_user_info {
+  float: right;   
+  margin-top: 10px;
+  margin-right: 8px; }
+  .header_user_info a {
+    color: #fff;
+    font-size: 14px;
+    display: block;
+    padding: 0 16px;
+    cursor: pointer;
+    line-height: 18px;
+    border-left: 1px solid #fff; }
+    .login::before {
+    content: "\f13e";
+    font-family: "FontAwesome";
+    font-size: 15px;
+    line-height: 18px;
+    padding-right: 3px;
+    vertical-align: -1px;}
+    @media (max-width: 479px) {
+      .header_user_info a {
+        font-size: 11px; } }
+    .header_user_info a:hover, .header_user_info a.active {
+      color: #000; }
+      
+#header_links li a:hover {
+    color: #000 !important;
+}      
+
+/*# sourceMappingURL=blockuserinfo.css.map */

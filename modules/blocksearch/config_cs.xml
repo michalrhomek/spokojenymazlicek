@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocksearch</name>
+	<displayName><![CDATA[Blok Rychl&eacute; hled&aacute;n&iacute; [Quick search block]]]></displayName>
+	<version><![CDATA[1.7.1]]></version>
+	<description><![CDATA[Přid&aacute; blok s polem rychl&eacute;ho vyhled&aacute;v&aacute;n&iacute;.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[search_filter]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

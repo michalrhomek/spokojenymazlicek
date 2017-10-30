@@ -1,0 +1,139 @@
+#header_links {
+  list-style-type: none;
+  float: left;
+  margin: 0;
+  clear: both;
+  margin: 10px 0 0 0;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  #header_links {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  #header_links {
+    width: 140px;
+    padding: 10px;
+    display: none;
+    text-align: left;
+    background: whitesmoke;
+    position: absolute;
+    z-index: 9;
+  }
+}
+#header_links li {
+  float: left;
+
+}
+
+
+@media (max-width: 991px) {
+  #header_links li {
+    width: 100%;
+    float: none;
+    border: none;
+    padding: 0 5px;
+    background: none;
+  }
+}
+#header_links li a {
+  text-decoration: none;
+  padding: 0 15px;
+  text-transform: none;
+  color: white;
+  position: relative;
+  font-size: 14px;
+}         
+#header_link_contact::before {
+  border-right: 1px solid #ffffff;
+  content: "";
+  font-family: "FontAwesome";
+  height: 13px;
+  left: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 4px;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+  #header_links li a:before {
+    border: none;
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  #header_links li a {
+    padding: 0;
+    color: #727272;
+  }
+}
+#header_links li a:hover {
+  color: #a8a8a8;
+}
+@media (max-width: 991px) {
+  #header_links li a:hover {
+    color: #1f1f1f;
+  }
+}
+#header_links li:last-child a:before {
+  border: none;
+}
+
+/*block permanent links right and left columns*/
+#permanent_links div {
+  border-bottom: 1px dotted #eee;
+}
+#permanent_links div a {
+  display: block;
+  padding: 7px 11px 5px 22px;
+  color: #333;
+  background: url(img/arrow_right_2.png) no-repeat 10px 10px;
+}
+
+/* block footer links */
+ul#footer_links {
+  clear: both;
+  text-align: center;
+  padding-bottom: 6px;
+}
+ul#footer_links li {
+  display: inline;
+  padding: 0 10px;
+}
+
+.header_permentlink {
+  float: left;
+  margin: 8px 0 0 20px;
+}
+.header_permentlink .tm_permenu_inner {
+  display: none;
+}
+@media (max-width: 991px) {
+  .header_permentlink .tm_permenu_inner {
+    cursor: pointer;
+    display: block;
+  }
+  .header_permentlink .tm_permenu_inner .headertoggle_img:before {
+    content: "\f039";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 14px;
+    color: #fff;
+    position: relative;
+    top: 10px;
+    padding: 0;
+    line-height: 9px;
+  }
+}
+#header_link_bookmark             {
+    display: none;
+  }
+
+#header_link_contact   {
+    border-right: 1px solid #fff;    }
+    
+#header_link_sitemap   {
+    border-right: 1px solid #fff;    }    

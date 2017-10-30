@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>themeszonemanslider</name>
+	<displayName><![CDATA[Themes Zone Manufacturers Slider]]></displayName>
+	<version><![CDATA[0.8]]></version>
+	<description><![CDATA[Manufacturers Logo Slider by Themes Zone ]]></description>
+	<author><![CDATA[Themes Zone]]></author>
+	<tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

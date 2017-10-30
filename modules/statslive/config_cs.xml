@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statslive</name>
+	<displayName><![CDATA[Uživatel&eacute; online]]></displayName>
+	<version><![CDATA[1.3.1]]></version>
+	<description><![CDATA[Přid&aacute; seznam z&aacute;kazn&iacute;ků a n&aacute;v&scaron;těvn&iacute;ků, kteř&iacute; jsou aktu&aacute;lně online do statistik.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>add_faktura</name>
+	<displayName><![CDATA[Nov&aacute; Fakt&uacute;ra]]></displayName>
+	<version><![CDATA[16.50524]]></version>
+	<description><![CDATA[Fakt&uacute;ra s prehľadn&yacute;m rozpisom &uacute;dajov a atrakt&iacute;vnym vzhľadom]]></description>
+	<author><![CDATA[presstashop]]></author>
+	<tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Chcete odinštalovať tento modul?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

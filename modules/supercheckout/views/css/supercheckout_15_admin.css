@@ -1,0 +1,110 @@
+.vss_sc_ver15
+{
+	width: 100%;
+	color: #5A5A5A;
+}
+
+.vss-form-control-ver15
+{
+	height: 18px !important;
+	color: #5A5A5A !important;
+}
+
+.vss-action-btn-ver15:hover
+{
+	text-decoration: none;
+}
+
+#tab_lang_translator input
+{
+	color: #5A5A5A;
+}
+
+#tab_lang_translator .row,#tab_Addr .row
+{
+	background: none;
+}
+
+.vss_scparent_ver15 .span1
+{
+	margin-left: 0px;
+}
+
+.vss-resolution-ver15
+{
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+label
+{
+	float: none;
+	width: auto;
+}
+
+.table
+{
+	width: auto !important;
+}
+
+#content .table tbody > tr > th
+{
+	padding: 4px 6px;
+	line-height: 1;
+}
+
+#content a
+{
+    /*color: #000;*/
+    outline: 0pt;
+}
+
+.widget-body .checkboxinline
+{
+	display: inline-block;
+}
+
+
+
+#content {
+    position: relative;
+    overflow: hidden;
+    background: #ffffff;
+    min-width: 320px;
+    min-height: 700px;
+}
+
+#content > .table {
+	width: auto;
+}
+
+
+.topbuttons
+{
+    /*    margin-left: 469px;*/
+    /*    margin-right:50px;*/
+    padding-top: 10px;
+    float:right;
+    width: 235px;
+
+}
+.sug-ol
+{
+	display: block;
+    list-style-type: decimal;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+#content .alert
+{
+        border: solid 1px #c5e9f3!important;
+    
+}
+input[type="file"]
+{
+	border:none!important;
+	box-shadow:none !important;
+}

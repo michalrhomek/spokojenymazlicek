@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_8a45b3ee3b9de906fcfcae27bc6e58ee'] = 'Nachnahme (COD+)';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_7a3ef27eb0b1895ebf263ad7dd949fb6'] = 'Zahlungen per Nachnahme akzeptieren';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_e7a6ca4e744870d455a57b644f696457'] = 'Kostenlos!';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_bde5195e99630c688e52d80794f07dd1'] = 'Gebühr:';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_88e370c6198798c889c1fce6586c4333'] = 'Ggf. inkl.MwSt.';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_bb37ab178840441ad24aa57144e1e3ef'] = 'Gebühr ab:';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_b21059642a8388c560353f3b0d5c45db'] = '0 = Immer Gebühr erheben';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_ef7de6d78d6f3cf0f787650cf4183ace'] = 'Erlaubte Versanddienste';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_c9cc8cce247e49bae79f15173ce97354'] = 'Speichern';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_e0aa021e21dddbd6d8cecec71e9cf564'] = 'OK';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_248336101b461380a4b2391a7625493d'] = 'Gespeichert';
+$_MODULE['<{cashondeliveryplus}prestashop>cashondeliveryplus_b8c37e973c3d93a6405e17eb1fa950b9'] = 'Module Nachnahme +';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Versand';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_0c25b529b4d690c39b0831840d0ed01c'] = 'Bestellsumme';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_d538c5b86e9a71455ba27412f4e9ab51'] = 'Nachnahme-Zahlung (COD)';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_8861c5d3fa54b330d1f60ba50fcc4aab'] = 'Sie haben Zahlung per Nachnahme gewählt.';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_e2867a925cba382f1436d1834bb52a1c'] = 'Der Gesamtbetrag Ihrer Bestellung beträgt';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_1f87346a16cf80c372065de3c54c86d9'] = '(inkl. MwSt.)';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_75e6b17f1065160aea798ba661ccb1f1'] = 'Inkl. Nachnahmegebühr';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_0881a11f7af33bc1b43e437391129d66'] = 'Bitte bestätigen Sie Ihre Bestellung durch Klicken auf KAUFEN\"\"';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Ihre Bestellung von';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_75fbf512d744977d62599cc3f0ae2bb4'] = 'ist abgeschlossen.';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_8861c5d3fa54b330d1f60ba50fcc4aab'] = 'Sie haben Zahlung per Nachnahme gewählt.';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_e6dc7945b557a1cd949bea92dd58963e'] = 'Ihre Bestellung umgehend versandt.';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = 'Bei Fragen oder für weitere Informationen, kontaktieren Sie bitte unseren';
+$_MODULE['<{cashondeliveryplus}prestashop>confirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'Kundenservice';
+$_MODULE['<{cashondeliveryplus}prestashop>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Zahlung per Nachnahme (COD)';
+$_MODULE['<{cashondeliveryplus}prestashop>payment_536dc7424180872c8c2488ae0286fb53'] = 'Sie bezahlen die Ware bei der Lieferung';
+$_MODULE['<{cashondeliveryplus}prestashop>payment_7155e07110edc6e77f675a1c9daed7a1'] = 'Nachnahmegebühr beträgt';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_569fd05bdafa1712c4f6be5b153b8418'] = 'Andere Zahlungsarten';
+$_MODULE['<{cashondeliveryplus}prestashop>validation_46b9e3665f187c739c55983f757ccda0'] = 'KAUFEN';

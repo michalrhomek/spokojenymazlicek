@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statscarrier</name>
+	<displayName><![CDATA[Dopravci a objedn&aacute;vky]]></displayName>
+	<version><![CDATA[1.4.1]]></version>
+	<description><![CDATA[Přid&aacute; graf zobrazuj&iacute;c&iacute; rozdělen&iacute; dopravců do statistik.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

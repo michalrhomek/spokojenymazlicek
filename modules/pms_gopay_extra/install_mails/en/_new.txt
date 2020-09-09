@@ -1,0 +1,14 @@
+
+[{shop_url}]
+Hi {firstname} {lastname},
+
+Order status update {order_name}: GoPay - Awaiting payment.
+
+The order has been saved and is waiting for a GoPay payment. You have chosen to make a payment through the GoPay payment gateway and are now waiting to make a payment method selection on this gateway. Make GoPay payment {repeat_payment_url}.
+
+You can review your order and download your invoice from the ”Order history” [{history_url}] section of your customer account by clicking ”My account” [{my_account_url}] at our shop.
+If you have a guest account, you can follow your order via the ”Guest Tracking” [{guest_tracking_url}] section at our shop.
+
+{shop_name} - [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/]
+	

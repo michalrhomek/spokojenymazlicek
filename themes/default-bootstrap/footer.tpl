@@ -37,7 +37,7 @@
 						<div class="row">{$HOOK_FOOTER}</div>
           				<div class="row">
           					<div class="col-md-12" style="padding-bottom: 10px;">
-          						<a href="https://www.spokojeny-mazlicek.cz">Spokojený-Mazlíček.cz</a> &copy 2016 Všechna práva vyhrazena.
+          						<a href="https://www.spokojeny-mazlicek.cz">Spokojený-Mazlíček.cz</a> &copy 2019 Všechna práva vyhrazena.
           					</div>
 						</div>
 					</footer>
@@ -46,5 +46,29 @@
 		</div><!-- #page -->
 {/if}
 {include file="$tpl_dir./global.tpl"}
+
+{literal}
+ 
+<!-- remarketing codes -->
+ 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 762031313;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/762031313/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+ 
+{/literal}
+
+
+
 	</body>
 </html>

@@ -1,0 +1,14 @@
+
+[{shop_url}]
+Hi {firstname} {lastname},
+
+Order status update {order_name}: GoPay - payment method selected, but unpaid.
+
+Waiting for a GoPay payment. The payment method has been selected, make the payment as instructed by the payment gateway. If you have chosen a superCASH payment, pay the printed barcode on any terminal Sazka, a.s. The total amount to be paid is {total_paid}. 
+
+You can review your order and download your invoice from the ”Order history” [{history_url}] section of your customer account by clicking ”My account” [{my_account_url}] at our shop.
+If you have a guest account, you can follow your order via the ”Guest Tracking” [{guest_tracking_url}] section at our shop.
+
+{shop_name} - [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/]
+	

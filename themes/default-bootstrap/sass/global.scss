@@ -3550,3 +3550,13 @@ div.star.star_hover {
 .pointer-box {
   cursor: pointer;
 }
+
+
+/*
+	//
+	//  REMOVE DPH ROW FROM CARS SUM BOX
+	//
+*/
+#layer_cart .layer_cart_cart .layer_cart_row:nth-child(4) {
+	display: none !important;
+}

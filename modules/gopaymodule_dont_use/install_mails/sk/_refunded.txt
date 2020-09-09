@@ -1,0 +1,14 @@
+
+[{shop_url}]
+Dobrý den p. {firstname} {lastname},
+
+Aktualizácia stavu objednávky {order_name}: GoPay - platba bola vrátená.
+
+Bolo vykonané vrátenie čiastky {total_paid} späť na váš účet. 
+
+Vaši objednávku můžete zkontrolovat a stáhnout fakturu v sekci „Historie objednávek” [{history_url}] z Vašeho zákaznického účtu kliknutím na „Můj účet” [{my_account_url}] v našem obchodě.
+Pokud máte účet návštěvníka, můžete sledovat své objednávky prostřednictvím „Sledování pro návštěvníky” [{guest_tracking_url}] v našem obchodě.
+
+{shop_name} - [{shop_url}] vytvořen v systému
+PrestaShop(tm) [http://www.prestashop.com/]
+	

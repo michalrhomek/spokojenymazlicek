@@ -1,0 +1,10 @@
+/* PS 1.7 */
+#vyhledejte_pobocku_balikovna {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    #find_balikovna_zip_city {
+        width: 100%;
+    }
+}

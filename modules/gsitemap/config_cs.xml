@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gsitemap</name>
+	<displayName><![CDATA[Google sitemap]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Vygeneruje soubor Google sitemap]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[Tools]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

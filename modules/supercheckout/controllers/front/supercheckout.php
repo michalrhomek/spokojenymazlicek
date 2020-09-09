@@ -265,6 +265,7 @@ class SupercheckoutSupercheckoutModuleFrontController extends ModuleFrontControl
 				Tools::redirect($this->context->link->getModuleLink('supercheckout', 'supercheckout', array(),
 					(bool)Configuration::get('PS_SSL_ENABLED')));
 
+			ob_end_clean();
 			echo Tools::jsonEncode($this->json);
 			die;
 		}

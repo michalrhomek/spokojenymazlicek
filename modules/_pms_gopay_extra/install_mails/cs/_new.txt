@@ -1,0 +1,14 @@
+
+[{shop_url}]
+Dobrý den p. {firstname} {lastname},
+
+Aktualizace stavu objednávky {order_name}: GoPay - čeká se na platbu.
+
+Objednávka byla uložena a čeká na platbu GoPay. Zvolili jste platbu přes platební bránu GoPay, nyní se čeká na provedení výběru platební metody na této bráně. Provést platbu GoPay {repeat_payment_url}.
+
+Vaši objednávku můžete zkontrolovat a stáhnout fakturu v sekci „Historie objednávek” [{history_url}] z Vašeho zákaznického účtu kliknutím na „Můj účet” [{my_account_url}] v našem obchodě.
+Pokud máte účet návštěvníka, můžete sledovat své objednávky prostřednictvím „Sledování pro návštěvníky” [{guest_tracking_url}] v našem obchodě.
+
+{shop_name} - [{shop_url}] vytvořen v systému
+PrestaShop(tm) [http://www.prestashop.com/]
+	

@@ -237,6 +237,12 @@ $(document).ready(function(){
     
     //Confirm Order
     $("#supercheckout_confirm_order").click(function() {
+
+    	/* openservis - Balikovna - begin */
+		if (typeof CheckHardBalikovna === 'function' && CheckHardBalikovna() === false) {
+		return false;
+		}
+
         placeOrder();       
     });
     
@@ -2060,7 +2066,7 @@ function actionOnPaymentSelect(element){
         $('#velsof_payment_dialog .velsof_content_section').html(redirectHtml);
     }else if(payment_module_name == 'bankwire' || payment_module_name == 'invoicepayment' || payment_module_name == 'pagofacil' || payment_module_name == 'postepay' || payment_module_name == 'paysera' || payment_module_name == 'offlinecreditcard' || payment_module_name == 'trustly' || payment_module_name == 'cheque' || payment_module_name == 'deluxecodfees'){
         getPaymentForm(element);
-    }else if(payment_module_name == 'stripejs' || payment_module_name == 'firstdata' || payment_module_name == 'braintreejs_backup' || payment_module_name == 'twocheckout' || payment_module_name == 'brinkscheckout' || payment_module_name == 'ewayrapid' || payment_module_name == 'npaypalpro' ||  payment_module_name == 'mobilpay_cc' || payment_module_name == 'authorizeaim' || payment_module_name == 'khipupayment' || payment_module_name == 'paynl_paymentmethods' || payment_module_name == 'mollie' || payment_module_name == 'quickpay' || payment_module_name == 'moneybookers' || payment_module_name == 'paynlpaymentmethods' || payment_module_name == 'add_gopay_new' || payment_module_name == 'paypal' || payment_module_name == 'parspalpayment' || payment_module_name == 'pronesis_bancasella' || payment_module_name == 'paypalmx' || payment_module_name == 'cmcic_tbweb' || payment_module_name == 'sisoweb' || payment_module_name == 'citrus' || payment_module_name == 'banc_sabadell' || payment_module_name == 'ccavenue' || payment_module_name == 'ogone' || payment_module_name == 'epay' || payment_module_name == 'creditcardpaypal' || payment_module_name == 'paypalusa' || payment_module_name == 'sisowideal' || payment_module_name == 'paypalwithfee' || payment_module_name == 'sisowmc'){
+    }else if(payment_module_name == 'stripejs' || payment_module_name == 'firstdata' || payment_module_name == 'braintreejs_backup' || payment_module_name == 'twocheckout' || payment_module_name == 'brinkscheckout' || payment_module_name == 'ewayrapid' || payment_module_name == 'npaypalpro' ||  payment_module_name == 'mobilpay_cc' || payment_module_name == 'authorizeaim' || payment_module_name == 'khipupayment' || payment_module_name == 'paynl_paymentmethods' || payment_module_name == 'mollie' || payment_module_name == 'quickpay' || payment_module_name == 'moneybookers' || payment_module_name == 'paynlpaymentmethods' || payment_module_name == 'add_gopay_new' || payment_module_name == 'pms_gopay_extra' || payment_module_name == 'paypal' || payment_module_name == 'parspalpayment' || payment_module_name == 'pronesis_bancasella' || payment_module_name == 'paypalmx' || payment_module_name == 'cmcic_tbweb' || payment_module_name == 'sisoweb' || payment_module_name == 'citrus' || payment_module_name == 'banc_sabadell' || payment_module_name == 'ccavenue' || payment_module_name == 'ogone' || payment_module_name == 'epay' || payment_module_name == 'creditcardpaypal' || payment_module_name == 'paypalusa' || payment_module_name == 'sisowideal' || payment_module_name == 'paypalwithfee' || payment_module_name == 'sisowmc'){
         getPaymentForm1(element);
     }else{
         getPaymentForm1(element);
@@ -2179,7 +2185,7 @@ function getPaymentForm1(element){
 		    //$('.velsof_content_section').appendTo('#selected_payment_method_html');
 		$('#selected_payment_method_html').html($('.velsof_content_section').html());
 		$('.paypalpro-submit-button').hide();
-            }else if(payment_module_name == 'moneybookers' || payment_module_name == 'paynlpaymentmethods' ||  payment_module_name == 'add_gopay_new' ||  payment_module_name == 'quickpay' || payment_module_name == 'mollie' || payment_module_name == 'paynl_paymentmethods'){
+            }else if(payment_module_name == 'moneybookers' || payment_module_name == 'paynlpaymentmethods' ||  payment_module_name == 'add_gopay_new' ||  payment_module_name == 'quickpay' ||  payment_module_name == 'pms_gopay_extra' || payment_module_name == 'mollie' || payment_module_name == 'paynl_paymentmethods'){
                 $('#velsof_payment_dialog .velsof_action_section').hide();
             }else if(payment_module_name == 'khipupayment'){
                 $('#velsof_payment_dialog .velsof_action_section').hide();
@@ -2496,6 +2502,11 @@ function moveToPayment(){
 	    createPaymentPop();
 	    $('#velsof_payment_dialog .velsof_action_section').show(); // @nitin 27 July - Important to show proceed button if it is hide in previous payment method selection	    
 	    $('#gopay-payment-form .payment_module').css('display','none');
+        }else if(p_m_name == 'pms_gopay_extra'){
+	    createPaymentPop();
+		$('#supercheckout_dialog_proceed').hide();
+	    $('#velsof_payment_dialog .velsof_action_section').show(); // @nitin 27 July - Important to show proceed button if it is hide in previous payment method selection	    
+	    $('#gopay-payment-form .payment_module').css('display','none');
 	}else if(p_m_name == 'khipupayment' || p_m_name == 'paynl_paymentmethods' || p_m_name == 'mollie' || p_m_name == 'moneybookers' || p_m_name == 'paynlpaymentmethods' || p_m_name == 'epay' || p_m_name == 'quickpay'){
             createPaymentPop();
 	    $('#velsof_payment_dialog .velsof_action_section').show(); // @nitin 27 July - Important to show proceed button if it is hide in previous payment method selection	    
@@ -2581,6 +2592,8 @@ function confirmOrder(){
     if(payment_module_name == 'bankwire' || payment_module_name == 'invoicepayment'){
 	$('#velsof_payment_container .velsof_action_section').css('display','none'); //@Nitin Jain, 1-Oct-2015, to hide proceed button on click, because if clickd twice it was showing error.
     }else if(payment_module_name == 'add_gopay_new'){
+	document.getElementById('gopay-payment-form').submit(); return false;
+    }else if(payment_module_name == 'pms_gopay_extra'){
 	document.getElementById('gopay-payment-form').submit(); return false;
     }
     if(payment_module_name == 'bankwire' ||  payment_module_name == 'mercadopago' || payment_module_name == 'add_bankwire' || payment_module_name == 'edinar' || payment_module_name == 'clictopay' || payment_module_name == 'allpay' || payment_module_name == 'pay2go' || payment_module_name == 'cash' || payment_module_name == 'postfinance' || payment_module_name == 'pagseguro' || payment_module_name == 'bcash' || payment_module_name == 'braintreejs' || payment_module_name == 'invoicepayment' || payment_module_name == 'przelewy24' || payment_module_name == 'prestalia_cashondelivery' ||  payment_module_name == 'virtpaypayment' || payment_module_name == 'cashondeliveryfeeplus' || payment_module_name == 'pagonlineimprese' || payment_module_name == 'mokejimai' || payment_module_name == 'payplug' || payment_module_name == 'seurcashondelivery' || payment_module_name == 'cashondeliveryplus' || payment_module_name == 'universalpay' || payment_module_name == 'mandiri' || payment_module_name == 'bni' || payment_module_name == 'bca' || payment_module_name == 'veritranspay' || payment_module_name == 'przelewy24' || payment_module_name == 'transbancaria' || payment_module_name == 'cashondeliveryplusmax' || payment_module_name == 'multibanco' || payment_module_name == 'ceca' || payment_module_name == 'dotpay' || payment_module_name == 'pagofacil' || payment_module_name == 'postepay' || payment_module_name == 'paysera' || payment_module_name == 'offlinecreditcard' || payment_module_name == 'paypaladvanced' || payment_module_name == 'trustly' || payment_module_name == 'cheque' || payment_module_name == 'deluxecodfees'){

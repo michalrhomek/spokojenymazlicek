@@ -1,0 +1,91 @@
+.bootstrap select, .bootstrap input[type="text"] {
+    width: 150px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.bootstrap select.select_bigger {
+    width: 300px;
+}
+
+.bootstrap label.nastaveni {
+    width: 200px;
+}
+
+.bootstrap fieldset.margin_up {
+    margin-top: 50px;
+}
+
+.heureka_sk_padding {
+    padding-top: 30px;
+}
+
+.glami_sk_padding {
+    padding-top: 30px;
+}
+
+#left_heureka_cz span, #left_heureka_sk span, #left_google span, #left_zbozi span, #right_heureka_cz span, #right_heureka_sk span, #right_google span, #right_zbozi span,
+#left_glami_cz span, #left_glami_sk span, #right_glami_cz span, #right_glami_sk span {
+    display: block;
+    line-height: 150%;
+    padding-left: 10px;
+    text-align: left;
+}
+
+#left_heureka_cz span:hover, #left_heureka_sk span:hover, #left_google span:hover, #left_zbozi span:hover, #right_heureka_cz span:hover, #right_heureka_sk span:hover, #right_google span:hover, #right_zbozi span:hover,
+#left_glami_cz span:hover, #left_glami_sk span:hover, #right_glami_cz span:hover, #right_glami_sk span:hover {
+    cursor: pointer;
+    background: grey;
+    color: white;
+}
+
+.active {
+    background: grey;
+    color: white;
+}
+
+.unactive {
+    background: white;
+    color: black;
+}
+
+#left_heureka_cz, #left_heureka_sk, #left_google, #left_zbozi,
+#left_glami_cz, #left_glami_sk {
+    display: block;
+    float: left;
+    width: 38.5%;
+    height: 602px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+#right_heureka_cz, #right_heureka_sk, #right_google, #right_zbozi,
+#right_glami_cz, #right_glami_sk {
+    display: block;
+    float: right;
+    width: 58.5%;
+    height: 540px;
+    margin-top: 10px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+#rightBottom_heureka_cz, #rightBottom_heureka_sk, #rightBottom_google, #rightBottom_zbozi,
+#rightBottom_glami_cz, #rightBottom_glami_sk {
+    display: block;
+    float: right;
+    width: 58.5%;
+    height: 50px;
+    border: solid 1px black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#left_heureka_cz span, #left_heureka_sk span, #left_google span, #left_zbozi span,
+#left_glami_cz span, #left_glami_sk span {
+    border-left: solid 5px red;
+}

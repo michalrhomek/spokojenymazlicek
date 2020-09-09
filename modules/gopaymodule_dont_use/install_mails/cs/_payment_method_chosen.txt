@@ -1,0 +1,14 @@
+
+[{shop_url}]
+Dobrý den p. {firstname} {lastname},
+
+Aktualizace stavu objednávky {order_name}: GoPay - způsob platby vybrán, ale nezaplaceno.
+
+Čeká se na platbu přes GoPay. Platební metoda byla vybrána, proveďte platbu dle pokynů z platební brány. Pokud jste zvolili platbu metodou superCASH, zaplaťte vytištěný čárový kód na libovolném terminálu Sazka, a.s. Celková částka k úhradě je {total_paid}. 
+
+Vaši objednávku můžete zkontrolovat a stáhnout fakturu v sekci „Historie objednávek” [{history_url}] z Vašeho zákaznického účtu kliknutím na „Můj účet” [{my_account_url}] v našem obchodě.
+Pokud máte účet návštěvníka, můžete sledovat své objednávky prostřednictvím „Sledování pro návštěvníky” [{guest_tracking_url}] v našem obchodě.
+
+{shop_name} - [{shop_url}] vytvořen v systému
+PrestaShop(tm) [http://www.prestashop.com/]
+	

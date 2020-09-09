@@ -1,0 +1,29 @@
+#find_balikovna_zip_city {
+    padding: 10px;
+}
+
+#result_balikovna_zip_city {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#vypis_balikovna .vypis_balikovna_td {
+    margin: 5px;
+    padding: 5px;
+}
+
+#vypis_balikovna .vypis_balikovna_td_nadpis {
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+#text_vyhledejte {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* onepagecheckout modul roztazeni tabulky */
+#opc_checkout table#vypis_balikovna {
+    width: 100%;
+}

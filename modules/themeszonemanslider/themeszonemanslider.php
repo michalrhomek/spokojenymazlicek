@@ -101,6 +101,12 @@ class ThemesZoneManSlider extends Module {
 
         $manuf = $this->getManufacturers();
 
+
+        if(! isset($config['title'])) {
+            $config['title'] = "";
+            $config['title'][$this->context->language->id] = "";
+        }
+        
         $this->smarty->assign(array(
             'items_wide' => $config['tzc_man_items_wide'],
             'items_desktop' => $config['tzc_man_items_desktop'],

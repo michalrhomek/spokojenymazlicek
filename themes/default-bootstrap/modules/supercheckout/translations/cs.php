@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 global $_MODULE;
 $_MODULE = array();
@@ -18,7 +18,7 @@ $_MODULE['<{supercheckout}default-bootstrap>supercheckout_626295ee4555407394df3e
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_802b207b05fe5cea22e11b9db804b33d'] = 'Ověření se nezdařilo.';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_a2061525edd9a37cf6e0b850cfcc3e49'] = 'Není možné přihlásit se sociální stránky';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_4de187afa179edd221220fc6c8ac3c6c'] = 'Identifikační číslo je nesprávné nebo již byl použit';
-$_MODULE['<{supercheckout}default-bootstrap>supercheckout_44682ac18cbb608671114b0ad48bc1db'] = 'Název Delivery Alias';
+$_MODULE['<{supercheckout}default-bootstrap>supercheckout_44682ac18cbb608671114b0ad48bc1db'] = 'Adresa uživatele';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_4df1af04f7e2c3b8ec52979cd5e036b5'] = 'Došlo k chybě při vytváření nové adresy';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_421e0dbceca3701acadbebab012cefef'] = 'Došlo k chybě při aktualizaci adresu';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_1888cb50796c9a49ea4439bf5cc67381'] = 'Ne Způsob doručení je k dispozici pro tuto adresu';
@@ -143,17 +143,17 @@ $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_9193b58520051d8
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_32224bd6487699ea66652d3dc502455d'] = 'Rád bych svou objednávku být dárek wrapped1.';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_5c2dfd55fea1f5c6adef500fcb6403b4'] = 'Dodatečné náklady na% s';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_9fec2102dd0b5b29d6cdf9d5614fabf7'] = '(S připočtením.)';
-$_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_f8c15b7bbb41e8c9b16542abfb1836c9'] = '(Vč.)';
+$_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_f8c15b7bbb41e8c9b16542abfb1836c9'] = ''; //(Vč.)
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_a5d8d6e969b072826139f739afc1e77d'] = 'Souhlasím s podmínkami služby a bude dodržovat ně bezpodmínečně.';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping-extra_85fc3327587dada8ea6853382e84c9a7'] = 'Přečtěte si termín služeb';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_51dfe3dfbcd0ea5974aba6663a660a2b'] = 'Ne Způsob doručení Povinné';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_6e15f72a51837e528df003792a367360'] = 'Ne Způsob doručení dispozici';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_1888cb50796c9a49ea4439bf5cc67381'] = 'Ne Způsob doručení je k dispozici pro tuto adresu';
-$_MODULE['<{supercheckout}default-bootstrap>order-shipping_b6dddfff5178ce64364ca3f683930354'] = 'Nejlepší cena a rychlost';
+$_MODULE['<{supercheckout}default-bootstrap>order-shipping_b6dddfff5178ce64364ca3f683930354'] = ''; //Nejlepší cena a rychlost
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_dec6c47a1fa4eadad84197f1bf4c0464'] = 'Nejrychlejší';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_6f3faaf593a70a0559bfc9ed15ec79db'] = 'Nejlepší cena';
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_9fec2102dd0b5b29d6cdf9d5614fabf7'] = '(S připočtením.)';
-$_MODULE['<{supercheckout}default-bootstrap>order-shipping_f8c15b7bbb41e8c9b16542abfb1836c9'] = '(Vč.)';
+$_MODULE['<{supercheckout}default-bootstrap>order-shipping_f8c15b7bbb41e8c9b16542abfb1836c9'] = ''; //(Vč.)
 $_MODULE['<{supercheckout}default-bootstrap>order-shipping_b24ce0cd392a5b0b8dedc66c25213594'] = 'Zdarma';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_b00b85425e74ed2c85dc3119b78ff2c3'] = 'Doprava Zdarma';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_51dfe3dfbcd0ea5974aba6663a660a2b'] = 'Ne Způsob doručení Povinné';
@@ -167,7 +167,7 @@ $_MODULE['<{supercheckout}default-bootstrap>supercheckout_97248fb9b425332572811f
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_80bcad61b1868479c2c0f1972f194300'] = 'Technická chyba: požadavek se nezdařil Podrobnosti: Chyba vyvolána:% stav sText:% s';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_252f538e225f583ea2dae0b46eb9114f'] = 'Uveďte prosím požadované informace';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_19abe6c02a26dcd93020396df8d0721c'] = 'Celkem Poukázky';
-$_MODULE['<{supercheckout}default-bootstrap>supercheckout_f8c15b7bbb41e8c9b16542abfb1836c9'] = '(Vč.)';
+$_MODULE['<{supercheckout}default-bootstrap>supercheckout_f8c15b7bbb41e8c9b16542abfb1836c9'] = ''; //(Vč.)
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_9fec2102dd0b5b29d6cdf9d5614fabf7'] = '(S připočtením.)';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_a40cab5994f36d4c48103a22ca082e8f'] = 'Váš nákupní košík';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_83218ac34c1834c26781fe4bde918ee4'] = 'Vítejte';
@@ -186,7 +186,7 @@ $_MODULE['<{supercheckout}default-bootstrap>supercheckout_c5280bfd84046c12f82011
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_20fc781978386e6aa970a32166e1cb39'] = 'Použít novou adresu';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_550f21a74f8fccd8d25251cce1fed69c'] = 'Stejná fakturační adresa';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_6e15f72a51837e528df003792a367360'] = 'Ne Způsob doručení dispozici';
-$_MODULE['<{supercheckout}default-bootstrap>supercheckout_b6dddfff5178ce64364ca3f683930354'] = 'Nejlepší cena a rychlost';
+$_MODULE['<{supercheckout}default-bootstrap>supercheckout_b6dddfff5178ce64364ca3f683930354'] = ''; //Nejlepší cena a rychlost
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_dec6c47a1fa4eadad84197f1bf4c0464'] = 'Nejrychlejší';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_6f3faaf593a70a0559bfc9ed15ec79db'] = 'Nejlepší cena';
 $_MODULE['<{supercheckout}default-bootstrap>supercheckout_b24ce0cd392a5b0b8dedc66c25213594'] = 'Zdarma';

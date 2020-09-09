@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>shaim_recaptcha</name>
+	<displayName><![CDATA[PSmoduly.cz / OpenServis.cz - AntiSpam reCAPTCHA]]></displayName>
+	<version><![CDATA[1.8.3]]></version>
+	<description><![CDATA[Děl&aacute;me nejenom moduly, ale i programov&aacute;n&iacute; pro Prestashop na m&iacute;ru a tak&eacute; spr&aacute;vu e-shopů. Napi&scaron;te n&aacute;m, pomůžeme V&aacute;m s Va&scaron;im obchodem na platformě Prestashop.]]></description>
+	<author><![CDATA[Dominik Shaim (www.psmoduly.cz / www.openservis.cz)]]></author>
+	<tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Opravdu chcete odinstalovat modul PSmoduly.cz / OpenServis.cz - AntiSpam reCAPTCHA?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

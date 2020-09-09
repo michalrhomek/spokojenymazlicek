@@ -18,15 +18,15 @@
     padding: 4px 0px 2px 0px; }
 
 .shopping_cart {
-  /* width: 270px; */ }
+  width: 270px; }
   @media (max-width: 480px) {
     .shopping_cart {
-    /*  padding-top: 20px; */ } }
+      padding-top: 20px; } }
   @media (max-width: 1200px) {
     .shopping_cart {
       margin: 0 auto;
       float: none;
-     /* width: 100%; */ } }
+      width: 100%; } }
   .shopping_cart > a:first-child {
     padding: 7px 10px 14px 16px;
     background: #333;

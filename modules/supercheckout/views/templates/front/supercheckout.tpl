@@ -60,6 +60,7 @@
 	    var inline_validation = {$settings['inline_validation']['enable']|intval};
             {urldecode($settings['custom_js'])}    //Variable contains custom js code, escape not required
 </script>
+
 {assign var='login_boxes_width' value=50|intval}
 {if $settings['fb_login']['enable'] || $settings['fb_login']['enable']}
     {$login_boxes_width = 33}
@@ -610,9 +611,11 @@
 								{/if}
 
 							    </td>
+							    
 							    <td class="shipping_info">
 								<label for="shipping_method_{$id_address|intval}_{$option@index|intval}">
 								    {assign var='sub_carriers_count' value=count($option.carrier_list)}
+								    
 								    {if $display_carrier_style neq 0}
 									{foreach $option.carrier_list as $carrier}
 									    {if $carrier.logo}                                                            
@@ -625,7 +628,8 @@
 									    {foreach $option.carrier_list as $carrier}
 										{$carrier.instance->name|escape:'htmlall':'UTF-8'}
 									    {/foreach}
-									{/if}                                                        
+									{/if}
+								                                                      
 									{if !$option.unique_carrier}                                                            
 									    {foreach $option.carrier_list as $carrier}
 										{$carrier.instance->name|escape:'htmlall':'UTF-8'}
@@ -633,20 +637,9 @@
 										{if ($sub_carriers_count lt $option.carrier_list) && $sub_carriers_count gt 0}&{/if}
 									    {/foreach}
 									{/if}
-									{if count($option_list) > 1}
-									    {if $option.is_best_grade}
-										{if $option.is_best_price}
-										    {l s='The best price and speed' mod='supercheckout'}
-										{else}
-										    {l s='The Fastest' mod='supercheckout'}
-										{/if}
-									    {else}
-										{if $option.is_best_price}
-										    {l s='The Best Price' mod='supercheckout'}
-										{/if}
-									    {/if}
-									{/if}                                                        
+                                                 
 								    {/if}
+
 								</label>
 								{if $option.unique_carrier && isset($carrier.instance->delay[$cookie->id_lang])}
 								    <span class="supercheckout-shipping-small-title">{$carrier.instance->delay[$cookie->id_lang]|escape:'htmlall':'UTF-8'}</span>
@@ -654,19 +647,12 @@
 								{if count($option_list) > 1}
 								    <span class="supercheckout-shipping-small-title">
 								    {if $option.is_best_grade}
-									{if $option.is_best_price}
-									    {l s='The best price and speed' mod='supercheckout'}
-									{else}
-									    {l s='The Fastest' mod='supercheckout'}
-									{/if}
-								    {else}
-									{if $option.is_best_price}
-									    {l s='The Best Price' mod='supercheckout'}
-									{/if}
+
 								    {/if}
 								    </span>
 								{/if}
 							    </td>
+
 							    <td class="">
 								<label for="shipping_method_{$id_address|intval}_{$option@index|intval}">
 								    {if $option.total_price_with_tax && (isset($option.is_free) && $option.is_free == 0) && (!isset($free_shipping) || (isset($free_shipping) && !$free_shipping))}
@@ -709,10 +695,16 @@
                 
             </div>
             
-            <div style="{if $settings['payment_method']['enable'] eq 0}display:none;{/if}" class="supercheckout-blocks" data-column="{$settings['design']['payment_method'][$layout_name]['column']|intval}" data-row="{$settings['design']['payment_method'][$layout_name]['row']|intval}" data-column-inside="{$settings['design']['payment_method'][$layout_name]['column-inside']|intval}">
+            <div style="{if $settings['payment_method']['enable'] eq 0}display:none;{/if}" class="supercheckout-blocks methodBlocks" data-column="{$settings['design']['payment_method'][$layout_name]['column']|intval}" data-row="{$settings['design']['payment_method'][$layout_name]['row']|intval}" data-column-inside="{$settings['design']['payment_method'][$layout_name]['column-inside']|intval}">
+            
+            <!--	
+            <p class="paymentMethod_infobox">
+                <i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Potvrďte prosím způsob platby, který chcete pro nákup využít.
+            </p> 
+        	-->
                 <ul>
-                    <li>
-                        <p class="supercheckout-numbers supercheckout-numbers-4">{l s='Payment Method' mod='supercheckout'}</p>
+                    <li> 
+                        <p class="supercheckout-numbers supercheckout-numbers-4">Potvrzení způsobu platby</p>
                         <div class="loader" id="paymentMethodLoader"></div>
                     </li>                
                 </ul>
@@ -1240,7 +1232,7 @@
                                     <td class="title"><b>{if $display_tax_label}{l s='Total products' mod='supercheckout'} {l s='(Tax excl.)' mod='supercheckout'}{else}{l s='Total products' mod='supercheckout'}{/if}</b></td>
                                     <td class="value"><span id="total_product" class="price">{displayPrice price=$total_products}</span> </td>
                                 {else}
-                                    <td class="title"><b>{if $display_tax_label}{l s='Total products' mod='supercheckout'} {l s='(Tax incl.)' mod='supercheckout'}{else}{l s='Total products' mod='supercheckout'}{/if}</b></td>
+                                    <td class="title"><b>{if $display_tax_label}{l s='Total products' mod='supercheckout'}{else}{l s='Total products' mod='supercheckout'}{/if}</b></td>
                                     <td class="value"><span id="total_product" class="price">{displayPrice price=$total_products_wt}</span></td>
                                 {/if}
                             {else}
@@ -1295,10 +1287,12 @@
                             {/if}
                                                         
                             {if $use_taxes}
+                            {*}
                                 <tr>
                                     <td class="title"><b>{l s='Total Tax' mod='supercheckout'}</b></td>
                                     <td class="value"><span id="total_tax" class="price">{displayPrice price=$total_tax}</span></td>
                                 </tr>
+                            {*}
                             {/if}
                             <tr class="cart_total_voucher" {if $total_discounts == 0}style="display:none"{/if}>
                                 <td class="title">
@@ -1452,12 +1446,25 @@
 				});
 			</script>
                             <label><input id="tnc_checkbox" type="checkbox" name="cgv" value="1" {if $checkedTOS}checked="checked"{/if} />
-                            {l s='I agree to the terms of service and will adhere to them unconditionally. ' mod='supercheckout'}        
-			    </label>
-                            (<a href="{$link_conditions|escape:'html':'UTF-8'}" target="_blank" class="iframe various fancybox.ajax" rel="nofollow">{l s='Read the term of services' mod='supercheckout'}</a>)
+{l s='I agree to the terms of service and will adhere to them unconditionally. ' mod='supercheckout'}
+</label>
+(<a href="{$link_conditions|escape:'html':'UTF-8'}" target="_blank" class="iframe various fancybox.ajax" rel="nofollow">{l s='Read the term of services' mod='supercheckout'}</a>)
+{* openservis - Heureka - NeSouhlas - begin *}
+{hook h='displayHeurekaNeSouhlas'}
+{* openservis - Heureka - NeSouhlas - end *}
+                            
                         </div>
                         {/if}
-                    </div>            
+                    </div>
+                <p class="supercheckout-infoBox">
+                <i class="fa fa-question-circle" aria-hidden="true"></i> &nbsp; Odesláním objednávky vyjadřujete souhlas s obchodními podmínkami provozovatele.
+                </p>
+                <p class="supercheckout-checkbox">
+                    <label>
+                        <input type="checkbox" id="confirm-supercheck" checked="checked"> Souhlasím s <a href="https://spokojeny-mazlicek.cz/content/7-obchodni-podminky" target="_blank" class="checkout-link">obchodními podmínkami</a> a beru na vědomí <a href="https://spokojeny-mazlicek.cz/podminky_ochrany.pdf" target="_blank" class="checkout-link">zpracování osobních údajů </a>
+                    </label>
+                </p>  
+                <br>          
                 <div id="placeorderButton">
                     <div id="buttonWithProgres" style="width:206px;">
                         <div  id="supercheckout_confirm_order" class="orangebutton" >
@@ -1469,6 +1476,31 @@
                 </div>
                 <input type="hidden" name="supercheckout_submission" value="" />
             </div>
+
+            {literal}
+            <script type="text/javascript">
+                if($("#confirm-supercheck").attr('checked')) {
+                    $("#supercheckout_confirm_order").css({"opacity":"1", "pointer-events":"default"});
+                } else {
+                    $("#supercheckout_confirm_order").css({"opacity":"0.5", "pointer-events":"none"});
+                }
+
+                $("#confirm-supercheck").change(function() {
+                    if($("#confirm-supercheck").attr('checked')) {
+                        $("#supercheckout_confirm_order").css({"opacity":"1", "pointer-events":"default"});
+                    } else {
+                        $("#supercheckout_confirm_order").css({"opacity":"0.5", "pointer-events":"none"});
+                    }
+                });
+
+                $("#supercheckout_confirm_order").click(function() {
+                    if(!$("#confirm-supercheck").attr('checked')) {
+                        return false;
+                    }
+                });
+
+            </script>
+            {/literal}
 
             {foreach from=$settings['design']['html'] item='html'}
             <div  class="supercheckout-blocks" data-column="{$html[$layout_name]['column']|intval}" data-row="{$html[$layout_name]['row']|intval}" data-column-inside="{$html[$layout_name]['column-inside']|intval}">

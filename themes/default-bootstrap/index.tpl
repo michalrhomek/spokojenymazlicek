@@ -32,4 +32,22 @@
 {/if}
 {if isset($HOOK_HOME) && $HOOK_HOME|trim}
 	<div class="clearfix">{$HOOK_HOME}</div>
+
+  <div class="mobileHomepageHeureka">
+    <a href="https://obchody.heureka.cz/spokojeny-mazlicek-cz/recenze/" target="_blank"><img src="https://spokojeny-mazlicek.cz/img/cms/heureka.png" alt="" width="225" height="225"></a>
+  </div>
 {/if}
+
+<script>
+{literal}
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+
+  ga('create', 'UA-128573537-1', 'auto'); // Insert your GA Web Property ID here, e.g., UA-12345-1
+  ga('set','ecomm_pagetype','home'); // Optional Page type value, e.g., home, cart, purchase
+  ga('send', 'pageview');
+
+{/literal}
+</script>

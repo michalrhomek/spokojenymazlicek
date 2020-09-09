@@ -52,8 +52,8 @@
 	{include file="$tpl_dir./errors.tpl"}
 	<div class="contact_box_simple_info">
 		<h2> Kontakt </h2>	
-         <div class="flex"><i class="icon-map-marker"></i> <div> Spokojeny-mazlicek.cz <br /> Vídeňská 264/120B <br />
-61900 Brno-Přízřenice </div> </div> <br />
+         <div class="flex"><i class="icon-map-marker"></i> <div> PROMAZLÍČKY CZ, s.r.o., <br /> Lidická 700/19 <br />
+Brno 602 00 </div> </div> <br />
         <i class="icon-envelope-alt"></i> E-mail: <span> <a href="mailto:%73%70%6f%6b%6f%6a%65%6e%79-%6d%61%7a%6c%69%63%65%6b@%65%6d%61%69%6c.%63%7a">spokojeny-mazlicek@email.cz</a></span> <br />
         <i class="icon-phone"></i>Telefon: 
             		<span>+420 602 221 135</span>

@@ -4,7 +4,7 @@
 		<div class="cat-title">{l s="Menu" mod="blocktopmenu"}</div>
 		<ul class="sf-menu clearfix menu-content">
 			{$MENU}
-			{if $MENU_SEARCH}
+			{if null && $MENU_SEARCH}
 				<li class="sf-search noBack">
 					<form id="searchbox" action="{$link->getPageLink('search')|escape:'html':'UTF-8'}" method="get">
 						<p>

@@ -1,0 +1,9 @@
+Modul GoPay na platformě PrestaShop
+www.prestamoduleshop.com
+
+
+=======================
+ v1.0.0 (22. 6. 2018)
+=======================
+- První oficiální verze
+

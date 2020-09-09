@@ -1,0 +1,3568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dat:dataPack id="spokojeny-mazlicek.cz" ico="07368526" application="invoice" version="2.0" note="Import Faktury" xmlns:dat="http://www.stormware.cz/schema/version_2/data.xsd" xmlns:adb="http://www.stormware.cz/schema/version_2/addressbook.xsd" xmlns:inv="http://www.stormware.cz/schema/version_2/invoice.xsd" xmlns:typ="http://www.stormware.cz/schema/version_2/type.xsd">
+<dat:dataPackItem id="2049" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>GYRPDLKBC</inv:numberOrder>
+<inv:date>2020-08-01</inv:date><inv:number>
+    <typ:numberRequested>2049</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. GYRPDLKBC spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2049</inv:symVar>
+<inv:dateTax>2020-08-01</inv:dateTax>
+<inv:dateOrder>2020-08-01</inv:dateOrder>
+<inv:dateAccounting>2020-08-01</inv:dateAccounting>
+<inv:dateDue>2020-08-15</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>k.slabikova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Krém pro psy proti podráždění po bodnutí hmyzem ESPREE 44ml]]></inv:text>
+<inv:code><![CDATA[316-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>263.64</typ:unitPrice>
+<typ:price>263.64</typ:price>
+<typ:priceVAT>55.36</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2050" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>CMBJLLLAF</inv:numberOrder>
+<inv:date>2020-08-01</inv:date><inv:number>
+    <typ:numberRequested>2050</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. CMBJLLLAF spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2050</inv:symVar>
+<inv:dateTax>2020-08-01</inv:dateTax>
+<inv:dateOrder>2020-08-01</inv:dateOrder>
+<inv:dateAccounting>2020-08-01</inv:dateAccounting>
+<inv:dateDue>2020-08-15</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>petra.volkova01@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Bezoplachový kondicionér na srst CHRIS CHRISTENSEN Ice On Ice 473ml]]></inv:text>
+<inv:code><![CDATA[692-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>387.6</typ:unitPrice>
+<typ:price>387.6</typ:price>
+<typ:priceVAT>81.4</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>115</typ:unitPrice>
+<typ:price>115</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2051" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>PYWZMBOKZ</inv:numberOrder>
+<inv:date>2020-08-01</inv:date><inv:number>
+    <typ:numberRequested>2051</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. PYWZMBOKZ spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2051</inv:symVar>
+<inv:dateTax>2020-08-01</inv:dateTax>
+<inv:dateOrder>2020-08-01</inv:dateOrder>
+<inv:dateAccounting>2020-08-01</inv:dateAccounting>
+<inv:dateDue>2020-08-15</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>nad.jana@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Obojek pro psy PAW KLASIK 15mm x 30-50cm - Barva : modrá]]></inv:text>
+<inv:code><![CDATA[1259-2797]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : modrá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>90.08</typ:unitPrice>
+<typ:price>90.08</typ:price>
+<typ:priceVAT>18.92</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Svítící přívěsek  na obojek pro psy B'SEEN - Barva : modrá]]></inv:text>
+<inv:code><![CDATA[416-3518]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : modrá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>156.2</typ:unitPrice>
+<typ:price>156.2</typ:price>
+<typ:priceVAT>32.8</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2052" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>IQCSDNGLN</inv:numberOrder>
+<inv:date>2020-08-01</inv:date><inv:number>
+    <typ:numberRequested>2052</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. IQCSDNGLN spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2052</inv:symVar>
+<inv:dateTax>2020-08-01</inv:dateTax>
+<inv:dateOrder>2020-08-01</inv:dateOrder>
+<inv:dateAccounting>2020-08-01</inv:dateAccounting>
+<inv:dateDue>2020-08-15</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>ala.pro79@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pelech do auta pro psy 60x45cm - Barva : šedá]]></inv:text>
+<inv:code><![CDATA[172-1458]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : šedá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>602.48</typ:unitPrice>
+<typ:price>602.48</typ:price>
+<typ:priceVAT>126.52</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Obojek polostahovací pro psy PAW 15mm x 23-35cm - Barva : růžová]]></inv:text>
+<inv:code><![CDATA[1256-2784]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : růžová</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>90.08</typ:unitPrice>
+<typ:price>90.08</typ:price>
+<typ:priceVAT>18.92</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2053" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>TWOKRVWES</inv:numberOrder>
+<inv:date>2020-08-01</inv:date><inv:number>
+    <typ:numberRequested>2053</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. TWOKRVWES spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2053</inv:symVar>
+<inv:dateTax>2020-08-01</inv:dateTax>
+<inv:dateOrder>2020-08-01</inv:dateOrder>
+<inv:dateAccounting>2020-08-01</inv:dateAccounting>
+<inv:dateDue>2020-08-15</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>klara.elgartova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Matrace pro psy HAPPY DE LUXE - Barva : hnědá, Rozměr : 120x80 cm]]></inv:text>
+<inv:code><![CDATA[169-1308]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : hnědá, Rozměr : 120x80 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>917.36</typ:unitPrice>
+<typ:price>917.36</typ:price>
+<typ:priceVAT>192.64</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>105</typ:unitPrice>
+<typ:price>105</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2055" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>TTBPXNWUP</inv:numberOrder>
+<inv:date>2020-08-02</inv:date><inv:number>
+    <typ:numberRequested>2055</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. TTBPXNWUP spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2055</inv:symVar>
+<inv:dateTax>2020-08-02</inv:dateTax>
+<inv:dateOrder>2020-08-02</inv:dateOrder>
+<inv:dateAccounting>2020-08-02</inv:dateAccounting>
+<inv:dateDue>2020-08-16</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>babiv@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kartáč pro psy ActiVet Green měkký - velký]]></inv:text>
+<inv:code><![CDATA[452-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>velký</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>1619.01</typ:unitPrice>
+<typ:price>1619.01</typ:price>
+<typ:priceVAT>339.99</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Rozeznávací obojky pro štěňata NYLON 17-25cm/10mm (6ks)]]></inv:text>
+<inv:code><![CDATA[1343-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>114.88</typ:unitPrice>
+<typ:price>114.88</typ:price>
+<typ:priceVAT>24.12</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2057" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>EYDEMPERK</inv:numberOrder>
+<inv:date>2020-08-02</inv:date><inv:number>
+    <typ:numberRequested>2057</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. EYDEMPERK spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2057</inv:symVar>
+<inv:dateTax>2020-08-02</inv:dateTax>
+<inv:dateOrder>2020-08-02</inv:dateOrder>
+<inv:dateAccounting>2020-08-02</inv:dateAccounting>
+<inv:dateDue>2020-08-16</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>merkl.karel@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO COARSE hrubý]]></inv:text>
+<inv:code><![CDATA[348-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2058" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>ZZPIAWGEQ</inv:numberOrder>
+<inv:date>2020-08-02</inv:date><inv:number>
+    <typ:numberRequested>2058</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. ZZPIAWGEQ spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2058</inv:symVar>
+<inv:dateTax>2020-08-02</inv:dateTax>
+<inv:dateOrder>2020-08-02</inv:dateOrder>
+<inv:dateAccounting>2020-08-02</inv:dateAccounting>
+<inv:dateDue>2020-08-16</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>s.zim@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Obojek pro psy URBAN PUP PINK FLORAL CASCADE - Velikost : S]]></inv:text>
+<inv:code><![CDATA[1292-2871]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : S</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>238.84</typ:unitPrice>
+<typ:price>238.84</typ:price>
+<typ:priceVAT>50.16</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Obojek se šátkem pro psy URBAN PUP VINTAGE ROSE FLORAL - Velikost : S]]></inv:text>
+<inv:code><![CDATA[1384-3182]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : S</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>172.73</typ:unitPrice>
+<typ:price>172.73</typ:price>
+<typ:priceVAT>36.27</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2059" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>HVDJVPICJ</inv:numberOrder>
+<inv:date>2020-08-02</inv:date><inv:number>
+    <typ:numberRequested>2059</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. HVDJVPICJ spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2059</inv:symVar>
+<inv:dateTax>2020-08-02</inv:dateTax>
+<inv:dateOrder>2020-08-02</inv:dateOrder>
+<inv:dateAccounting>2020-08-02</inv:dateAccounting>
+<inv:dateDue>2020-08-16</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>losanovakaeolina17@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Flexibilní oboustranný kartáč pro psy ARTERO TWINFLEX]]></inv:text>
+<inv:code><![CDATA[1005-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>404.13</typ:unitPrice>
+<typ:price>404.13</typ:price>
+<typ:priceVAT>84.87</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Latexové gumičky SHOW TECH na top knot 0,8cm/1000ks - černé]]></inv:text>
+<inv:code><![CDATA[669-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>černé</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>247.11</typ:unitPrice>
+<typ:price>247.11</typ:price>
+<typ:priceVAT>51.89</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Hedvábný kondicionér na srst CHRIS CHRISTENSEN SILK SPIRIT - Varianty : 118ml]]></inv:text>
+<inv:code><![CDATA[345-764]]></inv:code>
+<inv:quantity>2</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 118ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>329.75</typ:unitPrice>
+<typ:price>329.75</typ:price>
+<typ:priceVAT>69.25</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Vodítko pro psy FLEXI FLAMINGO M lanko 5m/do 20kg]]></inv:text>
+<inv:code><![CDATA[1517-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>263.64</typ:unitPrice>
+<typ:price>263.64</typ:price>
+<typ:priceVAT>55.36</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kartáč pro psy SHOW TECH s bezpečnými nylonovými hroty]]></inv:text>
+<inv:code><![CDATA[307-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>247.11</typ:unitPrice>
+<typ:price>247.11</typ:price>
+<typ:priceVAT>51.89</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Hedvábný kondicionér na srst CHRIS CHRISTENSEN SILK SPIRIT - Varianty : 236ml]]></inv:text>
+<inv:code><![CDATA[345-765]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 236ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>503.31</typ:unitPrice>
+<typ:price>503.31</typ:price>
+<typ:priceVAT>105.69</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: PPL - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>229</typ:unitPrice>
+<typ:price>229</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2060" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>OUPACKHSQ</inv:numberOrder>
+<inv:date>2020-08-02</inv:date><inv:number>
+    <typ:numberRequested>2060</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. OUPACKHSQ spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2060</inv:symVar>
+<inv:dateTax>2020-08-02</inv:dateTax>
+<inv:dateOrder>2020-08-02</inv:dateOrder>
+<inv:dateAccounting>2020-08-02</inv:dateAccounting>
+<inv:dateDue>2020-08-16</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>Lucina.jiraskova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pelech do auta pro psy 60x45cm - Barva : šedá]]></inv:text>
+<inv:code><![CDATA[172-1458]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : šedá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>602.48</typ:unitPrice>
+<typ:price>602.48</typ:price>
+<typ:priceVAT>126.52</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Šampon pro štěňata WILDWASH PET Puppy Love 250ml]]></inv:text>
+<inv:code><![CDATA[801-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>238.84</typ:unitPrice>
+<typ:price>238.84</typ:price>
+<typ:priceVAT>50.16</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2063" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>XDZAMFJSW</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2063</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. XDZAMFJSW spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2063</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>L.barunka@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Postroj pro psy URBAN PUP Vintage Rose Floral - Velikost : S]]></inv:text>
+<inv:code><![CDATA[504-948]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : S</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>442.15</typ:unitPrice>
+<typ:price>442.15</typ:price>
+<typ:priceVAT>92.85</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: PPL - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>229</typ:unitPrice>
+<typ:price>229</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2064" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>HNADPJNJR</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2064</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. HNADPJNJR spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2064</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>dudas.stefan@hotmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO COARSE hrubý - pro leváky]]></inv:text>
+<inv:code><![CDATA[776-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>pro leváky</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2065" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>DNVVPQCUA</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2065</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. DNVVPQCUA spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2065</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>gsnajdrova@volny.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kukaň pro psy CORAL 40x32cm - Barva : zelená]]></inv:text>
+<inv:code><![CDATA[381-2397]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : zelená</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>470.25</typ:unitPrice>
+<typ:price>470.25</typ:price>
+<typ:priceVAT>98.75</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kukaň pro psy CORAL 40x32cm - Barva : šedá]]></inv:text>
+<inv:code><![CDATA[381-2399]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : šedá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>470.25</typ:unitPrice>
+<typ:price>470.25</typ:price>
+<typ:priceVAT>98.75</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2066" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>PCVIGGUIC</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2066</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. PCVIGGUIC spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2066</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>iva.rechova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Gumová hračka pro psy RECORD dudlík - Barva : modrá]]></inv:text>
+<inv:code><![CDATA[1275-2833]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : modrá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>65.29</typ:unitPrice>
+<typ:price>65.29</typ:price>
+<typ:priceVAT>13.71</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Plyšová hračka pro psy KACHNA 38cm]]></inv:text>
+<inv:code><![CDATA[1348-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>147.93</typ:unitPrice>
+<typ:price>147.93</typ:price>
+<typ:priceVAT>31.07</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Hračka pro psy SUP 28cm]]></inv:text>
+<inv:code><![CDATA[1416-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>180.99</typ:unitPrice>
+<typ:price>180.99</typ:price>
+<typ:priceVAT>38.01</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2067" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>KIFRQNLHH</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2067</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. KIFRQNLHH spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2067</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>Zdenka.Slanska@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pudr s kyselinou boritou BALDECCHI ABSORBING POWDER - Varianty : 90g]]></inv:text>
+<inv:code><![CDATA[612-1936]]></inv:code>
+<inv:quantity>2</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 90g</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>280.17</typ:unitPrice>
+<typ:price>280.17</typ:price>
+<typ:priceVAT>58.83</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Čistič skvrn pod očima SHOW TECH No More Tear Stains - Varianty : 250 ml]]></inv:text>
+<inv:code><![CDATA[668-1757]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 250 ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Šampon na bílou a světlou srst BALDECCHI IOLE LINE - Varianty : 1L]]></inv:text>
+<inv:code><![CDATA[720-1939]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 1L</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>800.83</typ:unitPrice>
+<typ:price>800.83</typ:price>
+<typ:priceVAT>168.17</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>115</typ:unitPrice>
+<typ:price>115</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2068" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>BIBWVMRPL</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2068</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. BIBWVMRPL spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2068</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>sarka.kotlikova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Rozčesávací sprej na srst BOTANIQA TANGLE FREE AVOCADO 250ml]]></inv:text>
+<inv:code><![CDATA[372-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>205.79</typ:unitPrice>
+<typ:price>205.79</typ:price>
+<typ:priceVAT>43.21</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2069" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>VMTNHODWC</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2069</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. VMTNHODWC spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2069</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>rybinska.irena@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kondicionér pro psy SO POSH I´m So Silky - SILK PROTEIN LEAVE-ON 300ml]]></inv:text>
+<inv:code><![CDATA[1219-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>SILK PROTEIN LEAVE-ON 300ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>453.72</typ:unitPrice>
+<typ:price>453.72</typ:price>
+<typ:priceVAT>95.28</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Šampon pro psy SO POSH I´m So Silky - SILK PROTEIN 250ml]]></inv:text>
+<inv:code><![CDATA[1217-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>SILK PROTEIN 250ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>404.13</typ:unitPrice>
+<typ:price>404.13</typ:price>
+<typ:priceVAT>84.87</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Olej na srst SO POSH COAT OIL 250ml]]></inv:text>
+<inv:code><![CDATA[1049-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>544.63</typ:unitPrice>
+<typ:price>544.63</typ:price>
+<typ:priceVAT>114.37</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2071" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>FWXLLVYUC</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2071</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. FWXLLVYUC spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2071</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>milan.skoda01@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Sprej na padavou srst CHRIS CHRISTENSEN Precious Drop 473ml]]></inv:text>
+<inv:code><![CDATA[92-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>296.69</typ:unitPrice>
+<typ:price>296.69</typ:price>
+<typ:priceVAT>62.31</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>105</typ:unitPrice>
+<typ:price>105</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2072" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>BXODLAGNI</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2072</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. BXODLAGNI spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2072</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>miroslav.focher@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Podložka pro psy SEMI - Barva : hnědá motiv, Rozměr : 70x100 cm]]></inv:text>
+<inv:code><![CDATA[746-1455]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : hnědá motiv, Rozměr : 70x100 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>404.13</typ:unitPrice>
+<typ:price>404.13</typ:price>
+<typ:priceVAT>84.87</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2073" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>RHFUYNXUD</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2073</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. RHFUYNXUD spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2073</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>LJANDOVA80@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO FINE jemný]]></inv:text>
+<inv:code><![CDATA[295-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kleště na drápy DOGGY MAN malé 12,5cm]]></inv:text>
+<inv:code><![CDATA[650-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>322.31</typ:unitPrice>
+<typ:price>322.31</typ:price>
+<typ:priceVAT>67.69</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO COARSE hrubý]]></inv:text>
+<inv:code><![CDATA[348-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací náprstky jednorázové 100ks - Velikost : S]]></inv:text>
+<inv:code><![CDATA[871-2830]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : S</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>90.08</typ:unitPrice>
+<typ:price>90.08</typ:price>
+<typ:priceVAT>18.92</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO FINE jemný - pro leváky]]></inv:text>
+<inv:code><![CDATA[775-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>pro leváky</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací nůž ARTERO COARSE hrubý - pro leváky]]></inv:text>
+<inv:code><![CDATA[776-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>pro leváky</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Trimovací hrablo pro psy OLALA velké]]></inv:text>
+<inv:code><![CDATA[1455-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>263.64</typ:unitPrice>
+<typ:price>263.64</typ:price>
+<typ:priceVAT>55.36</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Zubní kartáček na prst pro psy KERBL 2ks]]></inv:text>
+<inv:code><![CDATA[653-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>65.29</typ:unitPrice>
+<typ:price>65.29</typ:price>
+<typ:priceVAT>13.71</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Zubní kartáček pro psy PETOSAN ( 3-6kg )]]></inv:text>
+<inv:code><![CDATA[336-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>205.79</typ:unitPrice>
+<typ:price>205.79</typ:price>
+<typ:priceVAT>43.21</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Šampon pro psy PetEsthé SPA lázeňský - pro citlivou pokožku - Varianty : 350 ml]]></inv:text>
+<inv:code><![CDATA[PE4816]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>pro citlivou pokožku - Varianty : 350 ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>446.28</typ:unitPrice>
+<typ:price>446.28</typ:price>
+<typ:priceVAT>93.72</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: PPL - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>229</typ:unitPrice>
+<typ:price>229</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2074" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>HJDAMFNPG</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2074</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. HJDAMFNPG spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2074</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>Lenka.graf@centropol.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Sprej CHRIS CHRISTENSEN SHINE FOR SURE pro lesk a hydrataci srsti 113g]]></inv:text>
+<inv:code><![CDATA[384-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>412.4</typ:unitPrice>
+<typ:price>412.4</typ:price>
+<typ:priceVAT>86.6</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: PPL - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>229</typ:unitPrice>
+<typ:price>229</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2075" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>FJRPVFKXH</inv:numberOrder>
+<inv:date>2020-08-03</inv:date><inv:number>
+    <typ:numberRequested>2075</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. FJRPVFKXH spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2075</inv:symVar>
+<inv:dateTax>2020-08-03</inv:dateTax>
+<inv:dateOrder>2020-08-03</inv:dateOrder>
+<inv:dateAccounting>2020-08-03</inv:dateAccounting>
+<inv:dateDue>2020-08-17</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>Zdenka.Slanska@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pudr s kyselinou boritou BALDECCHI ABSORBING POWDER - Varianty : 90g]]></inv:text>
+<inv:code><![CDATA[612-1936]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 90g</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>280.17</typ:unitPrice>
+<typ:price>280.17</typ:price>
+<typ:priceVAT>58.83</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Čistič skvrn pod očima SHOW TECH No More Tear Stains - Varianty : 250 ml]]></inv:text>
+<inv:code><![CDATA[668-1757]]></inv:code>
+<inv:quantity>3</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 250 ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>115</typ:unitPrice>
+<typ:price>115</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2076" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>WJQHNSTYO</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2076</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. WJQHNSTYO spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2076</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>hadagmar@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[DryBed PREMIUM vínová - Rozměr : 100x150 cm]]></inv:text>
+<inv:code><![CDATA[1079-1973]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Rozměr : 100x150 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>660.33</typ:unitPrice>
+<typ:price>660.33</typ:price>
+<typ:priceVAT>138.67</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Sleva: Deka zaplacena]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:homeCurrency>
+<typ:unitPrice>-759.5</typ:unitPrice>
+<typ:price>-759.5</typ:price>
+<typ:priceVAT>-159.5</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2077" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>EWBOACDAH</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2077</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. EWBOACDAH spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2077</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>HruskovkaL@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pamlskovník pro psy LAUREN - Barva : černá]]></inv:text>
+<inv:code><![CDATA[848-1770]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : černá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>197.52</typ:unitPrice>
+<typ:price>197.52</typ:price>
+<typ:priceVAT>41.48</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>105</typ:unitPrice>
+<typ:price>105</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2078" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>YYLLNNFBH</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2078</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. YYLLNNFBH spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2078</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>aimovai@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Bouda pro psy - Barva : hnědá, Rozměr : 70x55x58 cm]]></inv:text>
+<inv:code><![CDATA[634-1235]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : hnědá, Rozměr : 70x55x58 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>891.74</typ:unitPrice>
+<typ:price>891.74</typ:price>
+<typ:priceVAT>187.26</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2079" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>FKTFLBTZN</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2079</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. FKTFLBTZN spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2079</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>ak.bruntal@tiscali.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kartáč pro psy SHOW TECH tvrdý s dlouhými drátky]]></inv:text>
+<inv:code><![CDATA[1492-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>105</typ:unitPrice>
+<typ:price>105</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2080" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>FEXRVPQMN</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2080</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. FEXRVPQMN spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2080</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>kupcikova.iveta@gmail.com</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kukaň pro psy a kočky BELLA LUXURY GREY - Rozměr : 50x50 cm]]></inv:text>
+<inv:code><![CDATA[1182-2644]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Rozměr : 50x50 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>1007.44</typ:unitPrice>
+<typ:price>1007.44</typ:price>
+<typ:priceVAT>211.56</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2081" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>KFMYTRZKI</inv:numberOrder>
+<inv:date>2020-08-04</inv:date><inv:number>
+    <typ:numberRequested>2081</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. KFMYTRZKI spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2081</inv:symVar>
+<inv:dateTax>2020-08-04</inv:dateTax>
+<inv:dateOrder>2020-08-04</inv:dateOrder>
+<inv:dateAccounting>2020-08-04</inv:dateAccounting>
+<inv:dateDue>2020-08-18</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>irena.babakova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Kombinéza šusťáková pro psy REFLEX - Barva : růžová, Velikost : L]]></inv:text>
+<inv:code><![CDATA[631-1222]]></inv:code>
+<inv:quantity>2</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : růžová, Velikost : L</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>321.49</typ:unitPrice>
+<typ:price>321.49</typ:price>
+<typ:priceVAT>67.51</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Pudr s kyselinou boritou BALDECCHI ABSORBING POWDER - Varianty : 90g]]></inv:text>
+<inv:code><![CDATA[612-1936]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 90g</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>280.17</typ:unitPrice>
+<typ:price>280.17</typ:price>
+<typ:priceVAT>58.83</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2082" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>ZPMVGKGYQ</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2082</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. ZPMVGKGYQ spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2082</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>iveta.hojdova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Cestovní taška pro psy SARAH - Barva : šedá]]></inv:text>
+<inv:code><![CDATA[948-1848]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : šedá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>668.6</typ:unitPrice>
+<typ:price>668.6</typ:price>
+<typ:priceVAT>140.4</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2083" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>BPUYKNHSR</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2083</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. BPUYKNHSR spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2083</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>jana.ondryhalova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Podložka pro psy SOFT - Barva : růžová, Rozměr : 40x50 cm]]></inv:text>
+<inv:code><![CDATA[661-1327]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : růžová, Rozměr : 40x50 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>172.73</typ:unitPrice>
+<typ:price>172.73</typ:price>
+<typ:priceVAT>36.27</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>115</typ:unitPrice>
+<typ:price>115</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2084" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>WFJJBVMEC</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2084</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. WFJJBVMEC spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2084</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>hadagmar@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Postroj pro psy URBAN PUP SOFT MESH šedý - Velikost : XL]]></inv:text>
+<inv:code><![CDATA[396-3173]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : XL</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>433.88</typ:unitPrice>
+<typ:price>433.88</typ:price>
+<typ:priceVAT>91.12</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Župan pro psy SHOW TECH z mikrovlákna šedý - Velikost : M]]></inv:text>
+<inv:code><![CDATA[376-791]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : M</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>354.55</typ:unitPrice>
+<typ:price>354.55</typ:price>
+<typ:priceVAT>74.45</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Župan pro psy SHOW TECH z mikrovlákna modrý - Velikost : S]]></inv:text>
+<inv:code><![CDATA[195-718]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Velikost : S</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>263.64</typ:unitPrice>
+<typ:price>263.64</typ:price>
+<typ:priceVAT>55.36</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[DryBed PREMIUM světle hnědá - Rozměr : 50x75 cm]]></inv:text>
+<inv:code><![CDATA[717-1391]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Rozměr : 50x75 cm</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>263.64</typ:unitPrice>
+<typ:price>263.64</typ:price>
+<typ:priceVAT>55.36</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Hračka pro psy JUNIOR MEDVÍDEK 28cm]]></inv:text>
+<inv:code><![CDATA[1351-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>123.14</typ:unitPrice>
+<typ:price>123.14</typ:price>
+<typ:priceVAT>25.86</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Hračka pro psy JUNIOR SNUGGLER - Varianty : medvěd - barva mentolová]]></inv:text>
+<inv:code><![CDATA[1353-3024]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : medvěd - barva mentolová</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>114.88</typ:unitPrice>
+<typ:price>114.88</typ:price>
+<typ:priceVAT>24.12</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Plyšová hračka pro psy HVĚZDICE]]></inv:text>
+<inv:code><![CDATA[1271-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>106.61</typ:unitPrice>
+<typ:price>106.61</typ:price>
+<typ:priceVAT>22.39</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Plyšová hračka pro psy KRÁLÍK 38cm]]></inv:text>
+<inv:code><![CDATA[1362-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>205.79</typ:unitPrice>
+<typ:price>205.79</typ:price>
+<typ:priceVAT>43.21</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Gumový míček pro psy RECORD PAWS - Barva : růžová]]></inv:text>
+<inv:code><![CDATA[1276-2836]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : růžová</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>57.02</typ:unitPrice>
+<typ:price>57.02</typ:price>
+<typ:priceVAT>11.98</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Gumový míček pro psy RECORD PAWS - Barva : modrá]]></inv:text>
+<inv:code><![CDATA[1276-2835]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : modrá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>57.02</typ:unitPrice>
+<typ:price>57.02</typ:price>
+<typ:priceVAT>11.98</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2085" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>OYGOEPAOA</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2085</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. OYGOEPAOA spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2085</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>taniakukulova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Prořezávač srsti SHOW TECH široký]]></inv:text>
+<inv:code><![CDATA[890-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>205.79</typ:unitPrice>
+<typ:price>205.79</typ:price>
+<typ:priceVAT>43.21</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Rozčesávací antistatický sprej na srst BOTANIQA LOVE ME LONG 250ml]]></inv:text>
+<inv:code><![CDATA[370-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Šampon pro psy BOTANIQA SHOW LINE HARSH SHINY COAT na drsnou srst - Varianty : 250 ml]]></inv:text>
+<inv:code><![CDATA[362-774]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 250 ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>205.79</typ:unitPrice>
+<typ:price>205.79</typ:price>
+<typ:priceVAT>43.21</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>105</typ:unitPrice>
+<typ:price>105</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2086" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>EGUSSISKP</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2086</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. EGUSSISKP spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2086</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>veronika.chotasova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>příkazem</typ:ids>
+<typ:paymentType>draft</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Gumová hračka pro psy RECORD dudlík - Barva : růžová]]></inv:text>
+<inv:code><![CDATA[1275-2834]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : růžová</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>65.29</typ:unitPrice>
+<typ:price>65.29</typ:price>
+<typ:priceVAT>13.71</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+                
+<inv:text><![CDATA[Gumová hračka pro psy RECORD dudlík - Barva : modrá]]></inv:text>
+<inv:code><![CDATA[1275-2833]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Barva : modrá</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>65.29</typ:unitPrice>
+<typ:price>65.29</typ:price>
+<typ:priceVAT>13.71</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - platba bankovním převodem ]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>120</typ:unitPrice>
+<typ:price>120</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2087" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>YGJGTQTJI</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2087</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. YGJGTQTJI spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2087</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>Schmidtova.barca@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Čistič skvrn pod očima SHOW TECH No More Tear Stains - Varianty : 250 ml]]></inv:text>
+<inv:code><![CDATA[668-1757]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note>Varianty : 250 ml</inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>230.58</typ:unitPrice>
+<typ:price>230.58</typ:price>
+<typ:priceVAT>48.42</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Na poštu - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>115</typ:unitPrice>
+<typ:price>115</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2088" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>PNTILQDET</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2088</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. PNTILQDET spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2088</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:carrier>
+<typ:ids>Balík do Ruky</typ:ids>
+</inv:carrier><inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>archie1@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Rozeznávací obojky pro štěňata SHOW TECH 12ks]]></inv:text>
+<inv:code><![CDATA[1183-0]]></inv:code>
+<inv:quantity>2</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta Balík Do ruky - dobírka]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>129</typ:unitPrice>
+<typ:price>129</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+<dat:dataPackItem id="2089" version="2.0">
+<inv:invoice version="2.0">
+<inv:invoiceHeader>
+<inv:numberOrder>EWEUDLNLW</inv:numberOrder>
+<inv:date>2020-08-05</inv:date><inv:number>
+    <typ:numberRequested>2089</typ:numberRequested>
+    </inv:number><inv:invoiceType>issuedInvoice</inv:invoiceType>
+                        <inv:text><![CDATA[Faktura k objednávce č. EWEUDLNLW spokojeny-mazlicek.cz]]></inv:text>
+                        <inv:symVar>2089</inv:symVar>
+<inv:dateTax>2020-08-05</inv:dateTax>
+<inv:dateOrder>2020-08-05</inv:dateOrder>
+<inv:dateAccounting>2020-08-05</inv:dateAccounting>
+<inv:dateDue>2020-08-19</inv:dateDue>
+<inv:account>
+<typ:accountNo>1127866009</typ:accountNo>
+<typ:bankCode>2700</typ:bankCode>
+</inv:account>
+<inv:partnerIdentity>
+<typ:address>
+<typ:company><![CDATA[]]></typ:company>
+<typ:name><![CDATA[ ]]></typ:name>
+<typ:city><![CDATA[]]></typ:city>
+<typ:street><![CDATA[]]></typ:street>
+<typ:zip></typ:zip>
+<typ:ico></typ:ico>
+<typ:dic></typ:dic>
+<typ:country>
+<typ:ids></typ:ids>
+</typ:country>
+<typ:phone></typ:phone>
+<typ:mobilPhone></typ:mobilPhone>
+<typ:email>majla.chalupova@seznam.cz</typ:email>
+</typ:address>
+
+</inv:partnerIdentity>
+<inv:paymentType>
+<typ:ids>Dobírkou</typ:ids>
+<typ:paymentType>delivery</typ:paymentType>
+</inv:paymentType><inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:classificationVAT>
+<typ:classificationVATType>inland</typ:classificationVATType>
+</inv:classificationVAT></inv:invoiceHeader>
+<inv:invoiceDetail><inv:invoiceItem>
+                
+<inv:text><![CDATA[Rozeznávací obojky pro štěňata SHOW TECH 12ks]]></inv:text>
+<inv:code><![CDATA[1183-0]]></inv:code>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>high</inv:rateVAT>
+<inv:accounting>
+<typ:ids>3Fv</typ:ids>
+</inv:accounting><inv:homeCurrency>
+<typ:unitPrice>214.05</typ:unitPrice>
+<typ:price>214.05</typ:price>
+<typ:priceVAT>44.95</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem><inv:invoiceItem>
+<inv:text><![CDATA[Doprava: Česká pošta - Balík Do balíkovny]]></inv:text>
+<inv:quantity>1</inv:quantity>
+<inv:unit>ks</inv:unit>
+<inv:note></inv:note>
+
+<inv:payVAT>false</inv:payVAT>
+<inv:rateVAT>none</inv:rateVAT>
+<inv:accounting>
+<typ:ids>DOPRAVA</typ:ids>
+</inv:accounting>
+<inv:homeCurrency>
+<typ:unitPrice>55</typ:unitPrice>
+<typ:price>55</typ:price>
+<typ:priceVAT>0</typ:priceVAT>
+</inv:homeCurrency>
+</inv:invoiceItem>
+</inv:invoiceDetail></inv:invoice>
+</dat:dataPackItem>
+</dat:dataPack>

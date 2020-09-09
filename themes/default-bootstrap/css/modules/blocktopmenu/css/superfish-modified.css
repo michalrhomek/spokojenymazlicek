@@ -92,7 +92,7 @@ align-items: center;
   text-transform: uppercase;
   color: #4E495F;
   display: block;
-  padding: 0 25px;
+  padding: 0 20px;
   border-right: 1px solid #bcbcbc;
 }
 @media (max-width: 991px) {
@@ -126,7 +126,7 @@ align-items: center;
 .sf-menu li ul {
   display: none;
   left: 0;
-  top: 50px;
+  top: 42px;
   /* match top ul list item height */
   z-index: 6000;
   background: #fff;

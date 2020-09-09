@@ -57,10 +57,11 @@
     margin: 0 0 0 -20px; }
     #subcategories ul li {
       float: left;
-      width: 145px;
-      margin: 0 0 13px 30px;
+      width: 134px;
+    margin: 0 0 13px 15px;
       text-align: center;
-/*       height: 202px; */ }
+      height: 200px;
+}
       #subcategories ul li .subcategory-image {
         padding: 8px 0;
         border: 1px solid #d7dfe7; }
@@ -72,7 +73,7 @@
             max-width: 100%;
             vertical-align: top; }
       #subcategories ul li .subcategory-name {
-        font: 600 12px/22px "arial", sans-serif;
+        font: 600 11px/22px "arial", sans-serif;
         color: #930082;
         text-transform: uppercase;}
         #subcategories ul li .subcategory-name:hover {

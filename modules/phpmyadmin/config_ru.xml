@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>phpmyadmin</name>
+	<displayName><![CDATA[phpMyAdmin]]></displayName>
+	<version><![CDATA[3.3.7]]></version>
+	<description><![CDATA[www.phpmyadmin.net]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[[mod-id]]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

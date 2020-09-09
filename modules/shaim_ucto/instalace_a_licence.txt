@@ -1,0 +1,58 @@
+A) INSTALACE:
+
+Dvě možnosti instalace (Klasické - jako všechny ostatní Prestashop moduly)
+Instalace do Prestashopu verze 1.6:
+https://openservis.net/help/moduly_instalace.pdf
+Instalace do Prestashopu verze 1.7:
+https://openservis.net/help/moduly_instalace_17.pdf
+
+1) přes administraci Prestashopu
+a) Administrace - Moduly - Přidat nový modul
+b) zvolte ZIP archiv (nerozbalit)
+c) klikněte na tlačítko "Nahrát tento modul"
+d) hotovo
+
+
+2) přes FTP
+a) rozbalíme zip archiv
+b) nahrajeme rozbalenou složku na FTP do složky "modules"
+c) nainstalujeme v administraci modul
+d) hotovo
+
+
+Veškeré moduly z nabídky psmoduly.cz/openservis.cz můžete nalézt tak, že buďto:
+a) v pravé části modulů si zvolíte filtrace dle autora a zvolíte autora "Dominik Shaim".
+b) vepíšete do vyhledávání u modulů jeden z řetěžců (bez uvozovek) - "psmoduly", "openservis" nebo "shaim".
+
+
+
+B) LICENČNÍ A OBCHODNÍ PODMÍNKY:
+K modulu je nabízena e-mailová podpora + aktualizace zdarma (pokud je k dispozici) po dobu 6 měsíců od data zakoupení.
+Individuální úprava modulu je po domluvě možná.
+Licence modulu je platná pro 1 eshop (1 doménu).
+Modul není dovoleno dále jakkoliv šířit bez předchozího souhlasu autora modulu.
+Není dovoleno odstraňovat copyright uvedený u modulu, ani měnit název modulu.
+
+Aktuální verze licenčních a obchodních podmínek je k nalezení zde:
+https://psmoduly.cz/content/8-licencni-podminky
+https://psmoduly.cz/content/3-obchodni-podminky
+
+
+
+Vývoj modulů je časově náročná práce, údržba modulů je také velmi pracná, prosím, jednejte férově a čestně.
+Pokud byste měli jakékoliv dotazy, neváhejte napsat na jeden z níže uvedených e-emailů.
+
+Děláme také programování na míru - Jak modulů, tak celých shopů, případně i jednotlivé úpravy apod. V případě zájmu nám napište.
+
+
+
+C) VYLADĚNÝ HOSTING PRO PRESTASHOP:
+https://openservis.cz/nabidka.pdf
+
+
+KONTAKT NA AUTORA:
+Dominik "Shaim" Ulrich
+info@psmoduly.cz / info@openservis.cz
+www.psmoduly.cz / www.openservis.cz
+
+

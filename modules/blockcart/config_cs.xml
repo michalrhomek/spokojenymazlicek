@@ -2,7 +2,7 @@
 <module>
 	<name>blockcart</name>
 	<displayName><![CDATA[Blok ko&scaron;&iacute;ku]]></displayName>
-	<version><![CDATA[1.6.1]]></version>
+	<version><![CDATA[1.6.2]]></version>
 	<description><![CDATA[Přid&aacute; blok obsahuj&iacute;c&iacute; ko&scaron;&iacute;k z&aacute;kazn&iacute;ka.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

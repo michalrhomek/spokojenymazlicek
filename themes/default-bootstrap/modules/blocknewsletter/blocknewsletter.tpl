@@ -28,10 +28,16 @@
 	<div class="block_content">
 		<form action="{$link->getPageLink('index', null, null, null, false, null, true)|escape:'html':'UTF-8'}" method="post">
 			<div class="form-group{if isset($msg) && $msg } {if $nw_error}form-error{else}form-ok{/if}{/if}" >
-				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="{if isset($msg) && $msg}{$msg}{elseif isset($value) && $value}{$value}{else}{l s='Enter your e-mail' mod='blocknewsletter'}{/if}" />
-                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
-                    <span>{l s='Ok' mod='blocknewsletter'}</span>
-                </button>
+
+				<div>
+					<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="{if isset($msg) && $msg}{$msg}{elseif isset($value) && $value}{$value}{else}{l s='Enter your e-mail' mod='blocknewsletter'}{/if}" />
+
+	                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+	                    <span>{l s='Ok' mod='blocknewsletter'}</span>
+	                </button>
+	            </div>
+	            <br>
+				<label class="c-mailConfirmLabel"><input type="checkbox" required> Souhlasím se zpracováním <a href="https://spokojeny-mazlicek.cz/img/ochrana_osobnich_udaju.pdf" target="_blank"> osobních údajů </a> </label>
 				<input type="hidden" name="action" value="0" />
 			</div>
 		</form>    

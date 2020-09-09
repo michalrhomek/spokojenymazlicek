@@ -1,0 +1,19 @@
+label {
+    float: none;
+    width: auto;
+}
+
+/* shaim_product_editor */
+#content form > ul.pagination > li {
+    display: inline-block;
+}
+
+.col-md-6 {
+    width: 49%;
+    display: inline-block;
+}
+
+.col-lg-6 {
+    width: 49%;
+    display: inline-block;
+}

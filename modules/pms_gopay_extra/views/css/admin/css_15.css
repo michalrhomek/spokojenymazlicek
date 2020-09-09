@@ -1,0 +1,28 @@
+
+#content .alert.col-lg-12,
+#content .alert.alert-warning{
+	width: 100%;
+	padding-left: 50px;
+}
+
+.row {
+  background: #FFFFFF !important;
+}
+
+
+.info-background {
+	background: #d7f2f8 !important;
+}
+
+.info-border {
+	border-top-width: 0px !important;
+	border-bottom-width: 0px !important;
+}
+
+fieldset, legend {
+   background: #FFFFFF !important;
+}
+
+ul.list {
+    list-style-type: circle;
+}

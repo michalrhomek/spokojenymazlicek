@@ -1,0 +1,11 @@
+	Hi Administrator,
+
+	Error reporting from your GoPayAPI module
+
+	A client has encountered a problem with the module GoPayAPI, see the report:
+
+	{logs}
+	
+	{orders}
+
+	{shop_url} powered by PrestaShop™

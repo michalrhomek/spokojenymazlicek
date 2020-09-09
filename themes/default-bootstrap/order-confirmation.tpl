@@ -33,9 +33,31 @@
 {include file="$tpl_dir./errors.tpl"}
 
 {$HOOK_ORDER_CONFIRMATION}
+
+<div class="c-orderCustomText">
+	<h2>Vaši objednávku jsme vyčmuchali a brzy ji připravíme k odeslání</h2>
+	<p>
+		Jsme rádi, že jste si udělali chvíli a zastavili se nakoupit v našem e-shopu. Věříme, že Váš mazlíček to jistě ocení. 
+	</p>
+	<p>
+    Než se k Vaší objednávce dostaneme, abychom ji zabalili a odeslali, podívejte se zatím na další zajímavé produkty z naší široké nabídky kosmetiky a doplňků pro spokojené mazlíčky.  
+    </p>
+    <p>
+    	<a href="https://spokojeny-mazlicek.cz/34-uprava-srsti-pro-psy"><img src="https://spokojeny-mazlicek.cz/modules/themeconfigurator/img/6fc70a89256ea9a215614ae7692879c653a2c7a1_banner2.png" title="Úprava srsti"></a>
+
+    	<a href="https://spokojeny-mazlicek.cz/15-kosmetika-pro-psy"><img src="https://spokojeny-mazlicek.cz/modules/themeconfigurator/img/659df61a063c28548ad25b8ccd2cfdd3f7c057dd_banner232.png" title="Profesionální kosmetika"></a>
+
+    	<a href="https://spokojeny-mazlicek.cz/32-doplnky"><img src="https://spokojeny-mazlicek.cz/modules/themeconfigurator/img/020b780abd51a46366725c825da3a7e41dd31b6f_banner22.png" title="Postroje a obojky"></a>
+    </p>
+
+
+
+</div>
+
+
 {$HOOK_PAYMENT_RETURN}
 {if $is_guest}
-	<p>{l s='Your order ID is:'} <span class="bold">{$id_order_formatted}</span> . {l s='Your order ID has been sent via email.'}</p>
+	{*}<p>{l s='Your order ID is:'} <span class="bold">{$id_order_formatted}</span> . {l s='Your order ID has been sent via email.'}</p> {*}
     <p class="cart_navigation exclusive">
 	<a class="button-exclusive btn btn-default" href="{$link->getPageLink('guest-tracking', true, NULL, "id_order={$reference_order|urlencode}&email={$email|urlencode}")|escape:'html':'UTF-8'}" title="{l s='Follow my order'}"><i class="icon-chevron-left"></i>{l s='Follow my order'}</a>
     </p>

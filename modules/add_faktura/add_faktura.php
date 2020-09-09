@@ -394,10 +394,13 @@ class Add_Faktura extends Module
 
 	public function hookActionAdminControllerSetMedia()
 	{
-		$this->context->controller->addCSS($this->_path.'views/css/'.$this->name.'.css', 'all');
-		$this->context->controller->addJS($this->_path.'views/js/'.$this->name.'.js');
-		$this->context->controller->addJqueryUI('ui.datepicker');
-		$this->context->controller->addjqueryPlugin('idTabs');
+		if (Tools::getValue('configure') == $this->name)
+		{
+			$this->context->controller->addCSS($this->_path.'views/css/'.$this->name.'.css', 'all');
+			$this->context->controller->addJS($this->_path.'views/js/'.$this->name.'.js');
+			$this->context->controller->addJqueryUI('ui.datepicker');
+			$this->context->controller->addjqueryPlugin('idTabs');
+		}
 	}
 
     public function hookAdminOrder($params) 

@@ -209,8 +209,8 @@ $_MODULE['<{supercheckout}prestashop>supercheckout_b565ae60623b3a0d0ca60ceb12b04
 $_MODULE['<{supercheckout}prestashop>supercheckout_b718489ea250655f5a6de41d6ad9539e'] = 'Voucher úspěšně odstraněn';
 $_MODULE['<{supercheckout}prestashop>supercheckout_5d9df15b593efc9e86a464bacc6aba8e'] = 'Nastavení bylo úspěšně aktualizováno';
 $_MODULE['<{supercheckout}prestashop>supercheckout_bef00c44171790ef6e6a6f932ab10da2'] = 'Jazyk úspěšně přeložen';
-$_MODULE['<{supercheckout}prestashop>order-shipping_b6dddfff5178ce64364ca3f683930354'] = 'Nejlepší cena a rychlost';
-$_MODULE['<{supercheckout}prestashop>supercheckout_b6dddfff5178ce64364ca3f683930354'] = 'Nejlepší cena a rychlost';
+$_MODULE['<{supercheckout}prestashop>order-shipping_b6dddfff5178ce64364ca3f683930354'] = ' ';
+$_MODULE['<{supercheckout}prestashop>supercheckout_b6dddfff5178ce64364ca3f683930354'] = ' ';
 $_MODULE['<{supercheckout}prestashop>order-shipping_dec6c47a1fa4eadad84197f1bf4c0464'] = 'Nejrychlejší';
 $_MODULE['<{supercheckout}prestashop>supercheckout_dec6c47a1fa4eadad84197f1bf4c0464'] = 'Nejrychlejší';
 $_MODULE['<{supercheckout}prestashop>order-shipping_6f3faaf593a70a0559bfc9ed15ec79db'] = 'Nejlepší cena';

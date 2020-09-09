@@ -114,5 +114,18 @@ class CashOnDelivery extends PaymentModule
 			return ;
 
 		return $this->display(__FILE__, 'confirmation.tpl');
+
+		require_once (dirname(__FILE__).'/../config/HeurekaOvereno.php');
+		try {
+		    $overeno = new HeurekaOvereno(_ID_HEUREKA_);
+		    $overeno->setEmail($customer->email);
+		foreach ($products AS $product) {
+		 $overeno->addProduct($product['name']);
+		}
+		    $overeno->send();
+		} catch (Exception $e) {
+		// nastavení pro zalogování chyby
+		print $e->getMessage();
+		}
 	}
 }

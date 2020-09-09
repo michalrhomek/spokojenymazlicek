@@ -1,0 +1,87 @@
+
+/* Test Payment */
+h2.modal_h2 {
+	text-align:center;
+	background:#E0DDDD;
+	border:#4F0305 solid 1px;
+}
+
+h3.modal_h3 {
+	text-align:center;
+	color:#4E36EC;
+}.content {
+    position: relative;
+    z-index: 30;
+}
+.content pre, .content blockquote {
+    background-color: #122b3b;
+    color: #fff;
+    padding: 2em 28px;
+    margin: 0;
+    clear: right;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.highlight .cp {
+    color: #b2fd6d;
+    font-weight: bold;
+    font-style: italic;
+}
+.highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi {
+    color: #a8e1fe;
+    font-weight: bold;
+}
+.highlight .o, .highlight .ow {
+    color: #4df4ff;
+}
+.highlight .nb {
+    font-weight: bold;
+}
+.highlight .p, .highlight .pi {
+    color: #4df4ff;
+}
+.highlight .k, .highlight .kd, .highlight .kv {
+    color: #f6dd62;
+    font-weight: bold;
+}
+.highlight .s, .highlight .sb, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .sr, .highlight .s1 {
+    color: #fff0a6;
+    font-weight: bold;
+}
+.highlight .s2 {
+    color: #FEE129;
+}
+.highlight .red {
+	font-weight:bold;
+	color: #FA6A49;
+}
+#_DISPLAY_INPUTS  p.radio-inline,
+#_DISPLAY_INPUTS  div.radio-inline {
+	margin: 10px 0;
+	display: inline-block;
+	width: 100%;
+}
+#_DISPLAY_INPUTS input[type="checkbox"] {
+	margin-right: 10px;
+}
+#_DISPLAY_INPUTS  div.translatable-field {
+	display: inline-block;
+	float: none;
+}
+#_DISPLAY_INPUTS  div.lang {
+	display: inline-block;
+	float: none;
+}
+#_DISPLAY_INPUTS input[type="text"] {
+	display: inline-block;
+	width: 60%;
+}
+
+#_DISPLAY_INPUTS .radio-inline {
+	width: 100%;
+}
+#_DISPLAY_INPUTS .radio-inline strong {
+    vertical-align: middle;
+    margin-right: 1.25rem;
+}

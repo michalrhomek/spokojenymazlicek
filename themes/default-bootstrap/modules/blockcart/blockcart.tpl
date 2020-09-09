@@ -246,7 +246,7 @@
 							{if $priceDisplay == 1}
 								{l s='(tax excl.)' mod='blockcart'}
 							{else}
-								{l s='(tax incl.)' mod='blockcart'}
+								{* l s='(tax incl.)' mod='blockcart' *}
 							{/if}
 						{/if}
 					</strong>
@@ -265,7 +265,7 @@
 								{if $priceDisplay == 1}
 									{l s='(tax excl.)' mod='blockcart'}
 								{else}
-									{l s='(tax incl.)' mod='blockcart'}
+									{* l s='(tax incl.)' mod='blockcart' *}
 								{/if}
 							{/if}
 						</strong>
@@ -280,7 +280,7 @@
 				{/if}
 				<div class="layer_cart_row">
 					<strong class="dark{if $shipping_cost_float == 0 && (!$cart_qties || $cart->isVirtualCart() || !isset($cart->id_address_delivery) || !$cart->id_address_delivery)} unvisible{/if}">
-						{l s='Total shipping' mod='blockcart'}&nbsp;{if $use_taxes && $display_tax_label && $show_tax}{if $priceDisplay == 1}{l s='(tax excl.)' mod='blockcart'}{else}{l s='(tax incl.)' mod='blockcart'}{/if}{/if}
+						{l s='Total shipping' mod='blockcart'}&nbsp;{if $use_taxes && $display_tax_label && $show_tax}{if $priceDisplay == 1}{l s='(tax excl.)' mod='blockcart'}{else}{* l s='(tax incl.)' mod='blockcart' *}{/if}{/if}
 					</strong>
 					<span class="ajax_cart_shipping_cost{if $shipping_cost_float == 0 && (!$cart_qties || $cart->isVirtualCart() || !isset($cart->id_address_delivery) || !$cart->id_address_delivery)} unvisible{/if}">
 						{if $shipping_cost_float == 0}
@@ -303,7 +303,7 @@
 							{if $priceDisplay == 1}
 								{l s='(tax excl.)' mod='blockcart'}
 							{else}
-								{l s='(tax incl.)' mod='blockcart'}
+								{* l s='(tax incl.)' mod='blockcart' *}
 							{/if}
 						{/if}
 					</strong>

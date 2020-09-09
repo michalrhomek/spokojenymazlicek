@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pms_gopay_extra</name>
+	<displayName><![CDATA[ PMS GoPay Extra]]></displayName>
+	<version><![CDATA[17.80622]]></version>
+	<description><![CDATA[Online platby pomoc&iacute; platebn&iacute; br&aacute;ny GoPay]]></description>
+	<author><![CDATA[PrestaModuleShop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Jste si jisti že chcete modul odinstalovat?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

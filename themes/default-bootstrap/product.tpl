@@ -198,11 +198,23 @@
 				<label>{l s='Reference:'} </label>
 				<span class="editable" itemprop="sku"{if !empty($product->reference) && $product->reference} content="{$product->reference}"{/if}>{if !isset($groups)}{$product->reference|escape:'html':'UTF-8'}{/if}</span>
 			</p>
+
 			<!-- availability or doesntExist -->
 			<p id="availability_statut"{if !$PS_STOCK_MANAGEMENT || ($product->quantity <= 0 && !$product->available_later && $allow_oosp) || ($product->quantity > 0 && !$product->available_now) || !$product->available_for_order || $PS_CATALOG_MODE} style="display: none;"{/if}>
 				{*<span id="availability_label">{l s='Availability:'}</span>*}
-				<span id="availability_value" class="label{if $product->quantity <= 0 && !$allow_oosp} label-danger{elseif $product->quantity <= 0} label-warning{else} label-success{/if}">{if $product->quantity <= 0}{if $PS_STOCK_MANAGEMENT && $allow_oosp}{$product->available_later}{else}{l s='This product is no longer in stock'}{/if}{elseif $PS_STOCK_MANAGEMENT}{$product->available_now}{/if}</span>
+				<span id="availability_value" class="label{if $product->quantity <= 0 && !$allow_oosp} label-danger{elseif $product->quantity <= 0} label-warning{else} label-success{/if}">
+					{if $product->quantity <= 0}
+						{if $PS_STOCK_MANAGEMENT && $allow_oosp}
+							{$product->available_later} <br> <div class="c-infoUs">V případě zájmu o tento produkt nás prosím kontaktujte na adrese <a href="mailto:spokojeny-mazlicek@email.cz">spokojeny-mazlicek@email.cz </a> </div> 
+						{else}
+
+							{* l s='This product is no longer in stock' *}
+							{$product->available_later}
+
+						{/if}{elseif $PS_STOCK_MANAGEMENT}{$product->available_now}
+					{/if}</span>
 			</p>
+
 			{if $PS_STOCK_MANAGEMENT}
 				{if !$product->is_virtual}{hook h="displayProductDeliveryTime" product=$product}{/if}
 				<p class="warning_inline" id="last_quantities"{if ($product->quantity > $last_qties || $product->quantity <= 0) || $allow_oosp || !$product->available_for_order || $PS_CATALOG_MODE} style="display: none"{/if} >{l s='Warning: Last items in stock!'}</p>
@@ -252,7 +264,7 @@
 										<span id="our_price_display" class="price" itemprop="price" content="{$productPrice}">{convertPrice price=$productPrice|floatval}</span>
 										{if $tax_enabled  && ((isset($display_tax_label) && $display_tax_label == 1) || !isset($display_tax_label))}
 											{if $priceDisplay == 1} {l s='tax excl.'}{else} {l s='tax incl.'}{/if}
-										{/if}
+										{/if} <span style="font-size: 12px;">vč. DPH</span>
 										<meta itemprop="priceCurrency" content="{$currency->iso_code}" />
 										{hook h="displayProductPriceBlock" product=$product type="price"}
 									{/if}
@@ -763,3 +775,20 @@
 {addJsDefL name='product_fileButtonHtml'}{l s='Choose File' js=1}{/addJsDefL}
 {/strip}
 {/if}
+
+
+<script>
+{literal}
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-128573537-1', 'auto'); // Insert your GA Web Property ID here, e.g., UA-12345-1
+  ga('set','ecomm_prodid',id_product); // REQUIRED Product ID value, e.g., 12345, 67890
+  ga('set','ecomm_pagetype','product'); // Optional Page type value, e.g., home, cart, purchase
+  ga('set','ecomm_totalvalue',productPrice); // Optional Total value, e.g., 99.95, 5.00, 1500.00
+  ga('send', 'pageview');
+
+{/literal}
+</script>

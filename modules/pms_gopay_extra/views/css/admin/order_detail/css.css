@@ -1,0 +1,25 @@
+
+
+/* ------------------------------------------------------------- */
+/*  ORDER DETAIL WINDOW
+/* ------------------------------------------------------------- */
+.order_detail_win {
+    width: 32% !important;
+    min-width: 410px;
+    position: relative;
+    float: left;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-right: 1%;
+    border: solid 1px #d6e4f1;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0,0,0,0.1) 0 2px 0, #fff 0 0 0 3px inset;
+    box-shadow: rgba(0,0,0,0.1) 0 2px 0, #fff 0 0 0 3px inset;
+}
+#_PARTIALY .hr {
+	margin-top: 15px;
+	padding-top: 15px;
+	border-top: 1px solid #43569E;
+}

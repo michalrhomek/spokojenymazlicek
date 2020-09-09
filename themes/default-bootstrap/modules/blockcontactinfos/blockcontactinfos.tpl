@@ -31,7 +31,8 @@
         <ul class="toggle-footer">
             {if $blockcontactinfos_company != ''}
             	<li>
-            		<i class="icon-map-marker"></i>{$blockcontactinfos_company|escape:'html':'UTF-8'}{if $blockcontactinfos_address != ''}, {$blockcontactinfos_address|escape:'html':'UTF-8'}{/if}
+            		<i class="icon-map-marker"></i>{*}{$blockcontactinfos_company|escape:'html':'UTF-8'}{if $blockcontactinfos_address != ''}, {$blockcontactinfos_address|escape:'html':'UTF-8'}{/if} {*}
+                    <div style="padding-left: 33px">PROMAZLÍČKY CZ, s.r.o.,<br> Lidická 700/19 <br> 602 00 Brno<br>IČ: 07368526<br>DIČ: CZ07368526</div>
             	</li>
             {/if}
             {if $blockcontactinfos_phone != ''}

@@ -745,7 +745,8 @@ table.table-product-discounts {
   position: relative;
   top: 1px;
   margin-left: 0px;
-  display: none; }
+  display: none !important; 
+}
 
 #availability_statut,
 #pQuantityAvailable {

@@ -1,0 +1,354 @@
+/* pms_gopay_extra */
+
+.hide-left-column #left_column,
+.hide-right-column #right_column {
+	display: none;
+}
+
+.hide-right-column #center_column {
+    width: 757px;
+}
+
+.hide-left-column.hide-right-column #center_column {
+    width: 100%;
+}
+
+
+/* ------------------------------------------------------------- */
+/*  PLATEBNI TLACITKA
+/* ------------------------------------------------------------- */
+section.pms_gopay_extra div.image {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin: 0px 20px 0 0;
+}
+section.pms_gopay_extra span.price {
+	font-weight: bold;
+	padding-left: 10px;
+	float: right;
+	color: red;
+}
+#pms_gopay_extra span.price {
+	position: absolute;
+	right: 55px;
+	margin-top: -11px;
+	top: 50%;
+	font-size: 1.5em;
+	color: #C00;
+	font-weight: bold;
+	text-transform: none;
+}
+
+
+/* ------------------------------------------------------------- */
+/*  LOADER INLINE WAIT
+/* ------------------------------------------------------------- */
+#loader {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	z-index: 1;
+	width: 150px;
+	height: 150px;
+	margin: -75px 0 0 -75px;
+	border: 16px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 16px solid #3498db;
+	width: 120px;
+	height: 120px;
+	-webkit-animation: spin 2s linear infinite;
+	animation: spin 2s linear infinite;
+}
+ @-webkit-keyframes spin {
+	 0% {
+		-webkit-transform: rotate(0deg);
+	}
+	 100% {
+		-webkit-transform: rotate(360deg);
+	}
+}
+ @keyframes spin {
+	 0% {
+		transform: rotate(0deg);
+	}
+	 100% {
+		transform: rotate(360deg);
+	}
+}
+
+
+/* ------------------------------------------------------------- */
+/*  PAYMENT BUTTONS IN WINDOW
+/* ------------------------------------------------------------- */
+#pms_gopay_extra-window-form div.col-xs-space {
+	background: #ebebeb;
+	margin: 15px 0;
+	padding: 10px;
+	display: block;
+	border: 1px solid #d6d4d4;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	font-size: 17px;
+	line-height: 23px;
+	color: #333;
+	font-weight: bold;
+	letter-spacing: -1px;
+	position: relative;
+}
+#pms_gopay_extra-window-form div.col-xs-space div.radio {
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+	cursor: pointer;
+	border-radius: 50%;
+	border: 2px solid #acaaa6;
+	background: #fff;
+	margin-right: 1.25rem;
+}
+#pms_gopay_extra-window-form div.col-xs-space div.radio span {
+	background-image: none !important;
+}
+#pms_gopay_extra-window-form div.col-xs-space div.radio span.checked {
+	display: block;
+	background-color: #2fb5d2;
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	position: absolute;
+	left: .2rem;
+	top: .2rem;
+}
+#pms_gopay_extra-window-form {
+	display: inline-block;
+	width: 100%;
+}
+#pms_gopay_extra-window-form .col-xs-space {
+	margin-top: 10px;
+}
+#pms_gopay_extra-window-form span.price {
+	font-weight: bold;
+	padding-right: 10px;
+	float: right;
+	color: red;
+}
+#pms_gopay_extra-window-form .radio-inline {
+	margin: 10px 0;
+	display: inline-block;
+	width: 100%;
+}
+#pms_gopay_extra-window-form .radio-inline [type=radio] {
+	margin-right: 10px;
+	vertical-align: middle;
+}
+#pms_gopay_extra-window-form .radio-inline strong {
+	vertical-align: middle;
+	margin-right: 1.25rem;
+}
+#pms_gopay_extra-window-form .radio-inline label {
+	text-align: left;
+	cursor: pointer;
+}
+#pms_gopay_extra-window-form .radio-inline img {
+	max-height: 50px;
+	max-width: 100px;
+	margin-right: 1.25rem;
+}
+#pms_gopay_extra-window-form .radio-inline img.large {
+	max-height: 80px;
+	max-width: 120px;
+}
+#pms_gopay_extra-window-form .radio-inline .icon {
+	margin: 0.8rem 0;
+	padding-left: 0;
+	height: 30px;
+	display: table;
+}
+#pms_gopay_extra-window-form h4 {
+	/*font-size: .875rem;*/
+	margin-bottom: 0;
+}
+#pms_gopay_extra-window-form hr {
+}
+#pms_gopay_extra-window-form .groupTitle {
+	margin: 0.8rem 0;
+	width: 100%;
+	display: block;
+}
+
+
+/* ------------------------------------------------------------- */
+/*  ORDER CONFIRMATION
+/* ------------------------------------------------------------- */
+#gopay_confirmation .gopay_error {
+	width: 80%;
+	text-align: center;
+	margin: 20px 10% 20px 10% !important;
+	padding: 10px;
+	border: 1px solid #F00;
+	background: #FFE1E3;
+	text-transform: none !important;
+}
+#gopay_confirmation button.payment-overlay, #order-opc button.payment-overlay {
+	float: right;
+}
+#order-confirmation p.payment_module a {
+	display: block;
+	border: 1px solid #d6d4d4;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	font-size: 17px;
+	line-height: 23px;
+	color: #333;
+	font-weight: bold;
+	padding: 33px 40px 34px 99px;
+	letter-spacing: -1px;
+	position: relative;
+}
+
+
+/* ------------------------------------------------------------- */
+/*  PAYMENT VALIDATION
+/* ------------------------------------------------------------- */
+#module-pms_gopay_extra-validation .tipForm {
+	background-color: #FCFCFC;
+	border: 1px solid #b1d3f5;
+	color: #717171;
+	font-size: 12px;
+	margin: 0px 0px 20px 0px;
+	padding: 15px;
+}
+#module-pms_gopay_extra-validation .oinfo {
+	margin: 0px 0px 8px 20px;
+	width: 90%;
+	border: solid #900 1px;
+	border-collapse: separate;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+#module-pms_gopay_extra-validation .oinfo .tdname {
+	width: 150px;
+}
+#module-pms_gopay_extra-validation .oinfo tr {
+	background: none;
+}
+#module-pms_gopay_extra-validation .oinfo td {
+	padding: 2px 4px;
+	vertical-align: top;
+}
+#module-pms_gopay_extra-validation .oinfo td, #module-pms_gopay_extra-validation .oitems td {
+	text-align: left;
+}
+#module-pms_gopay_extra-validation .exclusive_large {
+	float: right;
+}
+#module-pms_gopay_extra-validation .button_large {
+	float: left;
+}
+#module-pms_gopay_extra-validation .texts h2 {
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-image: url("../../img/front/bgtxth2.gif");
+	background-origin: padding-box;
+	background-position: 0px 2px;
+	background-repeat: no-repeat;
+	background-size: auto;
+	border-bottom: 1px dotted #ababab;
+	clear: both;
+	font-family: "Tahoma", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 28px 0px 12px 0px;
+	padding: 0px 0px 8px 20px;
+	text-transform: none;
+}
+#module-pms_gopay_extra-validation .texts h5 {
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-image: url("../../img/front/bgtxth3.gif");
+	background-origin: padding-box;
+	background-position: 0px 7px;
+	background-repeat: no-repeat;
+	background-size: auto;
+	clear: both;
+	color: #e76700;
+	font-family: "Tahoma", "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+	margin: 24px 0px 8px 20px;
+	padding: 0px 0px 0px 12px;
+}
+#module-pms_gopay_extra-validation .oitems {
+	border: 1px solid #cecece;
+	border-collapse: collapse;
+	margin: 4px 0px 0px 0px;
+	width: 100%;
+}
+#module-pms_gopay_extra-validation .oitems .tdcode {
+	text-align: center;
+	width: 100px;
+}
+#module-pms_gopay_extra-validation .oitems h4 {
+	padding-bottom: 5px;
+}
+#module-pms_gopay_extra-validation .oitems .tdqty {
+	text-align: right;
+	width: 60px;
+}
+#module-pms_gopay_extra-validation .oitems .tdprice {
+	text-align: right;
+	white-space: nowrap;
+	width: 80px;
+}
+#module-pms_gopay_extra-validation .oitems th {
+	background-color: #e6e6e6;
+	border-bottom: 1px solid #cecece;
+	border-right: 1px solid #cecece;
+	padding: 2px 8px 2px 8px;
+	text-align: left;
+}
+#module-pms_gopay_extra-validation .oitems td {
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #cecece;
+	border-right: 1px solid #e6e6e6;
+	padding: 2px 8px 2px 8px;
+}
+#module-pms_gopay_extra-validation .tdprava {
+	text-align: right;
+}
+#module-pms_gopay_extra-validation .oitems td.noborder {
+	border-bottom: none;
+}
+#module-pms_gopay_extra-validation .pozor_gopay {
+	margin: 20px 0 10px 30px;
+}
+
+
+/* ------------------------------------------------------------- */
+/*  BUTTON ORDER HISTORY AND  ORDER-DETAIL
+/* ------------------------------------------------------------- */
+body#history .payment-overlay, body#order-detail .payment-overlay {
+	background-color: #6f0b5e;
+}
+body#history .payment-overlay:hover, body#order-detail .payment-overlay:hover {
+	background-color: #A70089;
+}
+
+/* ------------------------------------------------------------- */
+/*  PAYMENT LOGO IN LEFT RIGHT COLUNM
+/* ------------------------------------------------------------- */
+#left-column #paiement_logo_block_left, #right-column #paiement_logo_block_left {
+	margin-bottom: 1.5625rem;
+}

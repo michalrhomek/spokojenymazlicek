@@ -1,0 +1,14 @@
+
+#idTab_paymentssettings .table-responsive-row{
+	width: 100%;
+}
+
+#core-menu ul > li > a > i.warning_payment {
+	color: #950003;
+	font-size: 1.3em;
+	margin-left: 10px;
+}
+
+center#newPayments {
+	margin-top: 15px;
+}

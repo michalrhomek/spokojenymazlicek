@@ -103,9 +103,9 @@
 						    {if $option.total_price_with_tax && (isset($option.is_free) && $option.is_free == 0) && (!isset($free_shipping) || (isset($free_shipping) && !$free_shipping))}
 							{if $use_taxes == 1}
 							    {if $priceDisplay == 1}
-								    {convertPrice price=$option.total_price_without_tax} {l s='(Tax excl.)' mod='supercheckout'}
+								    {convertPrice price=$option.total_price_without_tax} {* l s='(Tax excl.)' mod='supercheckout' *}
 							    {else}
-								    {convertPrice price=$option.total_price_with_tax} {l s='(Tax incl.)' mod='supercheckout'}
+								    {convertPrice price=$option.total_price_with_tax} {* l s='(Tax incl.)' mod='supercheckout' *}
 							    {/if}
 							{else}
 							    {convertPrice price=$option.total_price_without_tax}

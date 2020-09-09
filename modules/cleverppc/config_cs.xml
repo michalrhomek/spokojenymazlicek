@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cleverppc</name>
+	<displayName><![CDATA[Ads on Google (Google Shopping + Dynamic Remarketing)]]></displayName>
+	<version><![CDATA[1.4.0]]></version>
+	<description><![CDATA[Get your Google Ads campaigns (Search, Display, Dynamic Remarketing and Google Shopping) 
+            all in one module! In addition, if your account complies with Google&rsquo;s requirements, 
+            you will receive a promotional code for up to 120&euro; to spend on your campaigns!]]></description>
+	<author><![CDATA[Clever Ecommerce]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall? 
+            You will lose all your Clever Google Adwords campaigns.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

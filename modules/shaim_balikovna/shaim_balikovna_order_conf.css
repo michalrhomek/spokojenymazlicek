@@ -1,0 +1,22 @@
+#shaim_balikovna_map {
+    height: 300px;
+    margin-top: 10px;
+}
+
+#shaim_balikovna_map IMG {
+    max-width: initial;
+}
+
+#oteviraci_doba_mobil {
+    margin-top: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .prazdno {
+        display: none;
+    }
+}

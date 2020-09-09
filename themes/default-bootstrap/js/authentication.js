@@ -80,7 +80,7 @@ function submitFunction()
 		},
 		error: function(XMLHttpRequest, textStatus, errorThrown)
 		{
-			error = "TECHNICAL ERROR: unable to load form.\n\nDetails:\nError thrown: " + XMLHttpRequest + "\n" + 'Text status: ' + textStatus;
+			error = "TECHNICAL ERROR: unable to load form.\n\nDetails:\nError thrown: " + errorThrown + "\n" + 'Text status: ' + textStatus;
 			if (!!$.prototype.fancybox)
 			{
 				$.fancybox.open([

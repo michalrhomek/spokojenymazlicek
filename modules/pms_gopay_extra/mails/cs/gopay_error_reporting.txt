@@ -1,0 +1,11 @@
+	Dobrý den Administrátore,
+
+	Hlášení chyb z vašeho GoPayAPI modulu
+
+	Zákazníkovi došlo k problému s modulem GoPayAPI, viz zpráva:
+
+	{logs}
+	
+	{orders}
+
+	{shop_url} powered by PrestaShop™

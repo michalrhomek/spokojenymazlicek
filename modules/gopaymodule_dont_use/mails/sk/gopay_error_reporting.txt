@@ -1,0 +1,11 @@
+        Dobrý deň administrátor,
+
+        Hlásenie chýb z vášho GoPayAPI modulu
+
+        Zákazníkovi došlo k problému s modulom GoPayAPI, pozri správu:
+
+        {logs}
+		
+		{orders}
+
+        {shop_url} provido por PrestaShop™

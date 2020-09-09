@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 global $_MODULE;
 $_MODULE = array();
@@ -67,15 +67,15 @@ $_MODULE['<{add_in_store}default-bootstrap>payment_execution_03ab340b3f99e03cff9
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_3601146c4e948c32b6424d2c0a7f0118'] = 'Cena';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_3a5199ec2407f4b2f90496072ea8f006'] = 'Celkem za produkty (bez DPH):';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_543ae6adeb524f98cc7d3c816a1ec1e3'] = 'Celkem za produkty:';
-$_MODULE['<{add_in_store}default-bootstrap>payment_execution_29cfbfc41066134782f966beefd63a4e'] = 'Celkem za produkty (s DPH):';
-$_MODULE['<{add_in_store}default-bootstrap>payment_execution_28e014bf2ccc53bc1a8042ca57ca6645'] = 'Celkem slevové kupóny (s DPH):';
+$_MODULE['<{add_in_store}default-bootstrap>payment_execution_29cfbfc41066134782f966beefd63a4e'] = 'Celkem za produkty:';
+$_MODULE['<{add_in_store}default-bootstrap>payment_execution_28e014bf2ccc53bc1a8042ca57ca6645'] = 'Celkem slevové kupóny:';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_4e59b98d7fa1d964bfd9841ad5c34980'] = 'Celkem slevové kupóny (bez DPH):';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_2633d6725607d13e80f5e30514b91fbe'] = 'Celkem slevové kupóny:';
-$_MODULE['<{add_in_store}default-bootstrap>payment_execution_68c1f7726dbf6e8c073350b2fb3a1604'] = 'Celkem za dárkové balení (s DPH):';
+$_MODULE['<{add_in_store}default-bootstrap>payment_execution_68c1f7726dbf6e8c073350b2fb3a1604'] = 'Celkem za dárkové balení:';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_0559e7888ca7513e71dad1c954a4b44d'] = 'Celkem za dárkové balení:';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_9a7dfcdac1fa244d3ddb36a9c0662c9e'] = 'Celkem za dopravu (bez DPH):';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_691b338fa68b3c177c6ebbc745624c6a'] = 'Celkem za dopravu:';
-$_MODULE['<{add_in_store}default-bootstrap>payment_execution_1d4c9008fd49770971ffc2e8f32df870'] = 'Celkem za dopravu (s DPH):';
+$_MODULE['<{add_in_store}default-bootstrap>payment_execution_1d4c9008fd49770971ffc2e8f32df870'] = 'Celkem za dopravu:';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_f7bf0110b8a7f32f448b77b63b29d5b0'] = 'Celková cena objednávky:';
 $_MODULE['<{add_in_store}default-bootstrap>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Další metody platby';
 $_MODULE['<{add_in_store}default-bootstrap>payment_return_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Vaše objednávka';

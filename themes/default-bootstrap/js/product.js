@@ -588,8 +588,11 @@ function updateDisplay()
 
 		//display that the product is unavailable with theses attributes
 		if (!selectedCombination['unavailable'])
-		{
-			$('#availability_value').text(doesntExistNoMore + (globalQuantity > 0 ? ' ' + doesntExistNoMoreBut : ''));
+		{	
+			// Old definition autoremove text in product detail
+			// $('#availability_value').text(doesntExistNoMore + (globalQuantity > 0 ? ' ' + doesntExistNoMoreBut : ''));
+
+			$('#availability_value').text(availableLaterValue);
 			if (!allowBuyWhenOutOfStock)
 				$('#availability_value').removeClass('label-success').addClass('label-warning');
 		}
